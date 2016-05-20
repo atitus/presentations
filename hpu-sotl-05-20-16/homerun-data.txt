@@ -1,0 +1,1293 @@
+05/18/16	Video	View	Morrison, Logan	TB	Dickey, R.A.	TOR	4	Rogers Centr...	PL	444	110.0	23.7	82.9	85	30
+05/18/16	Video	View	Hosmer, Eric	KC	Wright, Steven	BOS	1	Kauffman Sta...	PL	440	109.8	21.7	87.7	74	28
+05/18/16	Video	View	Davis, Khris	OAK	Perez, Martin	TEX	6	Oakland-Alam...	ND	438	107.5	24.7	95.5	87	30
+05/18/16	Video	View	Encarnacion, Edwin	TOR	Ramirez, Erasmo	TB	8	Rogers Centr...	PL	437	106.3	27.6	95.1	105	30
+05/18/16	Video	View	Flowers, Tyler	ATL	Liriano, Francisco	PIT	6	PNC Park	PL	429	106.0	23.7	88.3	83	27
+05/18/16	Video	View	Perez, Salvador	KC	Price, David	BOS	4	Kauffman Sta...	PL	429	107.3	22.9	94.4	77	28
+05/18/16	Video	View	Betts, Mookie	BOS	Volquez, Edinson	KC	3	Kauffman Sta...	PL	427	106.8	29.1	105.1	105	30
+05/18/16	Video	View	Kang, Jung Ho	PIT	Vizcaino, Arodys	ATL	9	PNC Park	PL	424	108.7	26.0	107.3	86	30
+05/18/16	Video	View	Bradley Jr., Jackie	BOS	Volquez, Edinson	KC	2	Kauffman Sta...	JE	419	104.9	24.1	95.5	79	26
+05/18/16	Video	View	Goeddel, Tyler	PHI	Urena, Jose	MIA	8	Citizens Ban...	PL	418	107.1	21.7	95.1	73	25
+05/18/16	Video	View	Bruce, Jay	CIN	Manship, Jeff	CLE	8	Great Americ...	PL	416	104.3	24.2	85.0	77	22
+05/18/16	Video	View	Gardner, Brett	NYY	Miller, Shelby	ARI	1	Chase Field	ND	416	105.5	28.4	72.2	94	30
+05/18/16	Video	View	Lindor, Francisco	CLE	Sampson, Keyvius	CIN	12	Great Americ...	JE	416	107.7	20.4	87.8	63	20
+05/18/16	Video	View	Saunders, Michael	TOR	Odorizzi, Jake	TB	5	Rogers Centr...	ND	415	108.9	26.0	67.3	80	30
+05/18/16	Video	View	Young, Chris	BOS	Kennedy, Ian	KC	5	Kauffman Sta...	PL	412	104.5	29.6	107.5	100	30
+05/18/16	Video	View	Rasmus, Colby	HOU	Latos, Mat	CHW	5	U.S. Cellula...	ND	412	105.2	29.3	72.7	101	30
+05/18/16	Video	View	Kiermaier, Kevin	TB	Dickey, R.A.	TOR	6	Rogers Centr...	ND	411	106.3	31.2	67.6	110	30
+05/18/16	Video	View	Trout, Mike	LAA	Bolsinger, Mike	LAD	1	Angel Stadiu...	ND	411	108.7	27.9	123.4	79	30
+05/18/16	Video	View	Trumbo, Mark	BAL	Walker, Taijuan	SEA	2	Oriole Park ...	ND	408	109.6	25.8	115.7	79	30
+05/18/16	Video	View	Castro, Jason	HOU	Latos, Mat	CHW	6	U.S. Cellula...	ND	408	108.8	27.5	60.3	83	30
+05/18/16	Video	View	Cespedes, Yoenis	NYM	Gonzalez, Gio	WSH	4	Citi Field	PL	407	105.8	26.2	109.0	79	30
+05/18/16	Video	View	Davis, Rajai	CLE	Finnegan, Brandon	CIN	3	Great Americ...	PL	406	100.5	32.6	102.7	110	24
+05/18/16	Video	View	Jennings, Desmond	TB	Dickey, R.A.	TOR	4	Rogers Centr...	ND	397	111.7	23.0	119.6	61	30
+05/18/16	Video	View	Davis, Rajai	CLE	Cingrani, Tony	CIN	9	Great Americ...	PL	391	99.7	31.5	107.4	102	27
+05/18/16	Video	View	Owings, Chris	ARI	Miller, Andrew	NYY	8	Chase Field	PL	386	101.5	33.8	114.6	111	30
+05/18/16	Video	View	Suarez, Eugenio	CIN	McAllister, Zach	CLE	6	Great Americ...	JE	384	104.5	23.1	73.6	60	19
+05/18/16	Video	View	Paredes, Jimmy	TOR	Odorizzi, Jake	TB	2	Rogers Centr...	PL	377	100.7	27.2	111.9	75	26
+05/18/16	Video	View	Martin, Leonys	SEA	Tillman, Chris	BAL	3	Oriole Park ...	JE	377	105.6	24.3	62.9	62	29
+05/18/16	Video	View	Kinsler, Ian	DET	Rogers, Taylor	MIN	6	Comerica Par...	PL	368	100.0	37.0	107.8	135	20
+05/18/16	Video	View	Wieters, Matt	BAL	Walker, Taijuan	SEA	2	Oriole Park ...	PL	362	97.3	31.4	62.9	87	26
+05/18/16	Video	View	Pence, Hunter	SF	Pomeranz, Drew	SD	4	PETCO Park	JE	359	97.7	35.7	69.6	120	22
+05/18/16	Video	View	Bruce, Jay	CIN	Clevinger, Mike	CLE	4	Great Americ...	JE/L	357	92.9	34.2	69.1	94	1
+05/17/16	Video	View	Valencia, Danny	OAK	Hamels, Cole	TEX	2	Oakland-Alam...	ND	447	115.2	26.1	114.0	88	30
+05/17/16	Video	View	Crawford, Brandon	SF	Rea, Colin	SD	2	PETCO Park	PL	434	107.4	24.5	84.3	87	30
+05/17/16	Video	View	Abreu, Jose	CHW	Keuchel, Dallas	HOU	4	U.S. Cellula...	PL	430	106.2	24.0	87.7	84	27
+05/17/16	Video	View	Beltre, Adrian	TEX	Hahn, Jesse	OAK	4	Oakland-Alam...	PL	429	109.4	20.8	93.1	68	26
+05/17/16	Video	View	Castro, Starlin	NYY	Greinke, Zack	ARI	2	Chase Field	PL	424	104.5	32.3	98.2	127	30
+05/17/16	Video	View	Hosmer, Eric	KC	Porcello, Rick	BOS	3	Kauffman Sta...	JE	420	107.6	21.7	84.4	69	24
+05/17/16	Video	View	Lucroy, Jonathan	MIL	Hendricks, Kyle	CHC	4	Miller Park	PL	418	105.2	28.4	104.5	98	30
+05/17/16	Video	View	Pederson, Joc	LAD	Achter, A.J.	LAA	8	Dodger Stadi...	PL	417	102.1	28.7	95.1	102	20
+05/17/16	Video	View	Bautista, Jose	TOR	Archer, Chris	TB	1	Rogers Centr...	JE	416	102.9	25.4	90.4	86	22
+05/17/16	Video	View	Orlando, Paulo	KC	Uehara, Koji	BOS	8	Kauffman Sta...	PL	414	106.9	29.7	112.0	101	30
+05/17/16	Video	View	Lamb, Jake	ARI	Pineda, Michael	NYY	5	Chase Field	PL	412	102.9	26.6	80.6	86	28
+05/17/16	Video	View	Davis, Khris	OAK	Hamels, Cole	TEX	6	Oakland-Alam...	JE	411	105.5	22.7	97.4	70	21
+05/17/16	Video	View	Davis, Khris	OAK	Hamels, Cole	TEX	2	Oakland-Alam...	PL	408	111.4	23.3	114.3	65	30
+05/17/16	Video	View	Mazara, Nomar	TEX	Hahn, Jesse	OAK	4	Oakland-Alam...	JE	408	104.1	22.5	86.7	70	9
+05/17/16	Video	View	Seager, Corey	LAD	Weaver, Jered	LAA	7	Dodger Stadi...	ND	407	107.1	28.8	59.2	85	30
+05/17/16	Video	View	Davis, Khris	OAK	Tolleson, Shawn	TEX	9	Oakland-Alam...	PL	404	105.4	25.0	105.4	76	30
+05/17/16	Video	View	Smith, Mallex	ATL	Nicasio, Juan	PIT	3	PNC Park	PL	403	105.1	26.5	70.9	80	30
+05/17/16	Video	View	Desmond, Ian	TEX	Madson, Ryan	OAK	9	Oakland-Alam...	PL	400	102.6	27.1	104.2	86	30
+05/17/16	Video	View	Sano, Miguel	MIN	Pelfrey, Mike	DET	6	Comerica Par...	PL	395	101.9	33.8	76.9	127	29
+05/17/16	Video	View	Cruz, Nelson	SEA	Matusz, Brian	BAL	6	Oriole Park ...	PL	394	103.9	26.4	109.5	78	30
+05/17/16	Video	View	Seager, Kyle	SEA	Matusz, Brian	BAL	5	Oriole Park ...	JE	393	100.8	27.0	78.6	86	25
+05/17/16	Video	View	Mauer, Joe	MIN	Pelfrey, Mike	DET	5	Comerica Par...	ND	392	103.7	30.1	62.8	92	30
+05/17/16	Video	View	White, Tyler	HOU	Rodon, Carlos	CHW	4	U.S. Cellula...	JE	390	100.7	25.8	101.5	79	11
+05/17/16	Video	View	Heyward, Jason	CHC	Anderson, Chase	MIL	9	Miller Park	JE	390	98.6	28.9	80.5	92	10
+05/17/16	Video	View	Shaw, Travis	BOS	Ventura, Yordano	KC	6	Kauffman Sta...	JE	389	101.6	34.5	75.3	128	28
+05/17/16	Video	View	Pederson, Joc	LAD	Weaver, Jered	LAA	4	Dodger Stadi...	PL	381	98.4	35.4	71.2	116	26
+05/17/16	Video	View	Kemp, Matt	SD	Bumgarner, Madison	SF	9	PETCO Park	PL	380	105.4	35.6	115.4	135	30
+05/17/16	Video	View	White, Tyler	HOU	Rodon, Carlos	CHW	6	U.S. Cellula...	JE	378	101.1	24.6	104.6	68	9
+05/17/16	Video	View	Motter, Taylor	TB	Storen, Drew	TOR	9	Rogers Centr...	PL	378	98.8	29.9	109.2	90	26
+05/17/16	Video	View	Martinez, J.D.	DET	May, Trevor	MIN	7	Comerica Par...	PL	377	98.3	30.1	75.9	97	26
+05/17/16	Video	View	Bryant, Kris	CHC	Anderson, Chase	MIL	9	Miller Park	PL	374	99.9	34.5	114.2	113	30
+05/17/16	Video	View	Kinsler, Ian	DET	May, Trevor	MIN	7	Comerica Par...	PL	372	99.8	34.2	112.3	114	30
+05/17/16	Video	View	Gattis, Evan	HOU	Albers, Matt	CHW	11	U.S. Cellula...	PL	371	107.0	22.9	120.0	55	24
+05/17/16	Video	View	Conforto, Michael	NYM	Scherzer, Max	WSH	3	Citi Field	JE	368	100.3	27.3	65.2	74	26
+05/17/16	Video	View	Granderson, Curtis	NYM	Scherzer, Max	WSH	1	Citi Field	PL	359	99.1	36.3	67.3	124	25
+05/17/16	Video	View	Joseph, Tommy	PHI	Chen, Wei-Yin	MIA	2	Citizens Ban...	JE	356	105.5	23.3	127.3	53	27
+05/17/16	Video	View	Smith, Mallex	ATL	Caminero, Arquimedes	PIT	7	PNC Park	JE	350	95.1	34.7	64.4	102	19
+05/16/16	Video	View	Ozuna, Marcell	MIA	Eickhoff, Jerad	PHI	2	Citizens Ban...	ND	434	108.2	28.7	100.4	115	30
+05/16/16	Video	View	Lamb, Jake	ARI	Green, Chad	NYY	5	Chase Field	PL	426	104.6	28.9	79.1	102	29
+05/16/16	Video	View	Thompson, Trayce	LAD	Shoemaker, Matt	LAA	4	Dodger Stadi...	PL	415	103.4	27.2	97.3	97	30
+05/16/16	Video	View	Johnson, Kelly	ATL	Luebke, Cory	PIT	8	PNC Park	JE	414	103.8	23.8	86.4	81	20
+05/16/16	Video	View	Beckham, Tim	TB	Happ, J.A.	TOR	2	Rogers Centr...	JE	410	101.2	27.5	86.3	94	14
+05/16/16	Video	View	Thompson, Trayce	LAD	Morin, Mike	LAA	8	Dodger Stadi...	PL	408	102.2	29.9	100.2	108	29
+05/16/16	Video	View	Bour, Justin	MIA	Eickhoff, Jerad	PHI	6	Citizens Ban...	JE	407	102.1	25.4	95.6	83	17
+05/16/16	Video	View	Jennings, Desmond	TB	Chavez, Jesse	TOR	9	Rogers Centr...	ND	407	106.1	32.7	113.1	118	30
+05/16/16	Video	View	Semien, Marcus	OAK	Jackson, Luke	TEX	7	Oakland-Alam...	JE	407	100.7	28.0	90.1	97	15
+05/16/16	Video	View	Francoeur, Jeff	ATL	Niese, Jonathon	PIT	6	PNC Park	PL	406	107.0	27.7	114.8	86	30
+05/16/16	Video	View	Goldschmidt, Paul	ARI	Green, Chad	NYY	1	Chase Field	ND	406	105.7	29.3	116.3	90	30
+05/16/16	Video	View	Castellanos, Nick	DET	Dean, Pat	MIN	7	Comerica Par...	JE	398	110.1	20.7	104.1	56	26
+05/16/16	Video	View	Suarez, Eugenio	CIN	Anderson, Cody	CLE	3	Progressive ...	PL	396	101.1	27.4	83.8	101	21
+05/16/16	Video	View	Suzuki, Kurt	MIN	Zimmermann, Jordan	DET	2	Comerica Par...	PL	394	101.6	26.5	103.7	80	26
+05/16/16	Video	View	Kinsler, Ian	DET	Berrios, Jose	MIN	1	Comerica Par...	PL	390	105.2	26.1	115.6	72	30
+05/16/16	Video	View	Gomes, Yan	CLE	Somsen, Layne	CIN	6	Progressive ...	JE	390	101.1	24.6	80.7	78	11
+05/16/16	Video	View	Pearce, Steve	TB	Happ, J.A.	TOR	1	Rogers Centr...	PL	389	101.4	28.5	109.0	86	30
+05/16/16	Video	View	Martinez, J.D.	DET	Pressly, Ryan	MIN	8	Comerica Par...	PL	388	104.2	27.7	117.8	78	30
+05/16/16	Video	View	Sano, Miguel	MIN	Zimmermann, Jordan	DET	3	Comerica Par...	PL	387	100.7	35.8	113.5	119	29
+05/16/16	Video	View	Duvall, Adam	CIN	Anderson, Cody	CLE	2	Progressive ...	PL	386	102.8	30.1	106.6	109	30
+05/16/16	Video	View	Byrd, Marlon	CLE	Somsen, Layne	CIN	6	Progressive ...	PL	381	101.6	28.5	111.0	89	30
+05/16/16	Video	View	Joyce, Matt	PIT	Ogando, Alexi	ATL	7	PNC Park	PL	366	98.2	32.6	64.7	98	28
+05/16/16	Video	View	Casali, Curt	TB	Antolin, Dustin	TOR	3	Rogers Centr...	JE	341	94.5	31.1	122.0	77	7
+05/15/16	Video	View	Carter, Chris	MIL	Vargas, Cesar	SD	3	Miller Park	PL	443	107.6	25.6	85.8	95	30
+05/15/16	Video	View	Valbuena, Luis	HOU	O'Sullivan, Sean	BOS	2	Fenway Park	ND	442	107.2	30.2	72.2	100	30
+05/15/16	Video	View	Lucroy, Jonathan	MIL	Vargas, Cesar	SD	5	Miller Park	PL	435	105.3	27.6	91.4	104	29
+05/15/16	Video	View	Valencia, Danny	OAK	Geltz, Steven	TB	9	Tropicana Fi...	PL	434	106.6	28.9	99.3	111	30
+05/15/16	Video	View	Bogaerts, Xander	BOS	Devenski, Chris	HOU	2	Fenway Park	ND	434	105.6	31.0	104.8	118	30
+05/15/16	Video	View	Cespedes, Yoenis	NYM	Chatwood, Tyler	COL	2	Coors Field	PL	431	104.9	26.5	82.4	88	29
+05/15/16	Video	View	Valencia, Danny	OAK	Moore, Matt	TB	5	Tropicana Fi...	ND	429	112.8	23.8	109.5	74	30
+05/15/16	Video	View	Gonzalez, Carlos	COL	deGrom, Jacob	NYM	6	Coors Field	JE	425	102.6	28.6	96.4	96	27
+05/15/16	Video	View	Valencia, Danny	OAK	Moore, Matt	TB	1	Tropicana Fi...	ND	425	113.4	24.7	115.8	75	30
+05/15/16	Video	View	Morales, Kendrys	KC	Grilli, Jason	ATL	13	Kauffman Sta...	JE	420	102.5	28.2	89.8	101	26
+05/15/16	Video	View	Suarez, Eugenio	CIN	Morgan, Adam	PHI	4	Citizens Ban...	JE	420	103.5	26.6	93.9	97	26
+05/15/16	Video	View	Seager, Corey	LAD	Siegrist, Kevin	STL	8	Dodger Stadi...	PL	419	107.9	20.6	86.1	69	20
+05/15/16	Video	View	Longoria, Evan	TB	Gray, Sonny	OAK	5	Tropicana Fi...	PL	417	106.2	34.7	97.4	149	30
+05/15/16	Video	View	Martinez, J.D.	DET	O'Day, Darren	BAL	8	Oriole Park ...	PL	413	99.7	32.1	98.7	111	3
+05/15/16	Video	View	Raburn, Ryan	COL	Henderson, Jim	NYM	7	Coors Field	PL	412	101.2	29.4	78.8	95	26
+05/15/16	Video	View	Eaton, Adam	CHW	Tanaka, Masahiro	NYY	3	Yankee Stadi...	PL/L	411	95.9	38.7	77.4	119	0
+05/15/16	Video	View	Desmond, Ian	TEX	Chavez, Jesse	TOR	7	Globe Life P...	PL	410	104.9	25.2	102.5	79	30
+05/15/16	Video	View	Beltre, Adrian	TEX	Sanchez, Aaron	TOR	6	Globe Life P...	JE	410	101.0	29.1	93.4	102	18
+05/15/16	Video	View	Guyer, Brandon	TB	Gray, Sonny	OAK	1	Tropicana Fi...	PL	410	102.9	27.9	100.9	94	30
+05/15/16	Video	View	Polanco, Jorge	MIN	Bauer, Trevor	CLE	7	Progressive ...	PL	406	103.4	23.0	85.9	69	14
+05/15/16	Video	View	Machado, Manny	BAL	Fulmer, Michael	DET	5	Oriole Park ...	JE	400	104.4	22.4	82.9	63	18
+05/15/16	Video	View	Brown, Trevor	SF	De La Rosa, Rubby	ARI	3	Chase Field	JE	396	106.3	22.8	104.9	64	27
+05/15/16	Video	View	Wallace, Brett	SD	Davies, Zach	MIL	7	Miller Park	JE	394	105.0	21.0	97.1	59	2
+05/15/16	Video	View	Kipnis, Jason	CLE	May, Trevor	MIN	8	Progressive ...	ND	391	102.2	36.8	60.3	119	30
+05/15/16	Video	View	Carpenter, Matt	STL	Wood, Alex	LAD	3	Dodger Stadi...	JE	384	99.0	27.0	82.1	91	16
+05/15/16	Video	View	Kang, Jung Ho	PIT	Rondon, Hector	CHC	9	Wrigley Fiel...	PL	384	97.4	30.4	98.5	101	3
+05/15/16	Video	View	Cabrera, Miguel	DET	O'Day, Darren	BAL	8	Oriole Park ...	JE	384	108.3	20.3	105.8	51	1
+05/15/16	Video	View	Coghlan, Chris	OAK	Ramirez, Erasmo	TB	7	Tropicana Fi...	JE	384	98.4	29.7	103.6	93	18
+05/15/16	Video	View	Guyer, Brandon	TB	Gray, Sonny	OAK	2	Tropicana Fi...	PL	382	103.2	33.7	110.2	124	30
+05/15/16	Video	View	Kinsler, Ian	DET	Gausman, Kevin	BAL	4	Oriole Park ...	JE	379	101.8	25.6	112.0	65	16
+05/15/16	Video	View	Correa, Carlos	HOU	O'Sullivan, Sean	BOS	3	Fenway Park	PL	378	95.2	35.5	110.7	105	1
+05/15/16	Video	View	Stanton, Giancarlo	MIA	Ross, Joe	WSH	6	Nationals Pa...	PL	377	97.6	33.7	67.0	100	23
+05/15/16	Video	View	Beltran, Carlos	NYY	Duke, Zach	CHW	6	Yankee Stadi...	PL	373	92.5	33.6	122.8	74	0
+05/15/16	Video	View	Seager, Corey	LAD	Leake, Mike	STL	3	Dodger Stadi...	JE	371	100.3	29.8	119.2	86	30
+05/15/16	Video	View	Zimmerman, Ryan	WSH	Fernandez, Jose	MIA	4	Nationals Pa...	ITP/L	363	91.8	30.7	77.8	77	0
+05/15/16	Video	View	McCann, Brian	NYY	Jones, Nate	CHW	8	Yankee Stadi...	PL	356	97.0	30.2	51.3	70	20
+05/14/16	Video	View	Cabrera, Miguel	DET	Wright, Mike	BAL	6	Oriole Park ...	ND	464	110.7	26.3	99.4	94	30
+05/14/16	Video	View	Correa, Carlos	HOU	Buchholz, Clay	BOS	1	Fenway Park	ND	454	109.8	29.2	105.3	107	30
+05/14/16	Video	View	Hazelbaker, Jeremy	STL	Kazmir, Scott	LAD	9	Dodger Stadi...	ND	441	114.6	22.4	74.5	69	30
+05/14/16	Video	View	Upton Jr., Melvin	SD	Capuano, Chris	MIL	12	Miller Park	PL	440	111.7	19.9	90.8	67	28
+05/14/16	Video	View	Bour, Justin	MIA	Roark, Tanner	WSH	3	Nationals Pa...	PL	433	105.5	25.5	93.2	89	26
+05/14/16	Video	View	Yelich, Christian	MIA	Strasburg, Stephen	WSH	1	Nationals Pa...	PL	429	103.5	27.1	87.6	90	27
+05/14/16	Video	View	Ortiz, David	BOS	Mchugh, Collin	HOU	3	Fenway Park	ND	429	106.0	26.5	81.2	92	30
+05/14/16	Video	View	Walker, Neil	NYM	Butler, Eddie	COL	4	Coors Field	PL	426	106.8	25.6	77.3	83	29
+05/14/16	Video	View	Schoop, Jonathan	BAL	Lowe, Mark	DET	8	Oriole Park ...	ND	424	114.9	22.1	110.4	65	30
+05/14/16	Video	View	Wilson, Bobby	TEX	Estrada, Marco	TOR	2	Globe Life P...	PL	420	105.0	24.9	97.5	82	30
+05/14/16	Video	View	Miller, Brad	TB	Graveman, Kendall	OAK	3	Tropicana Fi...	PL	412	110.2	20.6	80.2	61	28
+05/14/16	Video	View	Kemp, Matt	SD	Peralta, Wily	MIL	5	Miller Park	PL	412	103.5	25.7	81.7	84	28
+05/14/16	Video	View	Seager, Corey	LAD	Kiekhefer, Dean	STL	7	Dodger Stadi...	JE	410	100.1	28.3	88.4	90	5
+05/14/16	Video	View	Smoak, Justin	TOR	Tolleson, Shawn	TEX	9	Globe Life P...	PL	405	106.6	24.1	74.2	71	29
+05/14/16	Video	View	Schoop, Jonathan	BAL	Sanchez, Anibal	DET	7	Oriole Park ...	PL	403	113.2	21.2	111.6	54	30
+05/14/16	Video	View	Norris, Derek	SD	Capuano, Chris	MIL	12	Miller Park	PL	403	104.3	31.2	112.0	105	30
+05/14/16	Video	View	Lind, Adam	SEA	Chacin, Jhoulys	LAA	2	Safeco Field	JE	402	101.6	24.7	94.6	78	5
+05/14/16	Video	View	Ramos, Wilson	WSH	Wittgren, Nick	MIA	6	Nationals Pa...	JE	398	108.5	19.2	97.0	54	2
+05/14/16	Video	View	Gonzalez, Adrian	LAD	Martinez, Carlos	STL	4	Dodger Stadi...	PL	398	102.6	24.7	102.9	74	10
+05/14/16	Video	View	Pujols, Albert	LAA	Cishek, Steve	SEA	9	Safeco Field	ND	397	108.7	26.0	122.3	72	30
+05/14/16	Video	View	Stubbs, Drew	TEX	Floyd, Gavin	TOR	10	Globe Life P...	PL	396	101.6	28.5	105.8	90	30
+05/14/16	Video	View	Frazier, Todd	CHW	Nova, Ivan	NYY	4	Yankee Stadi...	JE	395	103.5	24.4	103.1	71	25
+05/14/16	Video	View	Trout, Mike	LAA	Peralta, Joel	SEA	7	Safeco Field	ND	395	105.2	27.1	114.6	80	30
+05/14/16	Video	View	Springer, George	HOU	Buchholz, Clay	BOS	2	Fenway Park	JE	389	100.7	36.4	100.1	139	5
+05/14/16	Video	View	Wieters, Matt	BAL	Sanchez, Anibal	DET	6	Oriole Park ...	ND	389	96.1	37.4	74.3	116	27
+05/14/16	Video	View	Lucroy, Jonathan	MIL	Villanueva, Carlos	SD	12	Miller Park	PL	388	98.8	32.9	100.7	115	13
+05/14/16	Video	View	Pence, Hunter	SF	Corbin, Patrick	ARI	4	Chase Field	JE	383	104.4	22.9	106.3	60	15
+05/14/16	Video	View	Goins, Ryan	TOR	Lewis, Colby	TEX	3	Globe Life P...	PL	377	98.8	35.8	68.8	119	23
+05/14/16	Video	View	Rizzo, Anthony	CHC	Locke, Jeff	PIT	4	Wrigley Fiel...	PL/L	375	97.3	41.2	70.9	138	0
+05/14/16	Video	View	Myers, Wil	SD	Peralta, Wily	MIL	5	Miller Park	PL	373	99.2	27.3	70.3	75	20
+05/14/16	Video	View	Russell, Addison	CHC	Locke, Jeff	PIT	6	Wrigley Fiel...	JE	370	97.0	31.2	109.5	92	17
+05/14/16	Video	View	Tulowitzki, Troy	TOR	Tolleson, Shawn	TEX	9	Globe Life P...	JE	369	101.1	28.0	120.3	73	30
+05/14/16	Video	View	Jones, Adam	BAL	Verhagen, Drew	DET	8	Oriole Park ...	JE	367	97.5	33.2	113.4	102	22
+05/14/16	Video	View	Gomes, Yan	CLE	Jepsen, Kevin	MIN	9	Progressive ...	JE	363	104.2	30.1	101.8	131	30
+05/14/16	Video	View	Centeno, Juan	MIN	Kluber, Corey	CLE	5	Progressive ...	PL/L	360	92.2	35.1	64.8	89	1
+05/14/16	Video	View	Herrera, Odubel	PHI	Ramirez, J.C.	CIN	7	Citizens Ban...	JE/L	360	100.6	23.2	73.0	59	1
+05/14/16	Video	View	Calhoun, Kole	LAA	Peralta, Joel	SEA	7	Safeco Field	PL	356	96.9	29.5	63.6	78	16
+05/14/16	Video	View	Giavotella, Johnny	LAA	Iwakuma, Hisashi	SEA	7	Safeco Field	JE	345	95.9	36.7	116.0	114	13
+05/13/16	Video	View	Sano, Miguel	MIN	Tomlin, Josh	CLE	1	Progressive ...	ND	449	108.3	28.8	97.3	115	30
+05/13/16	Video	View	Shaw, Travis	BOS	Feldman, Scott	HOU	6	Fenway Park	PL	439	108.4	23.4	87.6	87	29
+05/13/16	Video	View	Park, Byung Ho	MIN	Tomlin, Josh	CLE	2	Progressive ...	ND	414	105.3	28.1	107.7	92	30
+05/13/16	Video	View	Jones, Adam	BAL	Verlander, Justin	DET	6	Oriole Park ...	PL	413	103.8	24.4	95.5	79	21
+05/13/16	Video	View	Tulowitzki, Troy	TOR	Wilhelmsen, Tom	TEX	8	Globe Life P...	JE	411	109.8	22.1	104.6	64	30
+05/13/16	Video	View	Heisey, Chris	WSH	McGowan, Dustin	MIA	8	Nationals Pa...	PL	411	102.8	29.3	100.6	103	30
+05/13/16	Video	View	Harper, Bryce	WSH	Barraclough, Kyle	MIA	7	Nationals Pa...	PL	410	104.4	28.0	74.2	93	30
+05/13/16	Video	View	Valencia, Danny	OAK	Odorizzi, Jake	TB	1	Tropicana Fi...	ND	410	106.8	30.9	115.4	105	30
+05/13/16	Video	View	Panik, Joe	SF	Miller, Shelby	ARI	6	Chase Field	ND	410	106.8	33.6	61.9	117	30
+05/13/16	Video	View	Encarnacion, Edwin	TOR	Wilhelmsen, Tom	TEX	8	Globe Life P...	ND	409	105.8	32.3	109.9	119	30
+05/13/16	Video	View	Davis, Khris	OAK	Odorizzi, Jake	TB	1	Tropicana Fi...	ND	405	109.4	26.7	122.4	77	30
+05/13/16	Video	View	Park, Byung Ho	MIN	Tomlin, Josh	CLE	3	Progressive ...	PL	403	103.1	31.8	111.4	106	30
+05/13/16	Video	View	Drew, Stephen	WSH	Morris, Bryan	MIA	6	Nationals Pa...	PL	403	103.4	29.5	71.8	97	30
+05/13/16	Video	View	Kipnis, Jason	CLE	Nolasco, Ricky	MIN	3	Progressive ...	JE/L	401	100.2	25.9	88.0	80	2
+05/13/16	Video	View	Springer, George	HOU	Barnes, Matt	BOS	6	Fenway Park	JE	401	104.5	24.5	103.7	72	29
+05/13/16	Video	View	Ross, David	CHC	Liriano, Francisco	PIT	5	Wrigley Fiel...	PL	396	98.2	29.0	97.5	87	2
+05/13/16	Video	View	Diaz, Aledmys	STL	Stripling, Ross	LAD	4	Dodger Stadi...	JE	396	100.7	26.1	100.7	78	8
+05/13/16	Video	View	Headley, Chase	NYY	Sale, Chris	CHW	2	Yankee Stadi...	PL	387	100.9	34.3	116.2	108	30
+05/13/16	Video	View	Russell, Addison	CHC	Liriano, Francisco	PIT	4	Wrigley Fiel...	PL	385	100.5	38.4	106.4	140	4
+05/13/16	Video	View	Cruz, Nelson	SEA	Tropeano, Nick	LAA	5	Safeco Field	JE	385	100.1	26.6	77.2	82	22
+05/13/16	Video	View	Gomes, Yan	CLE	Nolasco, Ricky	MIN	2	Progressive ...	PL	384	101.1	32.4	116.2	101	30
+05/13/16	Video	View	Semien, Marcus	OAK	Odorizzi, Jake	TB	4	Tropicana Fi...	JE	383	109.7	20.9	110.0	53	21
+05/13/16	Video	View	Nunez, Eduardo	MIN	Shaw, Bryan	CLE	8	Progressive ...	PL	382	98.5	33.0	110.3	104	22
+05/13/16	Video	View	Rollins, Jimmy	CHW	Severino, Luis	NYY	3	Yankee Stadi...	ND	378	100.5	35.9	60.4	115	29
+05/13/16	Video	View	Bryant, Kris	CHC	Liriano, Francisco	PIT	5	Wrigley Fiel...	JE	377	96.6	27.7	99.6	80	1
+05/13/16	Video	View	Iannetta, Chris	SEA	Mahle, Greg	LAA	7	Safeco Field	JE	373	108.7	20.8	111.9	51	13
+05/13/16	Video	View	Valencia, Danny	OAK	Eveland, Dana	TB	6	Tropicana Fi...	PL	372	97.6	29.6	71.5	86	20
+05/13/16	Video	View	McCutchen, Andrew	PIT	Cahill, Trevor	CHC	9	Wrigley Fiel...	JE/L	367	96.3	38.5	100.4	133	0
+05/13/16	Video	View	Puig, Yasiel	LAD	Lyons, Tyler	STL	6	Dodger Stadi...	JE/L	356	95.0	32.6	62.8	87	19
+05/13/16	Video	View	Cron, C.J.	LAA	Peralta, Joel	SEA	8	Safeco Field	PL	351	94.8	32.7	62.4	88	19
+05/12/16	Video	View	Grandal, Yasmani	LAD	Colon, Bartolo	NYM	1	Dodger Stadi...	ND	446	109.4	23.4	86.4	87	29
+05/12/16	Video	View	Gordon, Alex	KC	Eovaldi, Nathan	NYY	4	Yankee Stadi...	ND	428	105.0	29.7	80.8	111	30
+05/12/16	Video	View	Utley, Chase	LAD	Colon, Bartolo	NYM	2	Dodger Stadi...	ND	419	107.1	25.7	75.3	83	30
+05/12/16	Video	View	Holliday, Matt	STL	Weaver, Jered	LAA	5	Angel Stadiu...	JE	415	105.6	21.9	90.2	68	21
+05/12/16	Video	View	Upton Jr., Melvin	SD	Thornburg, Tyler	MIL	9	Miller Park	PL	404	102.2	24.7	96.5	77	12
+05/12/16	Video	View	Panik, Joe	SF	Greinke, Zack	ARI	5	Chase Field	PL	404	106.8	26.6	64.6	77	30
+05/12/16	N/A	View	Pujols, Albert	LAA	Maness, Seth	STL	9	Angel Stadiu...	JE	397	100.7	25.0	95.0	78	2
+05/12/16	Video	View	Nava, Daniel	LAA	Wainwright, Adam	STL	4	Angel Stadiu...	PL	388	99.5	35.8	77.1	128	9
+05/12/16	Video	View	Saltalamacchia, Jarrod	DET	Jimenez, Ubaldo	BAL	4	Oriole Park ...	ND	385	104.8	28.1	55.4	76	30
+05/12/16	Video	View	Gregorius, Didi	NYY	Kennedy, Ian	KC	4	Yankee Stadi...	PL	384	100.2	29.0	71.5	88	27
+05/12/16	Video	View	Betts, Mookie	BOS	Keuchel, Dallas	HOU	6	Fenway Park	JE	383	101.5	25.5	105.5	77	23
+05/12/16	Video	View	Holliday, Matt	STL	Weaver, Jered	LAA	4	Angel Stadiu...	JE	381	96.8	32.8	76.2	104	4
+05/12/16	Video	View	Carpenter, Matt	STL	Weaver, Jered	LAA	5	Angel Stadiu...	PL	381	101.7	29.9	58.8	82	30
+05/12/16	Video	View	Castro, Starlin	NYY	Kennedy, Ian	KC	1	Yankee Stadi...	PL	380	97.5	31.5	76.9	102	15
+05/12/16	Video	View	Bogaerts, Xander	BOS	Keuchel, Dallas	HOU	1	Fenway Park	PL	380	99.2	29.6	111.3	85	23
+05/12/16	Video	View	Galvis, Freddy	PHI	Blair, Aaron	ATL	4	Turner Field	PL	362	98.1	36.3	65.0	117	24
+05/12/16	Video	View	Headley, Chase	NYY	Kennedy, Ian	KC	2	Yankee Stadi...	PL	349	98.3	27.7	123.5	66	17
+05/11/16	Video	View	Cron, C.J.	LAA	Garcia, Jaime	STL	4	Angel Stadiu...	ND	439	108.0	23.8	95.5	83	30
+05/11/16	Video	View	Bethancourt, Christian	SD	Lackey, John	CHC	5	Wrigley Fiel...	ND	431	111.3	29.3	114.3	106	30
+05/11/16	Video	View	Kiermaier, Kevin	TB	Vincent, Nick	SEA	9	Safeco Field	PL	430	109.8	23.0	79.4	72	29
+05/11/16	Video	View	Trumbo, Mark	BAL	Hughes, Phil	MIN	2	Target Field	PL	427	105.9	27.8	98.7	104	30
+05/11/16	Video	View	Seager, Corey	LAD	Syndergaard, Noah	NYM	3	Dodger Stadi...	ND	426	108.3	23.6	79.9	78	29
+05/11/16	Video	View	Martinez, J.D.	DET	Scherzer, Max	WSH	9	Nationals Pa...	PL	421	103.8	29.4	95.8	111	29
+05/11/16	Video	View	Espinosa, Danny	WSH	Zimmermann, Jordan	DET	7	Nationals Pa...	PL	417	105.5	22.7	85.9	75	22
+05/11/16	Video	View	Perez, Salvador	KC	Pineda, Michael	NYY	1	Yankee Stadi...	ND	414	105.7	32.9	111.5	118	30
+05/11/16	Video	View	Sano, Miguel	MIN	Wilson, Tyler	BAL	2	Target Field	PL	413	103.7	30.0	99.6	113	30
+05/11/16	Video	View	Davis, Chris	BAL	Hughes, Phil	MIN	4	Target Field	ND	412	106.7	28.3	69.8	96	30
+05/11/16	Video	View	Harrison, Josh	PIT	Cingrani, Tony	CIN	8	Great Americ...	PL	412	101.6	28.2	84.2	97	20
+05/11/16	Video	View	Saunders, Michael	TOR	Casilla, Santiago	SF	9	AT&T Park	JE/L	411	99.5	28.3	91.3	84	0
+05/11/16	Video	View	Bradley Jr., Jackie	BOS	Surkamp, Eric	OAK	2	Fenway Park	PL	409	105.5	23.8	79.2	74	28
+05/11/16	Video	View	Freeman, Freddie	ATL	Eickhoff, Jerad	PHI	5	Turner Field	PL	409	102.7	28.6	77.2	95	29
+05/11/16	Video	View	Dickerson, Corey	TB	Walker, Taijuan	SEA	6	Safeco Field	JE	407	103.4	23.7	95.6	71	12
+05/11/16	Video	View	Syndergaard, Noah	NYM	Maeda, Kenta	LAD	3	Dodger Stadi...	PL	407	101.3	30.3	84.9	113	28
+05/11/16	Video	View	Lawrie, Brett	CHW	Hamels, Cole	TEX	4	Globe Life P...	JE	405	105.7	22.3	98.7	66	18
+05/11/16	Video	View	Freese, David	PIT	Simon, Alfredo	CIN	5	Great Americ...	PL	404	101.1	30.7	78.6	106	28
+05/11/16	Video	View	Cruz, Nelson	SEA	Archer, Chris	TB	3	Safeco Field	PL	403	112.3	21.0	108.6	56	30
+05/11/16	Video	View	Iannetta, Chris	SEA	Geltz, Steven	TB	11	Safeco Field	PL	403	98.6	30.5	83.3	97	10
+05/11/16	Video	View	Bradley Jr., Jackie	BOS	Neal, Zach	OAK	8	Fenway Park	PL	403	105.0	24.9	75.4	76	29
+05/11/16	Video	View	Syndergaard, Noah	NYM	Maeda, Kenta	LAD	5	Dodger Stadi...	JE	400	100.4	26.8	97.8	90	8
+05/11/16	Video	View	Blackmon, Charlie	COL	Ray, Robbie	ARI	3	Coors Field	JE	399	99.5	30.4	75.7	96	23
+05/11/16	Video	View	Arenado, Nolan	COL	Clippard, Tyler	ARI	8	Coors Field	ND	399	106.9	27.3	125.3	72	30
+05/11/16	Video	View	Grandal, Yasmani	LAD	Syndergaard, Noah	NYM	4	Dodger Stadi...	JE/L	399	100.7	24.4	87.0	78	8
+05/11/16	Video	View	Trumbo, Mark	BAL	Hughes, Phil	MIN	4	Target Field	JE/L	398	101.8	24.8	97.8	78	12
+05/11/16	Video	View	Frazier, Todd	CHW	Hamels, Cole	TEX	4	Globe Life P...	PL	390	103.4	29.3	118.1	85	30
+05/11/16	Video	View	Bour, Justin	MIA	Anderson, Chase	MIL	5	Marlins Park	JE/L	390	101.4	25.8	76.0	75	23
+05/11/16	Video	View	Howard, Ryan	PHI	Perez, Williams	ATL	5	Turner Field	PL	387	99.3	31.7	107.5	101	29
+05/11/16	Video	View	Jones, Adam	BAL	Kintzler, Brandon	MIN	9	Target Field	PL	385	105.5	27.4	122.6	76	30
+05/11/16	Video	View	Pedroia, Dustin	BOS	Dull, Ryan	OAK	4	Fenway Park	JE	383	102.4	24.3	105.3	68	12
+05/11/16	Video	View	Wallace, Brett	SD	Strop, Pedro	CHC	7	Wrigley Fiel...	PL	377	97.5	33.1	101.1	114	5
+05/11/16	Video	View	McCutchen, Andrew	PIT	Simon, Alfredo	CIN	4	Great Americ...	JE	372	102.1	24.2	69.7	61	9
+05/11/16	Video	View	Kang, Jung Ho	PIT	Simon, Alfredo	CIN	7	Great Americ...	PL	367	96.7	32.3	111.7	95	18
+05/11/16	Video	View	Beltran, Carlos	NYY	Ventura, Yordano	KC	2	Yankee Stadi...	JE	365	96.3	35.5	77.1	121	1
+05/11/16	Video	View	Gonzalez, Marwin	HOU	Anderson, Cody	CLE	16	Minute Maid ...	JE	364	105.8	22.2	64.3	53	10
+05/11/16	Video	View	Bruce, Jay	CIN	Nicasio, Juan	PIT	4	Great Americ...	PL	361	97.3	32.7	120.1	91	29
+05/11/16	Video	View	Morales, Kendrys	KC	Coke, Phil	NYY	7	Yankee Stadi...	PL	359	96.9	29.4	63.9	77	14
+05/11/16	Video	View	Iglesias, Jose	DET	Scherzer, Max	WSH	3	Nationals Pa...	JE	354	96.3	33.3	117.7	95	21
+05/11/16	Video	View	Napoli, Mike	CLE	Fister, Doug	HOU	4	Minute Maid ...	JE/L	345	97.0	25.8	114.2	61	0
+05/11/16	Video	N/A	Springer, George	HOU	Salazar, Danny	CLE	4	Minute Maid ...		0	0.0	0.0	0.0	0	0
+05/10/16	Video	View	Ramirez, Hanley	BOS	Manaea, Sean	OAK	1	Fenway Park	ND	460	113.2	22.8	96.8	82	30
+05/10/16	Video	View	Rua, Ryan	TEX	Albers, Matt	CHW	8	Globe Life P...	PL	447	113.6	19.4	91.4	66	29
+05/10/16	Video	View	Cain, Lorenzo	KC	Tanaka, Masahiro	NYY	5	Yankee Stadi...	PL	442	111.6	22.9	99.6	77	30
+05/10/16	Video	View	Jones, Adam	BAL	Berrios, Jose	MIN	5	Target Field	PL	436	108.0	27.0	97.4	108	30
+05/10/16	Video	View	Holliday, Matt	STL	Achter, A.J.	LAA	6	Angel Stadiu...	ND	434	113.1	21.7	101.6	68	30
+05/10/16	Video	View	Carpenter, Matt	STL	Achter, A.J.	LAA	6	Angel Stadiu...	ND	433	107.2	25.9	79.7	88	30
+05/10/16	Video	View	Goldschmidt, Paul	ARI	Germen, Gonzalez	COL	7	Coors Field	ND	429	106.2	31.8	110.8	110	30
+05/10/16	Video	View	Souza Jr., Steven	TB	Miley, Wade	SEA	7	Safeco Field	ND	421	106.4	27.3	106.1	92	30
+05/10/16	Video	View	Zimmerman, Ryan	WSH	Fulmer, Michael	DET	5	Nationals Pa...	PL	413	108.2	27.1	108.9	95	30
+05/10/16	Video	View	Thompson, Trayce	LAD	Robles, Hansel	NYM	9	Dodger Stadi...	PL	413	102.6	29.4	102.0	105	28
+05/10/16	Video	View	Zimmerman, Ryan	WSH	Verhagen, Drew	DET	7	Nationals Pa...	JE	407	110.6	18.9	97.0	55	10
+05/10/16	Video	View	Plouffe, Trevor	MIN	Gausman, Kevin	BAL	6	Target Field	PL	406	105.6	26.8	106.2	90	30
+05/10/16	Video	View	Grichuk, Randal	STL	Guerra, Javy	LAA	5	Angel Stadiu...	JE/L	404	99.0	29.2	90.4	96	0
+05/10/16	Video	View	Gutierrez, Franklin	SEA	Smyly, Drew	TB	1	Safeco Field	PL	401	103.7	24.6	78.4	74	26
+05/10/16	Video	View	Pearce, Steve	TB	Miley, Wade	SEA	4	Safeco Field	PL	399	102.7	27.0	105.2	84	30
+05/10/16	Video	View	Castellanos, Nick	DET	Ross, Joe	WSH	4	Nationals Pa...	PL	397	100.8	29.4	102.6	98	30
+05/10/16	Video	View	Dickerson, Alex	SD	Warren, Adam	CHC	8	Wrigley Fiel...	PL	396	102.9	25.7	75.5	78	27
+05/10/16	Video	View	Shaw, Travis	BOS	Coulombe, Daniel	OAK	5	Fenway Park	JE	394	102.2	26.2	105.1	77	26
+05/10/16	Video	View	Tulowitzki, Troy	TOR	Cain, Matt	SF	2	AT&T Park	PL	394	100.2	34.8	107.3	118	27
+05/10/16	Video	View	Cain, Lorenzo	KC	Miller, Andrew	NYY	8	Yankee Stadi...	PL	390	99.6	27.0	77.5	78	8
+05/10/16	Video	View	Freeman, Freddie	ATL	Gomez, Jeanmar	PHI	9	Turner Field	JE	388	102.3	26.5	109.4	75	30
+05/10/16	Video	View	Machado, Manny	BAL	Berrios, Jose	MIN	5	Target Field	PL	385	104.1	23.9	107.2	68	29
+05/10/16	Video	View	Cuthbert, Cheslor	KC	Tanaka, Masahiro	NYY	2	Yankee Stadi...	PL	382	99.5	37.2	112.3	123	21
+05/10/16	Video	View	Betts, Mookie	BOS	Manaea, Sean	OAK	1	Fenway Park	JE	380	104.2	24.8	114.2	65	23
+05/10/16	Video	View	Franco, Maikel	PHI	Wisler, Matt	ATL	8	Turner Field	PL	378	101.0	35.4	115.4	119	30
+05/10/16	Video	View	Desmond, Ian	TEX	Rodon, Carlos	CHW	7	Globe Life P...	JE	378	103.1	26.5	117.4	70	30
+05/10/16	Video	View	Holaday, Bryan	TEX	Rodon, Carlos	CHW	3	Globe Life P...	PL	376	100.4	30.5	118.1	87	30
+05/10/16	Video	View	Pearce, Steve	TB	Miley, Wade	SEA	2	Safeco Field	PL	371	100.7	32.3	122.1	95	30
+05/10/16	Video	View	Upton Jr., Melvin	SD	Lester, Jon	CHC	4	Wrigley Fiel...	JE	370	100.4	27.8	115.2	76	27
+05/10/16	Video	View	Carpenter, Matt	STL	Santiago, Hector	LAA	1	Angel Stadiu...	PL	365	106.6	23.4	53.5	54	28
+05/10/16	Video	View	Lee, Dae-Ho	SEA	Smyly, Drew	TB	4	Safeco Field	PL	365	99.5	26.3	67.2	67	14
+05/10/16	Video	View	Cain, Lorenzo	KC	Tanaka, Masahiro	NYY	3	Yankee Stadi...	JE	356	94.3	30.2	69.8	80	1
+05/09/16	Video	View	Lamb, Jake	ARI	Chatwood, Tyler	COL	5	Coors Field	ND	439	108.5	28.1	72.9	97	30
+05/09/16	Video	View	Hosmer, Eric	KC	Shreve, Chasen	NYY	8	Yankee Stadi...	ND	428	113.1	22.2	74.2	66	29
+05/09/16	Video	View	Gordon, Alex	KC	Nova, Ivan	NYY	2	Yankee Stadi...	JE	424	103.6	25.7	85.5	83	24
+05/09/16	Video	View	Hicks, Aaron	NYY	Young, Chris	KC	3	Yankee Stadi...	PL	417	106.0	27.0	71.1	83	30
+05/09/16	Video	View	Longoria, Evan	TB	Hernandez, Felix	SEA	5	Safeco Field	PL	417	103.6	25.0	93.7	84	20
+05/09/16	Video	View	Murphy, Daniel	WSH	Sanchez, Anibal	DET	6	Nationals Pa...	PL	416	107.6	25.9	71.9	82	30
+05/09/16	Video	View	Gardner, Brett	NYY	Young, Chris	KC	3	Yankee Stadi...	PL	406	101.1	28.9	77.0	91	26
+05/09/16	Video	View	Granderson, Curtis	NYM	Kazmir, Scott	LAD	1	Dodger Stadi...	PL/L	400	98.0	36.8	78.8	122	0
+05/09/16	Video	View	Beltran, Carlos	NYY	Young, Chris	KC	2	Yankee Stadi...	ND	398	101.6	36.0	69.4	130	24
+05/09/16	Video	View	Encarnacion, Edwin	TOR	Peavy, Jake	SF	3	AT&T Park	PL/L	396	97.9	37.4	106.4	121	3
+05/09/16	Video	View	Frazier, Todd	CHW	Ramos, Cesar	TEX	12	Globe Life P...	PL	395	103.1	30.7	110.2	102	30
+05/09/16	Video	View	Martinez, J.D.	DET	Strasburg, Stephen	WSH	5	Nationals Pa...	JE	392	109.1	20.6	103.4	54	16
+05/09/16	Video	View	Odor, Rougned	TEX	Gonzalez, Miguel	CHW	6	Globe Life P...	PL	392	107.4	24.3	64.8	65	30
+05/09/16	Video	View	Marte, Ketel	SEA	Geltz, Steven	TB	6	Safeco Field	JE	391	99.4	27.4	82.1	89	17
+05/09/16	Video	View	Plawecki, Kevin	NYM	Kazmir, Scott	LAD	2	Dodger Stadi...	PL	388	101.7	28.7	116.5	82	29
+05/09/16	Video	View	Beltran, Carlos	NYY	Young, Chris	KC	3	Yankee Stadi...	JE	385	100.3	25.3	77.9	70	2
+05/09/16	Video	View	Holt, Brock	BOS	Rodriguez, Fernando	OAK	5	Fenway Park	JE	383	104.9	23.2	72.3	61	26
+05/09/16	Video	View	Castellanos, Nick	DET	Strasburg, Stephen	WSH	1	Nationals Pa...	JE	382	105.7	23.9	113.4	63	30
+05/09/16	Video	View	Bradley Jr., Jackie	BOS	Axford, John	OAK	6	Fenway Park	JE/L	382	106.3	24.7	61.8	64	29
+05/09/16	Video	View	Cozart, Zack	CIN	Niese, Jonathon	PIT	1	Great Americ...	JE	380	103.6	23.3	106.9	63	11
+05/09/16	Video	View	Segura, Jean	ARI	Chatwood, Tyler	COL	5	Coors Field	JE	378	97.6	31.3	63.5	84	25
+05/09/16	Video	View	McCann, Brian	NYY	Young, Chris	KC	1	Yankee Stadi...	JE/L	377	94.7	38.3	76.1	122	0
+05/09/16	Video	View	Robinson, Clint	WSH	Lowe, Mark	DET	9	Nationals Pa...	JE/L	377	98.6	34.6	73.9	119	20
+05/09/16	Video	View	Frazier, Todd	CHW	Lewis, Colby	TEX	6	Globe Life P...	PL	376	102.2	28.6	122.6	76	30
+05/09/16	Video	View	Dickerson, Corey	TB	Hernandez, Felix	SEA	4	Safeco Field	JE	368	96.3	30.4	109.5	86	7
+05/09/16	Video	View	Barnhart, Tucker	CIN	Niese, Jonathon	PIT	7	Great Americ...	JE	363	100.0	25.9	113.1	68	13
+05/09/16	Video	View	Thompson, Trayce	LAD	Matz, Steven	NYM	4	Dodger Stadi...	JE	362	96.3	32.8	58.8	86	22
+05/09/16	Video	View	Davis, Khris	OAK	Buchholz, Clay	BOS	3	Fenway Park	JE/L	356	97.4	39.9	107.6	141	0
+05/09/16	Video	View	Votto, Joey	CIN	Niese, Jonathon	PIT	6	Great Americ...	PL	351	97.4	34.4	117.4	106	30
+05/08/16	Video	View	Bethancourt, Christian	SD	Harvey, Matt	NYM	5	PETCO Park	ND	447	112.2	27.6	106.2	107	30
+05/08/16	Video	View	Hosmer, Eric	KC	Tomlin, Josh	CLE	4	Progressive ...	ND	444	108.5	25.1	83.8	89	30
+05/08/16	Video	View	Ortiz, David	BOS	Severino, Luis	NYY	4	Yankee Stadi...	ND	429	105.6	27.2	79.9	92	29
+05/08/16	Video	View	Herrmann, Chris	ARI	Johnson, Jim	ATL	11	Turner Field	PL	421	104.2	28.1	79.1	96	29
+05/08/16	Video	View	Machado, Manny	BAL	Wendelken, J.B.	OAK	8	Oriole Park ...	PL	416	106.6	23.3	100.6	71	27
+05/08/16	Video	View	Baez, Javier	CHC	Treinen, Blake	WSH	13	Wrigley Fiel...	ND	416	110.0	21.0	99.7	64	29
+05/08/16	Video	View	Napoli, Mike	CLE	Volquez, Edinson	KC	4	Progressive ...	ND	414	110.4	26.3	120.0	77	30
+05/08/16	Video	View	Alvarez, Pedro	BAL	Graveman, Kendall	OAK	2	Oriole Park ...	ND	413	103.6	33.5	67.1	110	30
+05/08/16	Video	View	Duvall, Adam	CIN	Guerra, Junior	MIL	4	Great Americ...	PL	406	102.3	27.5	80.1	93	28
+05/08/16	Video	View	Miller, Brad	TB	Tropeano, Nick	LAA	3	Angel Stadiu...	PL	405	110.1	21.1	76.5	60	26
+05/08/16	Video	View	Bogaerts, Xander	BOS	Shreve, Chasen	NYY	8	Yankee Stadi...	JE	405	109.6	20.6	100.3	58	24
+05/08/16	Video	View	Hazelbaker, Jeremy	STL	Cole, Gerrit	PIT	6	Busch Stadiu...	ND	404	106.4	33.5	59.5	114	30
+05/08/16	Video	View	Machado, Manny	BAL	Graveman, Kendall	OAK	1	Oriole Park ...	JE	400	103.3	24.0	80.9	80	25
+05/08/16	Video	View	Trumbo, Mark	BAL	Graveman, Kendall	OAK	3	Oriole Park ...	PL	400	104.2	31.8	117.6	104	30
+05/08/16	Video	View	Ortiz, David	BOS	Severino, Luis	NYY	7	Yankee Stadi...	ND	400	101.9	29.4	71.0	91	30
+05/08/16	Video	View	Pederson, Joc	LAD	Estrada, Marco	TOR	7	Rogers Centr...	PL	397	101.9	32.7	75.0	118	30
+05/08/16	Video	View	Lucroy, Jonathan	MIL	Ohlendorf, Ross	CIN	8	Great Americ...	ND	397	106.2	25.9	113.5	75	30
+05/08/16	Video	View	Gardner, Brett	NYY	Wright, Steven	BOS	9	Yankee Stadi...	ND	394	109.6	23.0	65.1	62	30
+05/08/16	Video	View	Santana, Carlos	CLE	Volquez, Edinson	KC	1	Progressive ...	PL	389	100.9	36.8	74.0	133	24
+05/08/16	Video	View	Schoop, Jonathan	BAL	Graveman, Kendall	OAK	2	Oriole Park ...	JE	384	111.6	20.7	114.4	51	20
+05/08/16	Video	View	Herrmann, Chris	ARI	Foltynewicz, Mike	ATL	7	Turner Field	ND	384	101.9	33.6	57.7	102	30
+05/08/16	Video	View	Casali, Curt	TB	Tropeano, Nick	LAA	5	Angel Stadiu...	PL	383	101.0	29.1	110.9	89	30
+05/08/16	Video	View	Cano, Robinson	SEA	McHugh, Collin	HOU	4	Minute Maid ...	PL	382	101.5	29.8	63.9	87	29
+05/08/16	Video	View	Johnson, Chris	MIA	Bailey, Andrew	PHI	7	Marlins Park	PL	378	101.7	31.2	121.4	90	30
+05/08/16	Video	View	Deshields, Delino	TEX	Lowe, Mark	DET	8	Comerica Par...	JE	378	106.2	21.8	108.2	55	12
+05/08/16	Video	View	Braun, Ryan	MIL	Lamb, John	CIN	1	Great Americ...	JE	374	110.0	20.8	114.8	50	18
+05/08/16	Video	View	Perez, Hernan	MIL	Delabar, Steve	CIN	5	Great Americ...	PL	374	99.2	30.1	111.9	89	28
+05/08/16	Video	View	Cespedes, Yoenis	NYM	Cashner, Andrew	SD	3	PETCO Park	JE	373	108.4	21.3	113.6	53	17
+05/08/16	Video	View	Jaso, John	PIT	Wacha, Michael	STL	5	Busch Stadiu...	JE	370	100.7	25.8	67.0	66	19
+05/08/16	Video	View	Wilson, Bobby	TEX	Lowe, Mark	DET	8	Comerica Par...	JE	369	101.6	25.6	114.4	66	20
+05/08/16	Video	View	Rickard, Joey	BAL	Dull, Ryan	OAK	4	Oriole Park ...	JE/L	367	95.5	32.9	108.2	100	3
+05/08/16	Video	View	Polanco, Gregory	PIT	Bowman, Matt	STL	7	Busch Stadiu...	JE	349	97.9	28.2	125.3	67	23
+05/08/16	Video	View	Pedroia, Dustin	BOS	Severino, Luis	NYY	1	Yankee Stadi...	JE	348	93.0	35.2	71.0	105	1
+05/07/16	Video	View	Pederson, Joc	LAD	Dickey, R.A.	TOR	2	Rogers Centr...	PL	449	108.5	25.0	90.5	95	30
+05/07/16	Video	View	Ozuna, Marcell	MIA	Hellickson, Jeremy	PHI	2	Marlins Park	PL	440	106.9	25.4	88.5	94	29
+05/07/16	Video	View	Morales, Kendrys	KC	Anderson, Cody	CLE	1	Progressive ...	ND	436	111.7	30.0	62.8	104	30
+05/07/16	Video	View	Davis, Chris	BAL	Hahn, Jesse	OAK	3	Oriole Park ...	PL	427	108.0	25.0	77.7	84	29
+05/07/16	Video	View	Moreland, Mitch	TEX	Ryan, Kyle	DET	6	Comerica Par...	JE	425	105.9	24.5	97.0	81	29
+05/07/16	Video	View	Conforto, Michael	NYM	Villanueva, Carlos	SD	9	PETCO Park	ND	420	111.3	26.4	64.2	86	30
+05/07/16	Video	View	Valbuena, Luis	HOU	Cishek, Steve	SEA	9	Minute Maid ...	ND	419	108.0	27.1	68.1	86	30
+05/07/16	Video	View	Mazara, Nomar	TEX	Pelfrey, Mike	DET	1	Comerica Par...	PL	417	113.8	20.4	76.2	59	29
+05/07/16	Video	View	Lucroy, Jonathan	MIL	Finnegan, Brandon	CIN	6	Great Americ...	PL	417	107.8	22.3	98.5	67	29
+05/07/16	Video	View	Jay, Jon	SD	Colon, Bartolo	NYM	3	PETCO Park	PL	416	102.5	25.6	88.0	87	21
+05/07/16	Video	View	Carpenter, Matt	STL	Schugel, A.J.	PIT	9	Busch Stadiu...	PL	413	104.0	27.2	77.7	93	29
+05/07/16	Video	View	Kinsler, Ian	DET	Ranaudo, Anthony	TEX	4	Comerica Par...	PL	412	103.4	28.8	104.7	94	30
+05/07/16	Video	View	Semien, Marcus	OAK	Matusz, Brian	BAL	8	Oriole Park ...	ND	411	104.4	28.8	106.6	96	30
+05/07/16	Video	View	Freeman, Freddie	ATL	Miller, Shelby	ARI	1	Turner Field	JE	408	102.3	33.4	80.8	127	28
+05/07/16	Video	View	Piscotty, Stephen	STL	Locke, Jeff	PIT	3	Busch Stadiu...	JE/L	406	97.6	32.9	86.8	106	0
+05/07/16	Video	View	Bryant, Kris	CHC	Gonzalez, Gio	WSH	4	Wrigley Fiel...	PL	401	99.9	33.0	106.6	110	20
+05/07/16	Video	View	Cano, Robinson	SEA	Keuchel, Dallas	HOU	3	Minute Maid ...	ND	400	102.5	30.9	68.6	100	30
+05/07/16	Video	View	Beltre, Adrian	TEX	Wilson, Justin	DET	7	Comerica Par...	ND	398	103.1	34.6	117.0	113	30
+05/07/16	Video	View	Hill, Aaron	MIL	Ramirez, JC	CIN	8	Great Americ...	PL	398	100.2	29.0	100.3	95	27
+05/07/16	Video	View	Odor, Rougned	TEX	Pelfrey, Mike	DET	1	Comerica Par...	PL	395	105.5	23.5	105.2	67	29
+05/07/16	Video	View	Bour, Justin	MIA	Hellickson, Jeremy	PHI	4	Marlins Park	PL	395	103.4	28.3	110.3	88	30
+05/07/16	Video	View	Turner, Justin	LAD	Girodo, Chad	TOR	8	Rogers Centr...	ND	389	105.0	35.4	115.6	130	30
+05/07/16	Video	View	Braun, Ryan	MIL	Finnegan, Brandon	CIN	4	Great Americ...	PL	388	102.4	32.5	117.5	102	30
+05/07/16	Video	View	Frazier, Todd	CHW	Santana, Ervin	MIN	3	U.S. Cellula...	ND	385	105.8	27.2	124.5	73	30
+05/07/16	Video	View	Hill, Aaron	MIL	Finnegan, Brandon	CIN	6	Great Americ...	PL	382	101.3	33.8	115.2	110	30
+05/07/16	Video	View	Souza Jr., Steven	TB	Weaver, Jered	LAA	6	Angel Stadiu...	PL/L	381	102.3	37.9	109.0	142	23
+05/07/16	Video	View	Beltre, Adrian	TEX	Pelfrey, Mike	DET	6	Comerica Par...	JE	378	100.7	25.3	73.4	67	12
+05/07/16	Video	View	Bradley Jr., Jackie	BOS	Eovaldi, Nathan	NYY	5	Yankee Stadi...	PL	377	97.1	30.6	78.1	98	8
+05/07/16	Video	View	Phillips, Brandon	CIN	Torres, Carlos	MIL	10	Great Americ...	JE	373	104.7	24.4	118.8	59	24
+05/07/16	Video	View	Wright, David	NYM	Villanueva, Carlos	SD	9	PETCO Park	PL	373	107.3	22.8	117.4	58	26
+05/07/16	Video	View	Phillips, Brandon	CIN	Nelson, Jimmy	MIL	3	Great Americ...	JE/L	371	97.1	33.9	102.8	115	13
+05/07/16	Video	View	Hill, Aaron	MIL	Cotham, Caleb	CIN	10	Great Americ...	JE	361	98.7	27.1	115.3	68	11
+05/07/16	Video	View	Cespedes, Yoenis	NYM	Shields, James	SD	1	PETCO Park	PL	357	96.8	32.8	124.3	88	24
+05/07/16	Video	View	Colon, Bartolo	NYM	Shields, James	SD	2	PETCO Park	PL	357	99.6	33.8	118.7	110	30
+05/07/16	Video	View	Cano, Robinson	SEA	Sipp, Tony	HOU	10	Minute Maid ...	PL	356	94.6	30.0	110.4	81	1
+05/07/16	Video	View	Seager, Kyle	SEA	Keuchel, Dallas	HOU	2	Minute Maid ...	JE/L	333	92.0	33.3	56.3	82	3
+05/06/16	Video	View	Stanton, Giancarlo	MIA	Neris, Hector	PHI	8	Marlins Park	ND	490	118.7	22.8	98.1	91	30
+05/06/16	Video	View	Yelich, Christian	MIA	Velasquez, Vincent	PHI	1	Marlins Park	ND	468	112.0	26.9	80.9	107	30
+05/06/16	Video	View	Bautista, Jose	TOR	Maeda, Kenta	LAD	6	Rogers Centr...	ND	454	114.4	25.1	106.6	90	30
+05/06/16	Video	View	Ramos, Wilson	WSH	Grimm, Justin	CHC	8	Wrigley Fiel...	ND	436	108.3	24.0	97.7	80	30
+05/06/16	Video	View	Hicks, Aaron	NYY	Porcello, Rick	BOS	7	Yankee Stadi...	ND	434	110.7	22.4	81.2	76	30
+05/06/16	Video	View	Votto, Joey	CIN	Cravy, Tyler	MIL	1	Great Americ...	JE	417	102.1	26.4	89.7	85	21
+05/06/16	Video	View	Miller, Brad	TB	Rasmus, Cory	LAA	3	Angel Stadiu...	JE	413	105.2	22.1	90.6	68	17
+05/06/16	Video	View	Kang, Jung Ho	PIT	Siegrist, Kevin	STL	8	Busch Stadiu...	ND	412	107.5	28.9	118.0	89	30
+05/06/16	Video	View	Odor, Rougned	TEX	Zimmermann, Jordan	DET	5	Comerica Par...	ND	411	106.4	30.2	65.8	101	30
+05/06/16	Video	View	Abreu, Jose	CHW	Nolasco, Ricky	MIN	3	U.S. Cellula...	PL	407	102.9	31.8	105.5	113	30
+05/06/16	Video	View	Rizzo, Anthony	CHC	Scherzer, Max	WSH	3	Wrigley Fiel...	ND	404	108.3	34.2	59.1	124	30
+05/06/16	Video	View	La Stella, Tommy	CHC	Scherzer, Max	WSH	2	Wrigley Fiel...	PL	400	102.4	27.1	76.3	88	29
+05/06/16	Video	View	Zobrist, Ben	CHC	Scherzer, Max	WSH	5	Wrigley Fiel...	PL	400	102.5	27.0	74.4	83	27
+05/06/16	Video	View	Arcia, Oswaldo	MIN	Latos, Mat	CHW	4	U.S. Cellula...	PL	398	103.8	26.4	108.5	77	30
+05/06/16	Video	View	Dickerson, Corey	TB	Rasmus, Cory	LAA	1	Angel Stadiu...	PL	398	102.1	28.6	73.1	89	30
+05/06/16	Video	View	Crawford, Brandon	SF	Bettis, Chad	COL	2	AT&T Park	PL	393	102.3	31.1	70.3	104	30
+05/06/16	Video	View	Ortiz, David	BOS	Pineda, Michael	NYY	1	Yankee Stadi...	PL	391	107.1	19.9	80.9	58	6
+05/06/16	Video	View	Rendon, Anthony	WSH	Lackey, John	CHC	1	Wrigley Fiel...	PL	390	97.5	31.1	97.8	102	4
+05/06/16	Video	View	Pillar, Kevin	TOR	Blanton, Joe	LAD	8	Rogers Centr...	JE	390	112.0	20.6	110.6	53	29
+05/06/16	Video	View	Correa, Carlos	HOU	Walker, Taijuan	SEA	1	Minute Maid ...	PL	389	101.9	25.2	76.3	73	24
+05/06/16	Video	View	Presley, Alex	MIL	Adleman, Tim	CIN	5	Great Americ...	PL	389	98.2	33.3	79.8	114	10
+05/06/16	Video	View	Drury, Brandon	ARI	Johnson, Jim	ATL	6	Turner Field	PL	385	106.0	25.1	117.8	67	30
+05/06/16	Video	View	Kang, Jung Ho	PIT	Lyons, Tyler	STL	6	Busch Stadiu...	PL	385	100.8	27.8	70.2	80	27
+05/06/16	Video	View	Zobrist, Ben	CHC	Scherzer, Max	WSH	3	Wrigley Fiel...	PL	378	99.5	31.6	67.0	99	27
+05/06/16	Video	View	Phillips, Brandon	CIN	Cravy, Tyler	MIL	3	Great Americ...	PL	374	101.8	28.4	122.1	74	30
+05/06/16	Video	View	Gonzalez, Marwin	HOU	Walker, Taijuan	SEA	2	Minute Maid ...	JE	360	106.6	20.9	67.0	48	1
+05/06/16	Video	View	Franco, Maikel	PHI	Chen, Wei-Yin	MIA	5	Marlins Park	PL	356	97.0	31.7	59.0	85	28
+05/05/16	Video	View	Moss, Brandon	STL	Eickhoff, Jerad	PHI	1	Busch Stadiu...	ND	438	113.3	27.0	64.1	89	30
+05/05/16	Video	View	Bruce, Jay	CIN	Anderson, Chase	MIL	1	Great Americ...	ND	436	108.5	29.8	74.2	112	30
+05/05/16	Video	View	Carter, Chris	MIL	Hoover, J.J.	CIN	9	Great Americ...	PL	434	109.2	21.5	92.0	73	27
+05/05/16	Video	View	Yelich, Christian	MIA	Burgos, Enrique	ARI	8	Marlins Park	ND	428	108.1	28.1	72.4	98	30
+05/05/16	Video	View	Altuve, Jose	HOU	Miley, Wade	SEA	1	Minute Maid ...	ND	425	107.9	27.2	106.0	94	30
+05/05/16	Video	View	Myers, Wil	SD	deGrom, Jacob	NYM	1	PETCO Park	PL	425	105.9	23.5	92.6	80	26
+05/05/16	Video	View	Duvall, Adam	CIN	Goforth, David	MIL	8	Great Americ...	JE	422	107.3	21.3	88.4	69	25
+05/05/16	Video	View	Phillips, Brandon	CIN	Anderson, Chase	MIL	2	Great Americ...	PL	418	103.5	26.7	95.6	93	27
+05/05/16	Video	View	Encarnacion, Edwin	TOR	Holland, Derek	TEX	3	Rogers Centr...	PL	418	104.6	31.4	101.7	120	30
+05/05/16	Video	View	Granderson, Curtis	NYM	Rea, Colin	SD	9	PETCO Park	JE	409	101.9	25.3	91.9	84	12
+05/05/16	Video	View	Presley, Alex	MIL	Simon, Alfredo	CIN	8	Great Americ...	PL	407	102.3	30.2	79.1	108	29
+05/05/16	Video	View	Story, Trevor	COL	Cain, Matt	SF	5	AT&T Park	JE	399	104.0	23.7	100.6	68	22
+05/05/16	Video	View	Gimenez, Chris	CLE	Fulmer, Michael	DET	4	Progressive ...	JE/L	398	98.9	28.8	88.8	98	2
+05/05/16	Video	View	Zobrist, Ben	CHC	Rivero, Felipe	WSH	8	Wrigley Fiel...	PL	397	101.1	28.3	102.5	92	30
+05/05/16	Video	View	Norris, Derek	SD	Verrett, Logan	NYM	6	PETCO Park	PL	397	105.5	26.8	113.3	80	30
+05/05/16	Video	View	Werth, Jayson	WSH	Wood, Travis	CHC	9	Wrigley Fiel...	PL	395	103.2	32.1	109.1	114	30
+05/05/16	Video	View	Napoli, Mike	CLE	Fulmer, Michael	DET	1	Progressive ...	PL	394	103.0	32.0	108.9	115	30
+05/05/16	Video	View	Bradley Jr., Jackie	BOS	Albers, Matt	CHW	6	U.S. Cellula...	JE	381	101.3	24.4	103.7	68	10
+05/05/16	Video	View	Ramirez, Hanley	BOS	Johnson, Erik	CHW	3	U.S. Cellula...	JE	377	101.7	25.0	71.7	68	19
+05/05/16	Video	View	Arenado, Nolan	COL	Cain, Matt	SF	1	AT&T Park	PL	373	97.4	35.6	115.1	108	14
+05/05/16	Video	View	Garcia, Avisail	CHW	Owens, Henry	BOS	4	U.S. Cellula...	JE	368	111.1	19.8	114.1	46	10
+05/05/16	Video	View	Cespedes, Yoenis	NYM	Hand, Brad	SD	9	PETCO Park	JE	368	110.2	21.1	122.0	49	24
+05/05/16	Video	View	Pedroia, Dustin	BOS	Johnson, Erik	CHW	1	U.S. Cellula...	PL	345	96.4	34.9	115.5	109	20
+05/05/16	Video	View	Castellanos, Nick	DET	Bauer, Trevor	CLE	4	Progressive ...	JE	343	93.0	33.6	62.0	88	7
+05/04/16	Video	View	Cruz, Nelson	SEA	Manaea, Sean	OAK	5	Oakland-Alam...	PL	446	108.3	31.0	90.8	135	30
+05/04/16	Video	View	Stanton, Giancarlo	MIA	De La Rosa, Rubby	ARI	3	Marlins Park	PL	427	104.0	28.8	86.9	108	28
+05/04/16	Video	View	Peralta, David	ARI	Fernandez, Jose	MIA	5	Marlins Park	PL	427	111.2	21.5	79.7	67	29
+05/04/16	Video	View	Howard, Ryan	PHI	Leake, Mike	STL	4	Busch Stadiu...	PL	423	106.4	22.4	87.3	77	27
+05/04/16	Video	View	Zobrist, Ben	CHC	Nicasio, Juan	PIT	3	PNC Park	PL	419	111.4	21.3	77.2	64	29
+05/04/16	Video	View	Guyer, Brandon	TB	Wood, Alex	LAD	1	Tropicana Fi...	PL	416	104.1	30.4	102.2	111	30
+05/04/16	Video	View	Suarez, Eugenio	CIN	Peavy, Jake	SF	2	Great Americ...	PL	415	102.9	28.6	95.0	106	26
+05/04/16	Video	View	Cabrera, Asdrubal	NYM	Chacin, Jhoulys	ATL	3	Citi Field	JE	413	103.7	24.3	96.2	80	19
+05/04/16	Video	View	Duda, Lucas	NYM	Chacin, Jhoulys	ATL	3	Citi Field	PL/L	413	101.8	29.4	87.6	108	23
+05/04/16	Video	View	Ortiz, David	BOS	Rodon, Carlos	CHW	5	U.S. Cellula...	PL	410	101.7	29.5	77.1	93	29
+05/04/16	Video	View	Lee, Dae-Ho	SEA	Dull, Ryan	OAK	6	Oakland-Alam...	JE	406	101.0	27.2	85.3	91	13
+05/04/16	Video	View	Belt, Brandon	SF	Straily, Dan	CIN	2	Great Americ...	PL	405	105.7	22.2	81.1	67	19
+05/04/16	Video	View	Semien, Marcus	OAK	Hernandez, Felix	SEA	3	Oakland-Alam...	PL	402	106.6	24.4	108.0	71	30
+05/04/16	Video	View	Abreu, Jose	CHW	Buchholz, Clay	BOS	1	U.S. Cellula...	ND	399	105.7	32.9	115.3	120	30
+05/04/16	Video	View	Gillaspie, Conor	SF	Straily, Dan	CIN	4	Great Americ...	JE	398	106.8	20.8	80.9	60	10
+05/04/16	Video	View	Duda, Lucas	NYM	Chacin, Jhoulys	ATL	5	Citi Field	JE	398	101.4	25.1	98.5	79	8
+05/04/16	Video	View	Joyce, Matt	PIT	Warren, Adam	CHC	7	PNC Park	JE	398	101.9	28.0	75.1	89	29
+05/04/16	Video	View	Souza Jr., Steven	TB	Wood, Alex	LAD	4	Tropicana Fi...	PL	395	104.8	28.4	116.6	84	30
+05/04/16	Video	View	Duvall, Adam	CIN	Peavy, Jake	SF	6	Great Americ...	ND	391	109.0	24.5	120.9	65	30
+05/04/16	Video	View	Herrera, Odubel	PHI	Leake, Mike	STL	5	Busch Stadiu...	JE	391	112.4	19.7	73.3	50	22
+05/04/16	Video	View	Phillips, Brandon	CIN	Peavy, Jake	SF	2	Great Americ...	PL	390	102.8	29.0	113.4	88	30
+05/04/16	Video	View	Rizzo, Anthony	CHC	Vogelsong, Ryan	PIT	7	PNC Park	JE/L	388	99.2	35.1	80.0	126	13
+05/04/16	Video	View	Encarnacion, Edwin	TOR	Lewis, Colby	TEX	6	Rogers Centr...	ND	386	105.1	35.9	117.0	131	30
+05/04/16	Video	View	Casali, Curt	TB	Baez, Pedro	LAD	7	Tropicana Fi...	PL	384	99.7	31.2	108.7	99	30
+05/04/16	Video	View	Perez, Hernan	MIL	Santiago, Hector	LAA	2	Miller Park	JE	383	99.5	27.8	74.2	82	22
+05/04/16	Video	View	Pearce, Steve	TB	Wood, Alex	LAD	6	Tropicana Fi...	PL	381	102.4	35.4	112.5	127	30
+05/04/16	Video	View	Harper, Bryce	WSH	Gee, Dillon	KC	5	Kauffman Sta...	PL	376	101.8	37.0	63.8	128	30
+05/04/16	Video	View	Murphy, Daniel	WSH	Gee, Dillon	KC	4	Kauffman Sta...	PL	374	99.5	32.7	64.6	100	29
+05/04/16	Video	View	Altuve, Jose	HOU	Hughes, Phil	MIN	1	Minute Maid ...	PL	370	96.6	32.2	71.0	97	18
+05/04/16	Video	View	Correa, Carlos	HOU	Fien, Casey	MIN	4	Minute Maid ...	JE	363	100.2	24.5	70.2	61	1
+05/04/16	Video	View	Lee, Dae-Ho	SEA	Axford, John	OAK	7	Oakland-Alam...	PL	359	97.1	31.9	118.9	88	26
+05/04/16	Video	View	Rivera, Rene	NYM	Chacin, Jhoulys	ATL	2	Citi Field	JE	355	101.2	26.5	124.6	64	29
+05/04/16	Video	View	Trout, Mike	LAA	Thornburg, Tyler	MIL	8	Miller Park	JE	354	96.8	28.3	64.6	72	11
+05/04/16	Video	View	Cozart, Zack	CIN	Peavy, Jake	SF	2	Great Americ...	JE	350	97.7	29.1	122.7	73	26
+05/04/16	Video	View	Castro, Jason	HOU	Fien, Casey	MIN	3	Minute Maid ...	JE	350	96.1	26.8	111.8	66	1
+05/04/16	Video	View	Dozier, Brian	MIN	Fiers, Mike	HOU	3	Minute Maid ...	JE	338	95.7	39.5	109.5	134	1
+05/03/16	Video	View	Pederson, Joc	LAD	Moore, Matt	TB	2	Tropicana Fi...	PL	438	110.7	20.7	87.3	70	27
+05/03/16	Video	View	Yelich, Christian	MIA	Clippard, Tyler	ARI	7	Marlins Park	ND	437	111.7	24.2	74.9	80	30
+05/03/16	Video	View	Carter, Chris	MIL	Tropeano, Nick	LAA	3	Miller Park	PL	433	109.5	20.9	91.7	69	26
+05/03/16	Video	View	Ozuna, Marcell	MIA	Corbin, Patrick	ARI	6	Marlins Park	ND	427	108.0	29.4	108.8	106	30
+05/03/16	Video	View	Werth, Jayson	WSH	Gee, Dillon	KC	8	Kauffman Sta...	PL	427	104.9	27.0	96.4	97	29
+05/03/16	Video	View	Lindor, Francisco	CLE	Verlander, Justin	DET	5	Progressive ...	ND	420	108.5	27.6	70.1	95	30
+05/03/16	Video	View	Murphy, Daniel	WSH	Young, Chris	KC	4	Kauffman Sta...	PL	417	107.6	25.9	72.3	82	30
+05/03/16	Video	View	Carter, Chris	MIL	Tropeano, Nick	LAA	5	Miller Park	PL	417	106.3	34.3	101.3	143	30
+05/03/16	Video	View	Howard, Ryan	PHI	Wacha, Michael	STL	6	Busch Stadiu...	PL	415	105.8	27.0	74.2	89	30
+05/03/16	Video	View	Puig, Yasiel	LAD	Webb, Ryan	TB	9	Tropicana Fi...	ND	410	107.3	31.9	116.8	111	30
+05/03/16	Video	View	Kemp, Matt	SD	Butler, Eddie	COL	4	PETCO Park	PL	410	102.4	31.2	98.0	118	29
+05/03/16	Video	View	Davis, Khris	OAK	Johnson, Steve	SEA	9	Oakland-Alam...	JE	409	101.6	26.3	91.6	89	15
+05/03/16	Video	View	Rendon, Anthony	WSH	Young, Chris	KC	1	Kauffman Sta...	PL	407	108.2	32.6	117.5	120	30
+05/03/16	Video	View	Pearce, Steve	TB	Kazmir, Scott	LAD	5	Tropicana Fi...	PL	407	105.6	26.3	108.2	82	30
+05/03/16	Video	View	Trumbo, Mark	BAL	Severino, Luis	NYY	2	Oriole Park ...	ND	405	105.6	32.7	117.0	110	30
+05/03/16	Video	View	Seager, Kyle	SEA	Rzepczynski, Marc	OAK	8	Oakland-Alam...	PL	405	104.4	32.5	71.8	119	30
+05/03/16	Video	View	Blackmon, Charlie	COL	Cashner, Andrew	SD	1	PETCO Park	PL	404	107.9	23.0	74.3	66	29
+05/03/16	Video	View	Wallace, Brett	SD	Butler, Eddie	COL	4	PETCO Park	PL	402	110.2	20.6	103.2	58	26
+05/03/16	Video	View	Duvall, Adam	CIN	Samardzija, Jeff	SF	5	Great Americ...	JE	400	100.5	28.0	98.3	93	20
+05/03/16	Video	View	Smoak, Justin	TOR	Tolleson, Shawn	TEX	9	Rogers Centr...	JE	399	100.4	30.6	100.5	105	26
+05/03/16	Video	View	Park, Byung Ho	MIN	McHugh, Collin	HOU	6	Minute Maid ...	ND	398	104.6	28.9	68.8	95	30
+05/03/16	Video	View	Lucroy, Jonathan	MIL	Tropeano, Nick	LAA	5	Miller Park	PL	397	105.2	25.4	109.8	73	30
+05/03/16	Video	View	Casali, Curt	TB	Kazmir, Scott	LAD	4	Tropicana Fi...	PL	393	104.3	34.3	112.7	125	30
+05/03/16	Video	View	Springer, George	HOU	Milone, Tommy	MIN	4	Minute Maid ...	ND	392	104.3	33.2	107.4	128	30
+05/03/16	Video	View	Cano, Robinson	SEA	Gray, Sonny	OAK	4	Oakland-Alam...	JE	390	101.3	25.7	103.0	76	19
+05/03/16	Video	View	Ramirez, Hanley	BOS	Quintana, Jose	CHW	5	U.S. Cellula...	PL	386	103.1	26.4	67.4	75	28
+05/03/16	Video	View	Castillo, Welington	ARI	Nicolino, Justin	MIA	6	Marlins Park	JE	381	98.2	31.9	75.1	104	25
+05/03/16	Video	View	Trumbo, Mark	BAL	Severino, Luis	NYY	5	Oriole Park ...	PL	376	103.0	37.6	110.7	142	29
+05/03/16	Video	View	Kinsler, Ian	DET	Tomlin, Josh	CLE	5	Progressive ...	JE	369	98.2	30.5	111.6	92	25
+05/03/16	Video	View	Smoak, Justin	TOR	Klein, Phil	TEX	10	Rogers Centr...	PL	365	98.5	29.8	116.7	82	24
+05/03/16	Video	View	Santana, Danny	MIN	McHugh, Collin	HOU	1	Minute Maid ...	PL	359	98.7	30.3	56.4	79	29
+05/03/16	Video	View	Martin, Leonys	SEA	Gray, Sonny	OAK	3	Oakland-Alam...	PL	354	99.2	37.9	65.6	131	23
+05/03/16	Video	View	Odor, Rougned	TEX	Estrada, Marco	TOR	1	Rogers Centr...	PL	348	95.3	35.2	61.9	102	21
+05/03/16	Video	View	Smith, Mallex	ATL	Harvey, Matt	NYM	5	Citi Field	JE	345	95.6	31.1	121.7	80	21
+05/03/16	Video	View	Castro, Jason	HOU	Meyer, Alex	MIN	3	Minute Maid ...	JE	345	93.0	32.9	106.5	98	1
+05/03/16	Video	N/A	Thompson, Trayce	LAD	Moore, Matt	TB	2	Tropicana Fi...		0	0.0	0.0	0.0	0	0
+05/02/16	Video	View	Davis, Khris	OAK	Karns, Nathan	SEA	7	Oakland-Alam...	PL	445	110.0	22.6	93.3	82	30
+05/02/16	Video	View	Grichuk, Randal	STL	Oberholtzer, Brett	PHI	7	Busch Stadiu...	PL	439	110.4	21.7	94.8	75	30
+05/02/16	Video	View	Votto, Joey	CIN	Cueto, Johnny	SF	3	Great Americ...	PL	425	103.8	26.2	87.9	89	27
+05/02/16	Video	View	Mazara, Nomar	TEX	Floyd, Gavin	TOR	8	Rogers Centr...	JE	417	103.7	24.4	91.8	81	21
+05/02/16	Video	View	Adams, Matt	STL	Hellickson, Jeremy	PHI	6	Busch Stadiu...	PL	412	102.8	26.7	97.0	91	25
+05/02/16	Video	View	Cespedes, Yoenis	NYM	Foltynewicz, Mike	ATL	1	Citi Field	PL	411	102.0	27.2	94.5	94	23
+05/02/16	Video	View	Nicholas, Brett	TEX	Dickey, R.A.	TOR	3	Rogers Centr...	JE	411	101.4	31.1	88.9	116	22
+05/02/16	Video	View	Trout, Mike	LAA	Nelson, Jimmy	MIL	6	Miller Park	JE	410	100.8	28.5	89.0	99	15
+05/02/16	Video	View	Nunez, Eduardo	MIN	Fields, Josh	HOU	6	Minute Maid ...	ND	406	105.3	27.6	112.3	84	30
+05/02/16	Video	View	McCutchen, Andrew	PIT	Hammel, Jason	CHC	1	PNC Park	PL	402	101.9	28.3	76.0	91	29
+05/02/16	Video	View	Crawford, Brandon	SF	Hayes, Drew	CIN	7	Great Americ...	JE	398	100.6	26.0	82.5	79	11
+05/02/16	Video	View	Wainwright, Adam	STL	Hellickson, Jeremy	PHI	4	Busch Stadiu...	PL	397	105.9	33.1	118.3	114	30
+05/02/16	Video	View	Diaz, Aledmys	STL	Hellickson, Jeremy	PHI	6	Busch Stadiu...	PL	396	104.9	31.8	116.9	105	30
+05/02/16	Video	View	Wright, David	NYM	Foltynewicz, Mike	ATL	1	Citi Field	PL	391	102.0	33.8	104.7	125	30
+05/02/16	Video	View	Tucker, Preston	HOU	Berrios, Jose	MIN	2	Minute Maid ...	PL	380	101.0	25.7	71.5	70	19
+05/02/16	Video	View	Springer, George	HOU	Berrios, Jose	MIN	5	Minute Maid ...	PL	373	98.1	35.1	73.2	119	20
+05/02/16	Video	View	Davis, Khris	OAK	Karns, Nathan	SEA	2	Oakland-Alam...	JE	371	103.3	24.8	115.5	64	24
+05/02/16	Video	View	Duda, Lucas	NYM	Foltynewicz, Mike	ATL	1	Citi Field	PL	360	98.3	33.6	61.7	101	30
+05/02/16	Video	View	Wong, Kolten	STL	Oberholtzer, Brett	PHI	7	Busch Stadiu...	PL	356	97.0	34.5	61.6	102	29
+05/01/16	Video	View	Longoria, Evan	TB	Stroman, Marcus	TOR	6	Tropicana Fi...	ND	432	108.8	24.8	101.7	84	30
+05/01/16	Video	View	Rodriguez, Alex	NYY	Price, David	BOS	3	Fenway Park	PL	430	105.6	26.7	94.3	100	29
+05/01/16	Video	View	Carter, Chris	MIL	Koehler, Tom	MIA	3	Miller Park	PL	428	106.0	26.0	81.8	91	30
+05/01/16	Video	View	Altuve, Jose	HOU	Hill, Rich	OAK	1	Oakland-Alam...	PL	424	107.2	22.5	95.5	73	26
+05/01/16	Video	View	Espinosa, Danny	WSH	Martinez, Carlos	STL	7	Busch Stadiu...	PL	422	107.2	21.8	86.3	70	24
+05/01/16	Video	View	Heisey, Chris	WSH	Lyons, Tyler	STL	9	Busch Stadiu...	PL	422	104.8	24.9	96.5	80	26
+05/01/16	Video	View	Robinson, Clint	WSH	Martinez, Carlos	STL	7	Busch Stadiu...	PL	418	102.9	28.5	83.3	101	26
+05/01/16	Video	View	Tulowitzki, Troy	TOR	Colome, Alex	TB	9	Tropicana Fi...	PL	414	103.9	29.3	103.0	103	30
+05/01/16	Video	View	Polanco, Gregory	PIT	Adleman, Tim	CIN	5	PNC Park	ND	411	106.7	31.2	63.3	104	30
+05/01/16	Video	View	Parra, Gerardo	COL	Barrett, Jake	ARI	5	Chase Field	PL	410	110.1	21.6	76.3	61	29
+05/01/16	Video	View	Lawrie, Brett	CHW	Jimenez, Ubaldo	BAL	4	Oriole Park ...	JE	409	102.7	24.2	87.4	77	9
+05/01/16	Video	View	Moss, Brandon	STL	Treinen, Blake	WSH	9	Busch Stadiu...	JE	401	104.8	22.8	99.4	65	16
+05/01/16	Video	View	Donaldson, Josh	TOR	Odorizzi, Jake	TB	4	Tropicana Fi...	PL	396	110.7	21.1	107.8	56	30
+05/01/16	Video	View	Vazquez, Christian	BOS	Betances, Dellin	NYY	7	Fenway Park	ND	395	103.3	29.4	110.6	95	30
+05/01/16	Video	View	Ozuna, Marcell	MIA	Peralta, Wily	MIL	5	Miller Park	PL	393	101.1	30.5	108.0	99	30
+05/01/16	Video	View	Jaso, John	PIT	Ohlendorf, Ross	CIN	9	PNC Park	JE/L	393	107.9	22.2	72.4	60	26
+05/01/16	Video	View	Soto, Geovany	LAA	Diekman, Jake	TEX	8	Globe Life P...	PL	393	108.2	24.8	119.1	66	30
+05/01/16	Video	View	Posey, Buster	SF	Verrett, Logan	NYM	8	Citi Field	PL	392	105.3	22.5	103.1	64	18
+05/01/16	Video	View	Hosmer, Eric	KC	Nuno, Vidal	SEA	8	Safeco Field	JE/L	390	98.4	36.1	83.6	129	0
+05/01/16	Video	View	Drury, Brandon	ARI	Bettis, Chad	COL	1	Chase Field	JE	383	98.3	34.4	103.6	118	15
+05/01/16	Video	View	Shaw, Travis	BOS	Eovaldi, Nathan	NYY	5	Fenway Park	PL	379	104.4	27.3	57.0	73	30
+05/01/16	Video	View	Carter, Chris	MIL	Ege, Cody	MIA	4	Miller Park	JE	375	110.4	22.2	127.0	53	30
+05/01/16	Video	View	Castellanos, Nick	DET	Nolasco, Ricky	MIN	6	Target Field	JE/L	374	100.9	24.4	104.4	72	20
+05/01/16	Video	View	Santana, Carlos	CLE	Neris, Hector	PHI	9	Citizens Ban...	PL	374	98.4	30.9	73.5	100	25
+05/01/16	Video	View	Arenado, Nolan	COL	Delgado, Randall	ARI	7	Chase Field	PL	374	99.5	34.4	118.6	106	30
+05/01/16	Video	View	Pence, Hunter	SF	Syndergaard, Noah	NYM	4	Citi Field	PL	372	103.5	25.1	64.9	67	28
+05/01/16	Video	View	Santana, Domingo	MIL	Koehler, Tom	MIA	1	Miller Park	JE	365	99.7	26.1	67.9	67	12
+04/30/16	Video	View	Stanton, Giancarlo	MIA	Anderson, Chase	MIL	4	Miller Park	ND	460	112.2	23.5	95.8	89	30
+04/30/16	Video	View	Pillar, Kevin	TOR	Romero, Enny	TB	7	Tropicana Fi...	PL	435	106.3	27.0	96.4	100	30
+04/30/16	Video	View	Moreland, Mitch	TEX	Shoemaker, Matt	LAA	3	Globe Life P...	ND	432	113.7	26.6	60.0	83	30
+04/30/16	Video	View	Park, Byung Ho	MIN	Zimmermann, Jordan	DET	4	Target Field	PL	431	116.1	17.4	95.0	57	27
+04/30/16	Video	View	Forsythe, Logan	TB	Happ, J.A.	TOR	7	Tropicana Fi...	PL	427	105.7	23.9	88.8	82	27
+04/30/16	Video	View	Pujols, Albert	LAA	Klein, Phil	TEX	9	Globe Life P...	PL	427	110.1	20.5	95.0	65	26
+04/30/16	Video	View	Upton, Justin	DET	Duffey, Tyler	MIN	1	Target Field	ND	425	113.1	22.2	105.2	73	30
+04/30/16	Video	View	Ortiz, David	BOS	Barbato, Johnny	NYY	7	Fenway Park	PL	423	105.3	30.5	73.8	110	30
+04/30/16	Video	View	Frazier, Todd	CHW	O'Day, Darren	BAL	8	Oriole Park ...	PL	420	103.4	27.2	93.9	97	28
+04/30/16	Video	View	Smith, Seth	SEA	Ventura, Yordano	KC	1	Safeco Field	PL	419	104.5	27.6	83.3	104	30
+04/30/16	Video	View	Ozuna, Marcell	MIA	Capuano, Chris	MIL	6	Miller Park	PL	415	106.3	23.8	79.5	75	28
+04/30/16	Video	View	Perez, Hernan	MIL	Breslow, Craig	MIA	7	Miller Park	JE	413	101.3	29.4	91.1	106	19
+04/30/16	Video	View	Drury, Brandon	ARI	Estevez, Carlos	COL	6	Chase Field	ND	409	104.9	32.2	111.1	113	30
+04/30/16	Video	View	Utley, Chase	LAD	Rea, Colin	SD	3	Dodger Stadi...	PL	408	106.4	25.5	70.0	73	30
+04/30/16	Video	View	Dietrich, Derek	MIA	Anderson, Chase	MIL	1	Miller Park	PL	403	104.0	27.5	71.6	86	30
+04/30/16	Video	View	Jaso, John	PIT	Simon, Alfredo	CIN	1	PNC Park	PL	403	101.9	27.7	78.5	90	28
+04/30/16	Video	View	Lawrie, Brett	CHW	Gausman, Kevin	BAL	4	Oriole Park ...	PL	403	103.8	31.8	111.4	108	30
+04/30/16	Video	View	Seager, Kyle	SEA	Ventura, Yordano	KC	1	Safeco Field	PL	391	109.0	21.6	72.1	58	25
+04/30/16	Video	View	Hechavarria, Adeiny	MIA	Anderson, Chase	MIL	2	Miller Park	JE	390	103.4	22.2	98.8	62	4
+04/30/16	Video	View	Alvarez, Pedro	BAL	Latos, Mat	CHW	4	Oriole Park ...	JE	390	103.9	22.6	100.6	63	6
+04/30/16	Video	View	Rodriguez, Sean	PIT	Cotham, Caleb	CIN	8	PNC Park	JE	390	106.8	22.6	107.3	61	30
+04/30/16	Video	View	Schoop, Jonathan	BAL	Latos, Mat	CHW	4	Oriole Park ...	PL	382	99.9	33.2	112.1	106	30
+04/30/16	Video	View	Flores, Wilmer	NYM	Cain, Matt	SF	6	Citi Field	JE	381	105.1	21.8	104.2	58	6
+04/30/16	Video	View	Galvis, Freddy	PHI	Bauer, Trevor	CLE	1	Citizens Ban...	PL	374	98.8	28.0	71.2	79	21
+04/30/16	Video	View	Werth, Jayson	WSH	Garcia, Jaime	STL	1	Busch Stadiu...	JE	371	101.0	26.5	116.9	65	24
+04/30/16	Video	View	Longoria, Evan	TB	Happ, J.A.	TOR	6	Tropicana Fi...	JE	364	98.9	25.6	71.3	66	1
+04/30/16	Video	View	Conforto, Michael	NYM	Cain, Matt	SF	5	Citi Field	PL	357	97.7	35.6	66.3	115	25
+04/30/16	Video	View	Bautista, Jose	TOR	Archer, Chris	TB	3	Tropicana Fi...	JE	332	94.4	28.8	124.0	66	1
+04/29/16	Video	View	Story, Trevor	COL	Ray, Robbie	ARI	5	Chase Field	ND	445	115.6	21.6	103.1	69	30
+04/29/16	Video	View	Miller, Brad	TB	Storen, Drew	TOR	8	Tropicana Fi...	ND	435	107.8	27.2	78.4	99	29
+04/29/16	Video	View	Rodriguez, Alex	NYY	Owens, Henry	BOS	2	Fenway Park	PL	427	104.9	27.5	96.2	100	29
+04/29/16	Video	View	Alonso, Yonder	OAK	Neshek, Pat	HOU	9	Oakland-Alam...	ND	425	107.7	27.8	73.9	98	30
+04/29/16	Video	View	Castellanos, Nick	DET	Fien, Casey	MIN	8	Target Field	PL	424	105.6	23.6	87.2	85	27
+04/29/16	Video	View	Rua, Ryan	TEX	Santiago, Hector	LAA	5	Globe Life P...	ND	420	107.4	28.3	109.6	96	30
+04/29/16	Video	View	Saunders, Michael	TOR	Smyly, Drew	TB	3	Tropicana Fi...	JE	418	105.0	23.4	85.8	76	23
+04/29/16	Video	View	Raburn, Ryan	COL	Ray, Robbie	ARI	4	Chase Field	ND	418	106.3	32.2	109.8	118	30
+04/29/16	Video	View	Soto, Geovany	LAA	Lewis, Colby	TEX	3	Globe Life P...	ND	416	107.3	26.8	110.7	84	30
+04/29/16	Video	View	Arenado, Nolan	COL	Ray, Robbie	ARI	5	Chase Field	ND	416	107.7	32.4	116.7	114	30
+04/29/16	Video	View	Gattis, Evan	HOU	Manaea, Sean	OAK	2	Oakland-Alam...	PL	411	103.6	29.3	102.4	104	30
+04/29/16	Video	View	Bour, Justin	MIA	Davies, Zach	MIL	1	Miller Park	PL	404	102.1	28.6	77.2	95	29
+04/29/16	Video	View	Cabrera, Miguel	DET	Hughes, Phil	MIN	5	Target Field	PL	404	106.5	24.3	73.5	74	30
+04/29/16	Video	View	Freeman, Freddie	ATL	Lester, Jon	CHC	4	Wrigley Fiel...	PL	398	101.8	30.0	74.1	99	30
+04/29/16	Video	View	Grandal, Yasmani	LAD	Hand, Brad	SD	6	Dodger Stadi...	PL	398	112.1	23.2	120.7	63	30
+04/29/16	Video	View	Taylor, Michael	WSH	Leake, Mike	STL	1	Busch Stadiu...	JE	396	100.8	28.4	78.2	94	26
+04/29/16	Video	View	Ortiz, David	BOS	Betances, Dellin	NYY	8	Fenway Park	JE	396	101.6	25.6	99.6	80	21
+04/29/16	Video	View	Kemp, Matt	SD	Hatcher, Chris	LAD	8	Dodger Stadi...	PL	396	105.9	33.5	112.8	126	30
+04/29/16	Video	View	Saunders, Michael	TOR	Eveland, Dana	TB	8	Tropicana Fi...	JE	393	99.0	31.1	80.8	106	18
+04/29/16	Video	View	Crisp, Coco	OAK	Fiers, Mike	HOU	2	Oakland-Alam...	PL	391	99.2	29.2	79.6	95	19
+04/29/16	Video	View	Espinosa, Danny	WSH	Leake, Mike	STL	4	Busch Stadiu...	JE	389	101.0	26.8	74.5	78	26
+04/29/16	Video	View	Howard, Ryan	PHI	Allen, Cody	CLE	11	Citizens Ban...	PL	385	105.8	23.0	71.8	62	24
+04/29/16	Video	View	Pagan, Angel	SF	Blevins, Jerry	NYM	7	Citi Field	PL	383	102.2	26.3	108.8	77	30
+04/29/16	Video	View	Kipnis, Jason	CLE	Morgan, Adam	PHI	5	Citizens Ban...	JE	382	98.2	29.3	78.0	93	14
+04/29/16	Video	View	Hundley, Nick	COL	Ray, Robbie	ARI	4	Chase Field	JE	382	112.9	21.3	119.3	53	30
+04/29/16	Video	View	Martinez, Victor	DET	Fien, Casey	MIN	8	Target Field	PL	379	100.7	26.8	72.5	80	25
+04/29/16	Video	View	Lawrie, Brett	CHW	Brach, Brad	BAL	7	Oriole Park ...	PL	377	100.4	29.6	110.7	92	30
+04/29/16	Video	View	Semien, Marcus	OAK	Giles, Ken	HOU	8	Oakland-Alam...	PL	377	101.8	30.8	121.1	89	30
+04/29/16	Video	View	Adams, Matt	STL	Treinen, Blake	WSH	8	Busch Stadiu...	JE/L	369	98.6	27.4	107.5	80	21
+04/29/16	Video	View	Szczur, Matt	CHC	Withrow, Chris	ATL	8	Wrigley Fiel...	PL	367	96.7	32.7	105.8	108	9
+04/29/16	Video	View	Bour, Justin	MIA	Boyer, Blaine	MIL	6	Miller Park	PL	364	97.8	36.2	72.2	124	13
+04/29/16	Video	View	Cespedes, Yoenis	NYM	Broadway, Mike	SF	3	Citi Field	JE	363	105.8	23.4	122.9	56	26
+04/29/16	Video	View	Harrison, Josh	PIT	Straily, Dan	CIN	4	PNC Park	JE	360	96.3	33.7	67.9	103	18
+04/29/16	Video	View	Reimold, Nolan	BAL	Rodon, Carlos	CHW	7	Oriole Park ...	JE/L	358	97.3	28.3	68.1	78	12
+04/29/16	Video	View	Goins, Ryan	TOR	Marinez, Jhan	TB	9	Tropicana Fi...	JE	358	95.7	33.6	112.4	101	12
+04/29/16	Video	View	Smith, Seth	SEA	Medlen, Kris	KC	6	Safeco Field	JE	337	98.5	39.9	68.0	142	5
+04/29/16	Video	View	Joyce, Matt	PIT	Hoover, J.J.	CIN	7	PNC Park	JE	332	93.0	35.8	119.5	100	4
+04/29/16	Video	N/A	Donaldson, Josh	TOR	Smyly, Drew	TB	6	Tropicana Fi...	ND	0	0.0	0.0	0.0	0	0
+04/28/16	Video	View	Drury, Brandon	ARI	Wacha, Michael	STL	4	Chase Field	ND	451	113.6	27.0	111.2	95	30
+04/28/16	Video	View	Trumbo, Mark	BAL	Danks, John	CHW	3	Oriole Park ...	PL	435	108.6	22.5	93.4	81	29
+04/28/16	Video	View	Machado, Manny	BAL	Petricka, Jake	CHW	6	Oriole Park ...	PL	411	103.2	25.9	94.6	94	26
+04/28/16	Video	View	Vogt, Stephen	OAK	Sanchez, Anibal	DET	4	Comerica Par...	ND	402	104.7	31.2	67.6	106	30
+04/28/16	Video	View	Gose, Anthony	DET	Bassitt, Chris	OAK	4	Comerica Par...	ND	402	104.8	31.1	68.3	107	30
+04/28/16	Video	View	Ross, David	CHC	Jungmann, Taylor	MIL	2	Wrigley Fiel...	PL	402	107.1	29.5	108.3	112	30
+04/28/16	Video	View	Herrmann, Chris	ARI	Wacha, Michael	STL	2	Chase Field	PL	400	101.3	27.8	77.0	87	27
+04/28/16	Video	View	Davis, Chris	BAL	Danks, John	CHW	3	Oriole Park ...	JE	398	100.5	32.5	82.4	122	15
+04/28/16	Video	View	Realmuto, J.T.	MIA	Maeda, Kenta	LAD	2	Dodger Stadi...	JE	394	103.9	22.6	80.7	61	8
+04/28/16	Video	View	Stanton, Giancarlo	MIA	Baez, Pedro	LAD	8	Dodger Stadi...	JE	387	100.4	24.9	80.3	78	9
+04/28/16	Video	View	Frazier, Todd	CHW	Wilson, Tyler	BAL	1	Oriole Park ...	PL	381	100.2	30.7	108.5	99	30
+04/27/16	Video	View	Davis, Khris	OAK	Verlander, Justin	DET	4	Comerica Par...	PL	448	108.9	27.7	97.3	111	30
+04/27/16	Video	View	Hosmer, Eric	KC	Tropeano, Nick	LAA	1	Angel Stadiu...	ND	447	106.9	27.5	94.6	100	30
+04/27/16	Video	View	Polanco, Gregory	PIT	Miller, Justin	COL	7	Coors Field	PL	446	108.3	25.0	93.9	98	30
+04/27/16	Video	View	Reynolds, Mark	COL	Feliz, Neftali	PIT	7	Coors Field	ND	446	114.9	23.4	106.5	82	30
+04/27/16	Video	View	Park, Byung Ho	MIN	Tomlin, Josh	CLE	6	Target Field	PL	445	110.4	22.0	87.6	79	29
+04/27/16	Video	View	Diaz, Aledmys	STL	Corbin, Patrick	ARI	5	Chase Field	ND	441	113.6	28.7	120.2	97	30
+04/27/16	Video	View	Trout, Mike	LAA	Young, Chris	KC	4	Angel Stadiu...	PL	441	107.5	24.4	88.2	85	29
+04/27/16	Video	View	Martinez, J.D.	DET	Gray, Sonny	OAK	2	Comerica Par...	PL	431	105.7	28.7	82.2	109	30
+04/27/16	Video	View	Rosales, Adam	SD	Broadway, Mike	SF	9	AT&T Park	PL	428	105.0	27.3	99.4	93	30
+04/27/16	Video	View	Parra, Gerardo	COL	Watson, Tony	PIT	8	Coors Field	JE	427	106.3	23.1	94.2	80	27
+04/27/16	Video	View	Story, Trevor	COL	Niese, Jonathon	PIT	4	Coors Field	JE	424	103.7	26.7	89.6	100	27
+04/27/16	Video	View	Goldschmidt, Paul	ARI	Wainwright, Adam	STL	4	Chase Field	JE	422	103.1	31.9	94.4	122	27
+04/27/16	Video	View	Rickard, Joey	BAL	Moore, Matt	TB	5	Tropicana Fi...	ND	421	106.7	26.5	104.4	89	30
+04/27/16	Video	View	Walker, Neil	NYM	Moscot, Jon	CIN	3	Citi Field	PL	420	104.0	26.0	94.7	92	26
+04/27/16	Video	View	Freeman, Freddie	ATL	Layne, Tommy	BOS	8	Fenway Park	PL	420	106.6	24.6	79.3	78	29
+04/27/16	Video	View	Lind, Adam	SEA	Sipp, Tony	HOU	6	Safeco Field	PL	419	107.7	24.7	76.7	82	29
+04/27/16	Video	View	Kemp, Matt	SD	Samardzija, Jeff	SF	3	AT&T Park	ND	417	105.9	28.4	112.2	86	30
+04/27/16	Video	View	Ruiz, Carlos	PHI	Solis, Sammy	WSH	8	Nationals Pa...	PL	417	107.9	26.3	108.1	86	30
+04/27/16	Video	View	Rodriguez, Alex	NYY	Perez, Martin	TEX	4	Globe Life P...	PL	409	103.1	32.6	102.1	122	30
+04/27/16	Video	View	Drury, Brandon	ARI	Wainwright, Adam	STL	2	Chase Field	PL	405	109.4	21.8	104.8	61	30
+04/27/16	Video	View	Escobar, Yunel	LAA	Young, Chris	KC	6	Angel Stadiu...	JE	405	105.2	21.3	94.0	64	4
+04/27/16	Video	View	Simmons, Andrelton	LAA	Hochevar, Luke	KC	7	Angel Stadiu...	JE/L	397	99.5	32.2	105.1	103	26
+04/27/16	Video	View	Myers, Wil	SD	Okert, Steven	SF	7	AT&T Park	PL	394	109.7	23.4	119.6	59	30
+04/27/16	Video	View	Arenado, Nolan	COL	Niese, Jonathon	PIT	4	Coors Field	PL	394	103.6	28.3	113.2	87	30
+04/27/16	Video	View	Cozart, Zack	CIN	Harvey, Matt	NYM	1	Citi Field	PL	388	101.5	31.6	109.7	106	30
+04/27/16	Video	View	Martinez, Victor	DET	Hendriks, Liam	OAK	6	Comerica Par...	PL	382	101.1	25.7	75.2	76	26
+04/27/16	Video	View	Altuve, Jose	HOU	Iwakuma, Hisashi	SEA	1	Safeco Field	PL	375	107.8	22.3	115.7	56	26
+04/27/16	Video	View	Pedroia, Dustin	BOS	Grilli, Jason	ATL	8	Fenway Park	JE	363	98.6	27.8	116.4	71	11
+04/27/16	Video	View	Cano, Robinson	SEA	Mchugh, Collin	HOU	1	Safeco Field	JE	362	104.5	22.1	68.2	54	9
+04/27/16	Video	View	Pedroia, Dustin	BOS	Norris, Bud	ATL	2	Fenway Park	PL	336	90.4	32.5	49.5	67	1
+04/26/16	Video	View	Encarnacion, Edwin	TOR	Sale, Chris	CHW	7	Rogers Centr...	ND	451	108.9	25.4	92.8	97	30
+04/26/16	Video	View	Garcia, Avisail	CHW	Dickey, R.A.	TOR	3	Rogers Centr...	PL	449	112.4	21.4	95.0	75	30
+04/26/16	Video	View	McCutchen, Andrew	PIT	De La Rosa, Jorge	COL	2	Coors Field	PL	444	106.7	28.7	98.0	108	30
+04/26/16	Video	View	Piscotty, Stephen	STL	Leone, Dominic	ARI	7	Chase Field	PL	444	106.7	26.8	92.3	100	30
+04/26/16	Video	View	McCutchen, Andrew	PIT	De La Rosa, Jorge	COL	1	Coors Field	ND	437	111.3	24.3	105.6	79	30
+04/26/16	Video	View	Desmond, Ian	TEX	Nova, Ivan	NYY	5	Globe Life P...	PL	433	110.9	20.1	93.1	65	27
+04/26/16	Video	View	Stanton, Giancarlo	MIA	Kershaw, Clayton	LAD	6	Dodger Stadi...	PL	433	106.9	23.6	88.0	84	28
+04/26/16	Video	View	Freese, David	PIT	De La Rosa, Jorge	COL	1	Coors Field	JE	432	104.3	29.2	84.6	108	27
+04/26/16	Video	View	Arenado, Nolan	COL	Cole, Gerrit	PIT	4	Coors Field	JE	427	106.5	23.3	95.3	77	26
+04/26/16	Video	View	Eaton, Adam	CHW	Storen, Drew	TOR	9	Rogers Centr...	PL	426	106.2	25.2	81.5	86	30
+04/26/16	Video	View	Shaw, Travis	BOS	Wisler, Matt	ATL	1	Turner Field	ND	419	108.0	30.8	62.5	103	30
+04/26/16	Video	View	Napoli, Mike	CLE	Jepsen, Kevin	MIN	9	Target Field	PL	418	108.0	25.3	102.0	94	30
+04/26/16	Video	View	Odor, Rougned	TEX	Shreve, Chasen	NYY	8	Globe Life P...	PL	416	105.5	23.6	82.2	75	27
+04/26/16	Video	View	Blanco, Andres	PHI	Scherzer, Max	WSH	1	Nationals Pa...	JE	408	101.6	25.5	85.9	77	11
+04/26/16	Video	View	De Jesus, Ivan	CIN	Colon, Bartolo	NYM	4	Citi Field	PL	408	105.7	22.0	97.1	70	19
+04/26/16	Video	View	Marte, Starling	PIT	Germen, Gonzalez	COL	6	Coors Field	ND	408	104.2	33.8	115.3	115	30
+04/26/16	Video	View	Semien, Marcus	OAK	Pelfrey, Mike	DET	7	Comerica Par...	PL	402	104.2	27.0	108.0	83	30
+04/26/16	Video	View	Moustakas, Mike	KC	Weaver, Jered	LAA	1	Angel Stadiu...	JE	402	99.8	27.2	93.5	87	4
+04/26/16	Video	View	Cano, Robinson	SEA	Feliz, Michael	HOU	7	Safeco Field	JE	401	104.6	21.0	86.1	65	2
+04/26/16	Video	View	Moss, Brandon	STL	Miller, Shelby	ARI	5	Chase Field	PL	399	103.7	29.0	67.0	89	30
+04/26/16	Video	View	Giavotella, Johnny	LAA	Volquez, Edinson	KC	5	Angel Stadiu...	JE	395	106.4	23.8	108.7	65	30
+04/26/16	Video	View	Lamb, Jake	ARI	Lyons, Tyler	STL	9	Chase Field	JE	394	102.7	24.5	77.8	71	21
+04/26/16	Video	View	McCutchen, Andrew	PIT	Bergman, Christian	COL	6	Coors Field	JE/L	387	106.2	22.9	70.8	59	24
+04/26/16	Video	View	Tomas, Yasmany	ARI	Lyons, Tyler	STL	9	Chase Field	JE	379	103.0	24.2	71.0	64	21
+04/26/16	Video	View	Uribe, Juan	CLE	Nolasco, Ricky	MIN	3	Target Field	PL	375	105.4	23.3	112.6	62	28
+04/26/16	Video	View	Cespedes, Yoenis	NYM	Finnegan, Brandon	CIN	7	Citi Field	JE	369	112.2	20.2	121.2	47	22
+04/26/16	Video	View	Rosario, Eddie	MIN	Anderson, Cody	CLE	6	Target Field	JE/L	369	99.9	25.9	71.8	73	14
+04/26/16	Video	View	Kiermaier, Kevin	TB	Jimenez, Ubaldo	BAL	6	Tropicana Fi...	PL	364	96.5	32.5	69.1	98	19
+04/26/16	Video	View	Navarro, Dioner	CHW	Dickey, R.A.	TOR	7	Rogers Centr...	JE	357	96.6	29.4	65.1	77	15
+04/26/16	Video	View	Kipnis, Jason	CLE	Nolasco, Ricky	MIN	1	Target Field	JE	355	101.0	25.4	63.4	68	24
+04/25/16	Video	View	Joyce, Matt	PIT	Oberg, Scott	COL	7	Coors Field	PL	432	106.1	26.6	103.0	82	30
+04/25/16	Video	View	Saunders, Michael	TOR	Gonzalez, Miguel	CHW	3	Rogers Centr...	PL	426	104.5	26.4	94.3	94	28
+04/25/16	Video	View	Martinez, Victor	DET	Graveman, Kendall	OAK	5	Comerica Par...	PL	425	105.3	28.2	80.2	103	29
+04/25/16	Video	View	Trout, Mike	LAA	Soria, Joakim	KC	7	Angel Stadiu...	PL	425	120.5	18.3	103.2	52	30
+04/25/16	Video	View	Conforto, Michael	NYM	Iglesias, Raisel	CIN	1	Citi Field	PL	424	106.7	22.9	84.9	79	25
+04/25/16	Video	View	Ellsbury, Jacoby	NYY	Ramos, Cesar	TEX	3	Globe Life P...	PL	422	104.4	29.7	80.3	110	29
+04/25/16	Video	View	Thompson, Trayce	LAD	Chen, Wei-Yin	MIA	4	Dodger Stadi...	PL	410	102.7	26.9	101.7	89	26
+04/25/16	Video	View	Gomes, Yan	CLE	Pressly, Ryan	MIN	8	Target Field	PL	407	103.1	25.7	97.8	88	28
+04/25/16	Video	View	Carpenter, Matt	STL	Greinke, Zack	ARI	7	Chase Field	PL	405	105.1	24.6	76.0	73	29
+04/25/16	Video	View	Stanton, Giancarlo	MIA	Stripling, Ross	LAD	4	Dodger Stadi...	ND	402	106.8	30.8	119.9	101	30
+04/25/16	Video	View	Castro, Starlin	NYY	Ramos, Cesar	TEX	6	Globe Life P...	JE	401	102.4	26.7	102.6	83	30
+04/25/16	Video	View	Seager, Kyle	SEA	Fister, Doug	HOU	4	Safeco Field	PL	399	100.8	28.8	81.6	100	25
+04/25/16	Video	View	Puig, Yasiel	LAD	Chen, Wei-Yin	MIA	4	Dodger Stadi...	PL	399	103.9	24.7	76.4	72	29
+04/25/16	Video	View	Walker, Neil	NYM	Ramirez, J.C.	CIN	7	Citi Field	PL	398	106.9	23.0	74.2	67	29
+04/25/16	Video	View	Segura, Jean	ARI	Siegrist, Kevin	STL	6	Chase Field	PL	397	112.1	21.3	112.1	56	30
+04/25/16	Video	View	Pujols, Albert	LAA	Kennedy, Ian	KC	3	Angel Stadiu...	JE/L	394	99.3	25.7	92.9	80	1
+04/25/16	Video	View	Posey, Buster	SF	Villanueva, Carlos	SD	7	AT&T Park	PL	387	102.3	33.8	110.7	119	30
+04/25/16	Video	View	Arcia, Oswaldo	MIN	McAllister, Zach	CLE	9	Target Field	PL	382	101.6	26.2	72.4	76	24
+04/25/16	Video	View	Duda, Lucas	NYM	Iglesias, Raisel	CIN	3	Citi Field	JE	380	99.5	32.4	74.4	111	29
+04/25/16	Video	View	Bradley Jr., Jackie	BOS	Teheran, Julio	ATL	7	Turner Field	PL	379	99.4	30.6	67.3	90	29
+04/25/16	Video	View	Pence, Hunter	SF	Pomeranz, Drew	SD	4	AT&T Park	PL	379	101.1	32.9	120.8	98	30
+04/25/16	Video	View	Hazelbaker, Jeremy	STL	Greinke, Zack	ARI	5	Chase Field	JE	372	100.1	26.4	110.9	70	17
+04/25/16	Video	View	Pujols, Albert	LAA	Kennedy, Ian	KC	5	Angel Stadiu...	JE/L	370	97.0	34.9	111.1	108	19
+04/25/16	Video	View	Nicholas, Brett	TEX	Betances, Dellin	NYY	8	Globe Life P...	JE/L	365	98.0	37.5	72.7	131	12
+04/25/16	Video	View	Martin, Leonys	SEA	Fister, Doug	HOU	3	Safeco Field	PL	358	99.0	35.3	62.9	113	30
+04/25/16	Video	View	Cabrera, Miguel	DET	Graveman, Kendall	OAK	5	Comerica Par...	JE	354	101.0	25.2	59.5	60	18
+04/25/16	Video	View	Cabrera, Miguel	DET	Graveman, Kendall	OAK	1	Comerica Par...	JE	347	96.0	36.8	62.1	112	24
+04/24/16	Video	View	Pence, Hunter	SF	Conley, Adam	MIA	4	AT&T Park	PL	445	107.6	24.7	92.1	82	30
+04/24/16	Video	View	Mazara, Nomar	TEX	Latos, Mat	CHW	1	U.S. Cellula...	ND	435	110.7	25.3	75.3	90	30
+04/24/16	Video	View	Pujols, Albert	LAA	Miley, Wade	SEA	1	Angel Stadiu...	ND	435	108.5	25.1	102.0	81	30
+04/24/16	Video	View	Rasmus, Colby	HOU	Kimbrel, Craig	BOS	9	Minute Maid ...	ND	433	106.5	28.6	79.9	107	30
+04/24/16	Video	View	Souza Jr., Steven	TB	Pineda, Michael	NYY	1	Yankee Stadi...	ND	428	110.2	24.5	106.7	75	30
+04/24/16	Video	View	Heisey, Chris	WSH	Tonkin, Michael	MIN	16	Nationals Pa...	PL	427	107.3	25.3	100.9	86	30
+04/24/16	Video	View	Bethancourt, Christian	SD	Leake, Mike	STL	4	PETCO Park	PL/L	420	99.9	32.9	96.1	109	5
+04/24/16	Video	View	Carrera, Ezequiel	TOR	Surkamp, Eric	OAK	3	Rogers Centr...	PL	419	103.1	28.7	83.5	104	27
+04/24/16	Video	View	Davis, Khris	OAK	Hutchison, Drew	TOR	2	Rogers Centr...	JE	418	103.6	26.5	83.6	91	26
+04/24/16	Video	View	Rizzo, Anthony	CHC	Simon, Alfredo	CIN	3	Great Americ...	JE	416	102.2	26.8	92.1	91	20
+04/24/16	Video	View	Harper, Bryce	WSH	Jepsen, Kevin	MIN	9	Nationals Pa...	PL	413	101.3	30.3	87.0	108	20
+04/24/16	Video	View	Reddick, Josh	OAK	Hutchison, Drew	TOR	6	Rogers Centr...	PL	409	110.7	21.5	75.2	61	29
+04/24/16	Video	View	Dozier, Brian	MIN	Strasburg, Stephen	WSH	8	Nationals Pa...	ND	409	106.6	30.2	117.8	96	30
+04/24/16	Video	View	Dickerson, Corey	TB	Pineda, Michael	NYY	1	Yankee Stadi...	ND	407	104.5	26.4	73.1	80	29
+04/24/16	Video	View	Realmuto, J.T.	MIA	Osich, Josh	SF	8	AT&T Park	PL	405	99.5	30.0	102.3	90	15
+04/24/16	Video	View	Stanton, Giancarlo	MIA	Cain, Matt	SF	4	AT&T Park	PL	404	112.9	21.5	112.0	57	30
+04/24/16	Video	View	Escobar, Yunel	LAA	Miley, Wade	SEA	8	Angel Stadiu...	JE	401	102.1	23.8	94.5	69	5
+04/24/16	Video	View	Bautista, Jose	TOR	Surkamp, Eric	OAK	4	Rogers Centr...	PL	400	107.6	22.8	106.2	64	30
+04/24/16	Video	View	Seager, Kyle	SEA	Shoemaker, Matt	LAA	1	Angel Stadiu...	PL	398	101.1	35.4	72.2	124	27
+04/24/16	Video	View	Pearce, Steve	TB	Pineda, Michael	NYY	3	Yankee Stadi...	PL/L	397	100.4	36.0	102.9	129	23
+04/24/16	Video	View	Martin, Leonys	SEA	Shoemaker, Matt	LAA	4	Angel Stadiu...	PL	395	112.3	22.5	59.2	57	30
+04/24/16	Video	View	Pederson, Joc	LAD	Lyles, Jordan	COL	3	Coors Field	PL	393	98.4	40.0	71.1	135	0
+04/24/16	Video	View	Diaz, Aledmys	STL	Quackenbush, Kevin	SD	6	PETCO Park	PL	390	96.3	36.8	112.6	108	2
+04/24/16	Video	View	Smith, Seth	SEA	Rasmus, Cory	LAA	9	Angel Stadiu...	PL	389	100.6	37.4	63.5	124	25
+04/24/16	Video	View	Presley, Alex	MIL	Neris, Hector	PHI	6	Miller Park	PL	388	104.9	23.7	72.1	65	25
+04/24/16	Video	View	Gyorko, Jedd	STL	Quackenbush, Kevin	SD	6	PETCO Park	PL	388	99.0	30.5	64.2	80	21
+04/24/16	Video	View	Rizzo, Anthony	CHC	Simon, Alfredo	CIN	1	Great Americ...	JE	384	97.3	31.8	81.2	106	4
+04/24/16	Video	View	Navarro, Dioner	CHW	Holland, Derek	TEX	3	U.S. Cellula...	PL	384	97.9	34.3	106.6	111	22
+04/24/16	Video	View	Gennett, Scooter	MIL	Eickhoff, Jerad	PHI	6	Miller Park	JE	383	99.7	27.1	105.2	79	22
+04/24/16	Video	View	Tomas, Yasmany	ARI	Vogelsong, Ryan	PIT	8	Chase Field	PL	381	102.2	27.0	65.4	74	29
+04/24/16	Video	View	Forsythe, Logan	TB	Goody, Nick	NYY	8	Yankee Stadi...	PL	379	102.4	24.8	71.2	67	20
+04/24/16	Video	View	Hosmer, Eric	KC	Wright, Mike	BAL	6	Kauffman Sta...	JE	377	105.3	25.6	55.8	65	30
+04/24/16	Video	View	La Stella, Tommy	CHC	Hayes, Drew	CIN	6	Great Americ...	PL	376	101.4	36.8	71.2	136	25
+04/24/16	Video	View	Souza Jr., Steven	TB	Pineda, Michael	NYY	5	Yankee Stadi...	ND	370	102.9	27.5	55.8	71	30
+04/24/16	Video	View	Goldschmidt, Paul	ARI	Melancon, Mark	PIT	9	Chase Field	JE	370	98.7	28.3	67.6	77	22
+04/24/16	Video	View	Goldschmidt, Paul	ARI	Liriano, Francisco	PIT	1	Chase Field	JE	365	96.6	31.9	66.9	92	22
+04/24/16	Video	View	den Dekker, Matt	WSH	Duffey, Tyler	MIN	1	Nationals Pa...	PL	364	98.4	32.6	60.9	94	30
+04/24/16	Video	View	Coghlan, Chris	OAK	Chavez, Jesse	TOR	7	Rogers Centr...	PL	363	101.5	37.7	65.0	135	29
+04/24/16	Video	View	Braun, Ryan	MIL	Eickhoff, Jerad	PHI	4	Miller Park	PL	362	97.0	34.0	66.0	104	25
+04/24/16	Video	View	Gordon, Alex	KC	Wright, Mike	BAL	4	Kauffman Sta...	JE	359	96.0	34.3	120.2	95	21
+04/24/16	Video	View	Gonzalez, Marwin	HOU	Owens, Henry	BOS	2	Minute Maid ...	PL	359	94.8	33.6	106.6	104	3
+04/24/16	Video	View	Castillo, Welington	ARI	Liriano, Francisco	PIT	3	Chase Field	JE	348	103.5	23.3	128.1	51	17
+04/23/16	Video	View	Trout, Mike	LAA	Hernandez, Felix	SEA	6	Angel Stadiu...	PL	432	104.4	27.1	90.7	96	27
+04/23/16	Video	View	Ellis, A.J.	LAD	Chatwood, Tyler	COL	2	Coors Field	ND	425	110.5	25.4	115.0	73	30
+04/23/16	Video	View	Rasmus, Colby	HOU	Buchholz, Clay	BOS	5	Minute Maid ...	ND	424	110.2	23.4	75.0	73	30
+04/23/16	Video	View	Perez, Salvador	KC	Wilson, Tyler	BAL	2	Kauffman Sta...	PL	424	105.7	25.4	99.3	82	30
+04/23/16	Video	View	Tulowitzki, Troy	TOR	Bassitt, Chris	OAK	5	Rogers Centr...	PL	422	103.7	29.1	96.7	107	29
+04/23/16	Video	View	Carter, Chris	MIL	Hinojosa, Dalier	PHI	8	Miller Park	ND	421	105.2	28.6	102.7	101	30
+04/23/16	Video	View	Tulowitzki, Troy	TOR	Hendriks, Liam	OAK	7	Rogers Centr...	JE	420	105.7	22.9	85.8	74	23
+04/23/16	Video	View	Suarez, Eugenio	CIN	Lackey, John	CHC	6	Great Americ...	PL	420	106.4	21.9	87.3	71	24
+04/23/16	Video	View	Gyorko, Jedd	STL	Villanueva, Carlos	SD	8	PETCO Park	ND	420	110.8	23.9	106.9	81	30
+04/23/16	Video	View	Desmond, Ian	TEX	Rodon, Carlos	CHW	2	U.S. Cellula...	JE	416	104.5	23.2	88.5	77	21
+04/23/16	Video	View	Hazelbaker, Jeremy	STL	Hand, Brad	SD	7	PETCO Park	JE	416	105.2	21.9	87.7	78	18
+04/23/16	Video	View	Donaldson, Josh	TOR	Bassitt, Chris	OAK	2	Rogers Centr...	JE	413	101.8	27.1	89.6	93	21
+04/23/16	Video	View	Davis, Chris	BAL	Medlen, Kris	KC	2	Kauffman Sta...	PL	413	103.1	33.8	105.7	122	30
+04/23/16	Video	View	Russell, Addison	CHC	Straily, Dan	CIN	2	Great Americ...	ND	410	108.3	27.5	117.6	83	30
+04/23/16	Video	View	Votto, Joey	CIN	Ramirez, Neil	CHC	7	Great Americ...	PL	408	103.3	33.1	80.2	129	29
+04/23/16	Video	View	Gomes, Yan	CLE	Sanchez, Anibal	DET	3	Comerica Par...	PL	402	101.6	31.1	101.5	111	30
+04/23/16	Video	View	Saltalamacchia, Jarrod	DET	Kluber, Corey	CLE	5	Comerica Par...	PL	402	103.6	27.6	73.5	88	30
+04/23/16	Video	View	Cabrera, Melky	CHW	Lewis, Colby	TEX	2	U.S. Cellula...	PL	400	103.2	25.5	77.1	78	28
+04/23/16	Video	View	Herrera, Odubel	PHI	Jeffress, Jeremy	MIL	9	Miller Park	PL	400	99.7	28.4	96.1	94	11
+04/23/16	Video	View	Herrmann, Chris	ARI	Schugel, A.J.	PIT	8	Chase Field	PL	399	106.3	26.9	62.9	77	30
+04/23/16	Video	View	Duvall, Adam	CIN	Cahill, Trevor	CHC	6	Great Americ...	PL	395	101.6	27.0	104.0	83	28
+04/23/16	Video	View	Peralta, David	ARI	Nicasio, Juan	PIT	3	Chase Field	PL	394	100.0	29.2	76.3	92	26
+04/23/16	Video	View	Braun, Ryan	MIL	Oberholtzer, Brett	PHI	3	Miller Park	PL	393	109.7	22.6	113.6	60	30
+04/23/16	Video	View	Gardner, Brett	NYY	Ramirez, Erasmo	TB	9	Yankee Stadi...	ND	392	104.4	25.9	72.4	83	30
+04/23/16	Video	View	Cabrera, Asdrubal	NYM	Weber, Ryan	ATL	9	Turner Field	PL	390	103.1	30.7	63.8	96	30
+04/23/16	Video	View	Walker, Neil	NYM	Weber, Ryan	ATL	9	Turner Field	PL	386	107.1	24.9	60.1	66	30
+04/23/16	Video	View	Piscotty, Stephen	STL	Vargas, Cesar	SD	6	PETCO Park	PL	384	108.7	21.4	109.6	59	24
+04/23/16	Video	View	Cruz, Nelson	SEA	Santiago, Hector	LAA	6	Angel Stadiu...	PL	384	100.0	31.4	113.5	94	30
+04/23/16	Video	View	Franco, Maikel	PHI	Anderson, Chase	MIL	4	Miller Park	PL	379	101.2	28.8	116.1	81	30
+04/23/16	Video	View	Pennington, Cliff	LAA	Hernandez, Felix	SEA	3	Angel Stadiu...	PL	378	100.2	31.6	59.7	89	30
+04/23/16	Video	View	Canha, Mark	OAK	Happ, J.A.	TOR	1	Rogers Centr...	JE	374	97.9	29.6	72.3	87	21
+04/23/16	Video	View	Frazier, Todd	CHW	Dyson, Sam	TEX	8	U.S. Cellula...	PL	366	98.6	29.5	114.8	83	24
+04/23/16	Video	View	Rodriguez, Sean	PIT	De La Rosa, Rubby	ARI	2	Chase Field	JE	365	96.6	31.8	67.0	91	22
+04/23/16	Video	View	Schebler, Scott	CIN	Cahill, Trevor	CHC	6	Great Americ...	JE	361	97.5	36.7	73.3	127	12
+04/23/16	Video	View	Kiermaier, Kevin	TB	Tanaka, Masahiro	NYY	5	Yankee Stadi...	PL	355	98.0	36.1	59.0	110	29
+04/22/16	Video	View	Rodriguez, Sean	PIT	Corbin, Patrick	ARI	2	Chase Field	ND	468	113.1	32.5	101.4	147	30
+04/22/16	Video	View	Mercer, Jordy	PIT	Corbin, Patrick	ARI	3	Chase Field	ND	461	114.6	23.8	102.8	84	30
+04/22/16	Video	View	Polanco, Gregory	PIT	Corbin, Patrick	ARI	2	Chase Field	PL	457	108.8	25.9	92.6	97	30
+04/22/16	Video	View	Castillo, Welington	ARI	Watson, Tony	PIT	8	Chase Field	ND	442	117.1	25.9	123.8	81	30
+04/22/16	Video	View	Moustakas, Mike	KC	Gallardo, Yovani	BAL	1	Kauffman Sta...	PL	436	106.6	25.5	86.0	94	28
+04/22/16	Video	View	Arenado, Nolan	COL	Kazmir, Scott	LAD	4	Coors Field	ND	435	109.4	28.8	116.8	90	30
+04/22/16	Video	View	Grichuk, Randal	STL	Cashner, Andrew	SD	4	PETCO Park	PL	434	108.2	23.7	96.0	95	30
+04/22/16	Video	View	Seager, Corey	LAD	Gray, Jon	COL	1	Coors Field	PL	433	102.9	27.7	89.0	90	27
+04/22/16	Video	View	Sano, Miguel	MIN	Rivero, Felipe	WSH	8	Nationals Pa...	PL	430	103.9	28.1	89.0	101	27
+04/22/16	Video	View	Cron, C.J.	LAA	Iwakuma, Hisashi	SEA	5	Angel Stadiu...	PL	426	103.2	27.3	88.8	92	27
+04/22/16	Video	View	Gonzalez, Adrian	LAD	Gray, Jon	COL	1	Coors Field	ND	420	105.9	30.1	62.6	92	30
+04/22/16	Video	View	Machado, Manny	BAL	Young, Chris	KC	6	Kauffman Sta...	JE	419	103.5	25.8	94.2	88	25
+04/22/16	Video	View	Myers, Wil	SD	Wainwright, Adam	STL	1	PETCO Park	PL	419	105.0	23.6	86.9	88	26
+04/22/16	Video	View	Franco, Maikel	PHI	Capuano, Chris	MIL	7	Miller Park	PL	417	104.1	27.5	100.5	94	30
+04/22/16	Video	View	Cozart, Zack	CIN	Lester, Jon	CHC	6	Great Americ...	PL	406	101.8	29.3	100.6	101	30
+04/22/16	Video	View	Barney, Darwin	TOR	Gray, Sonny	OAK	3	Rogers Centr...	ND	403	105.7	29.6	116.3	94	30
+04/22/16	Video	View	Rizzo, Anthony	CHC	Moscot, Jon	CIN	4	Great Americ...	PL	401	105.2	25.0	73.0	74	29
+04/22/16	Video	View	Granderson, Curtis	NYM	Norris, Bud	ATL	4	Turner Field	ND	401	105.9	29.3	61.3	89	30
+04/22/16	Video	View	Werth, Jayson	WSH	Tonkin, Michael	MIN	5	Nationals Pa...	PL	399	103.4	27.1	108.3	80	30
+04/22/16	Video	View	Coghlan, Chris	OAK	Sanchez, Aaron	TOR	2	Rogers Centr...	JE	398	101.5	27.2	102.4	85	28
+04/22/16	Video	View	Calhoun, Kole	LAA	Iwakuma, Hisashi	SEA	4	Angel Stadiu...	PL	397	103.5	26.2	71.0	72	29
+04/22/16	Video	View	McCann, Brian	NYY	Moore, Matt	TB	2	Yankee Stadi...	PL	391	99.8	32.7	78.7	118	21
+04/22/16	Video	View	Raburn, Ryan	COL	Kazmir, Scott	LAD	4	Coors Field	JE	390	111.4	21.0	113.6	51	24
+04/22/16	Video	View	Byrd, Marlon	CLE	Verlander, Justin	DET	7	Comerica Par...	PL	389	101.8	25.9	74.3	74	25
+04/22/16	Video	View	Peralta, David	ARI	Niese, Jonathon	PIT	2	Chase Field	JE	379	97.0	34.1	108.0	108	12
+04/22/16	Video	View	Castillo, Welington	ARI	Niese, Jonathon	PIT	4	Chase Field	PL	378	101.0	37.5	110.0	136	20
+04/22/16	Video	View	Franco, Maikel	PHI	Davies, Zach	MIL	5	Miller Park	PL	377	102.5	36.9	109.9	139	30
+04/22/16	Video	View	Granderson, Curtis	NYM	Norris, Bud	ATL	2	Turner Field	PL	376	107.8	23.3	58.1	57	29
+04/22/16	Video	View	Santana, Carlos	CLE	Verlander, Justin	DET	1	Comerica Par...	PL	372	98.9	27.5	70.0	74	18
+04/22/16	Video	View	Cruz, Nelson	SEA	Alvarez, Jose	LAA	10	Angel Stadiu...	JE	369	108.9	21.8	121.6	51	26
+04/22/16	Video	View	Baez, Javier	CHC	Hoover, J.J.	CIN	9	Great Americ...	JE	367	109.6	20.7	117.5	48	11
+04/21/16	Video	View	Tomas, Yasmany	ARI	Cueto, Johnny	SF	4	AT&T Park	PL	439	107.0	25.4	96.3	84	30
+04/21/16	Video	View	Moustakas, Mike	KC	Pelfrey, Mike	DET	4	Kauffman Sta...	JE	426	110.4	19.1	89.1	61	25
+04/21/16	Video	View	Davis, Khris	OAK	Shreve, Chasen	NYY	7	Yankee Stadi...	JE	426	102.4	29.8	93.6	103	26
+04/21/16	Video	View	Trout, Mike	LAA	Danks, John	CHW	5	U.S. Cellula...	PL	425	105.2	27.4	99.4	97	30
+04/21/16	Video	View	Bryant, Kris	CHC	Finnegan, Brandon	CIN	1	Great Americ...	ND	424	111.6	28.1	121.3	89	30
+04/21/16	Video	View	Rasmus, Colby	HOU	Griffin, A.J.	TEX	4	Globe Life P...	PL	423	106.2	25.6	78.8	85	29
+04/21/16	Video	View	Cano, Robinson	SEA	Allen, Cody	CLE	10	Progressive ...	PL	422	100.9	30.6	88.4	103	18
+04/21/16	Video	View	Harper, Bryce	WSH	Koehler, Tom	MIA	1	Marlins Park	JE	420	106.6	21.7	88.2	70	23
+04/21/16	Video	View	Beltre, Adrian	TEX	Neshek, Pat	HOU	7	Globe Life P...	JE	419	109.1	20.0	93.7	62	20
+04/21/16	Video	View	Cabrera, Melky	CHW	Weaver, Jered	LAA	7	U.S. Cellula...	ND	417	108.0	25.3	72.2	79	30
+04/21/16	Video	View	Bryant, Kris	CHC	Hayes, Drew	CIN	7	Great Americ...	JE	417	102.3	30.4	90.7	114	26
+04/21/16	Video	View	Sano, Miguel	MIN	Torres, Carlos	MIL	7	Miller Park	PL	416	102.6	29.2	82.6	104	27
+04/21/16	Video	View	Crisp, Coco	OAK	Shreve, Chasen	NYY	7	Yankee Stadi...	ND	416	105.7	31.8	114.9	104	30
+04/21/16	Video	View	Longoria, Evan	TB	Price, David	BOS	3	Fenway Park	JE	410	101.1	32.8	96.0	120	18
+04/21/16	Video	View	Desmond, Ian	TEX	Keuchel, Dallas	HOU	1	Globe Life P...	PL	408	107.9	21.6	79.7	63	25
+04/21/16	Video	View	Frazier, Todd	CHW	Street, Huston	LAA	9	U.S. Cellula...	PL	404	101.2	28.0	79.3	89	26
+04/21/16	Video	View	Ross, David	CHC	Melville, Tim	CIN	6	Great Americ...	PL	398	101.9	24.8	81.0	74	18
+04/21/16	Video	View	Rizzo, Anthony	CHC	Melville, Tim	CIN	6	Great Americ...	PL	397	107.0	22.6	74.8	63	25
+04/21/16	Video	View	Betts, Mookie	BOS	Farquhar, Danny	TB	6	Fenway Park	ND	395	100.8	35.6	108.0	124	25
+04/21/16	Video	View	Rasmus, Colby	HOU	Barnette, Tony	TEX	8	Globe Life P...	PL	394	102.9	28.2	68.9	85	30
+04/21/16	Video	View	Ozuna, Marcell	MIA	Scherzer, Max	WSH	1	Marlins Park	PL	389	106.8	36.6	114.0	144	30
+04/21/16	Video	View	Casali, Curt	TB	Price, David	BOS	4	Fenway Park	JE	386	103.1	25.7	111.3	69	25
+04/21/16	Video	View	Davis, Rajai	CLE	Karns, Nathan	SEA	5	Progressive ...	JE	385	106.9	21.9	107.6	57	16
+04/21/16	Video	View	Dozier, Brian	MIN	Freeman, Sam	MIL	8	Miller Park	PL	384	101.3	33.6	113.2	112	30
+04/21/16	Video	View	Canha, Mark	OAK	Severino, Luis	NYY	5	Yankee Stadi...	PL	384	102.7	24.2	73.8	64	6
+04/21/16	Video	View	Napoli, Mike	CLE	Benoit, Joaquin	SEA	8	Progressive ...	JE	383	104.6	24.8	115.9	63	21
+04/21/16	Video	View	Zobrist, Ben	CHC	Finnegan, Brandon	CIN	2	Great Americ...	JE	378	97.8	28.1	76.2	82	5
+04/21/16	Video	View	Pedroia, Dustin	BOS	Odorizzi, Jake	TB	1	Fenway Park	JE	374	102.3	25.6	113.1	68	21
+04/21/16	Video	View	Coghlan, Chris	OAK	Barbato, Johnny	NYY	8	Yankee Stadi...	PL	367	97.9	34.8	74.8	123	7
+04/21/16	Video	View	Clevenger, Steve	SEA	Anderson, Cody	CLE	2	Progressive ...	PL	362	96.9	33.6	62.6	97	26
+04/20/16	Video	View	Rizzo, Anthony	CHC	Martinez, Carlos	STL	4	Busch Stadiu...	ND	436	112.9	27.4	61.8	89	30
+04/20/16	Video	View	Dickerson, Corey	TB	Porcello, Rick	BOS	6	Fenway Park	PL	426	107.4	24.2	80.2	78	29
+04/20/16	Video	View	Kemp, Matt	SD	Locke, Jeff	PIT	4	PETCO Park	PL	424	108.3	20.8	94.7	72	23
+04/20/16	Video	View	Dietrich, Derek	MIA	Petit, Yusmeiro	WSH	5	Marlins Park	PL	412	107.9	22.7	78.1	69	29
+04/20/16	Video	View	Carter, Chris	MIL	Pressly, Ryan	MIN	7	Miller Park	JE	412	115.9	16.7	84.8	47	12
+04/20/16	Video	View	Gonzalez, Adrian	LAD	O'Flaherty, Eric	ATL	6	Turner Field	JE	411	100.9	30.5	87.4	110	18
+04/20/16	Video	View	Taylor, Michael	WSH	Chen, Wei-Yin	MIA	5	Marlins Park	JE	410	105.1	23.2	82.2	72	25
+04/20/16	Video	View	White, Tyler	HOU	Hamels, Cole	TEX	6	Globe Life P...	JE	410	110.6	20.4	100.5	59	25
+04/20/16	Video	View	Castillo, Welington	ARI	Bumgarner, Madison	SF	7	AT&T Park	JE	410	101.9	26.7	98.6	81	20
+04/20/16	Video	View	Gordon, Alex	KC	Rodriguez, Francisco	DET	9	Kauffman Sta...	JE	409	101.7	28.9	81.2	100	28
+04/20/16	Video	View	Duvall, Adam	CIN	Bettis, Chad	COL	2	Great Americ...	ND	406	105.9	27.4	112.7	83	30
+04/20/16	Video	View	Arcia, Oswaldo	MIN	Nelson, Jimmy	MIL	6	Miller Park	ND	405	109.0	35.3	63.5	138	30
+04/20/16	Video	View	Hill, Aaron	MIL	Pressly, Ryan	MIN	6	Miller Park	PL	401	103.5	29.6	110.0	96	30
+04/20/16	Video	View	Odor, Rougned	TEX	Fister, Doug	HOU	2	Globe Life P...	PL	398	104.5	34.0	67.3	123	30
+04/20/16	Video	View	Perez, Salvador	KC	Rodriguez, Francisco	DET	9	Kauffman Sta...	PL	398	101.3	32.3	104.0	114	30
+04/20/16	Video	View	Bruce, Jay	CIN	Bettis, Chad	COL	2	Great Americ...	PL	395	99.0	31.1	80.5	104	17
+04/20/16	Video	View	Galvis, Freddy	PHI	Colon, Bartolo	NYM	2	Citizens Ban...	JE	395	100.1	32.1	96.5	119	14
+04/20/16	Video	View	Cespedes, Yoenis	NYM	Hellickson, Jeremy	PHI	5	Citizens Ban...	PL	392	105.1	23.1	104.1	65	24
+04/20/16	Video	View	Duda, Lucas	NYM	Hellickson, Jeremy	PHI	5	Citizens Ban...	ND	389	103.9	31.5	61.6	100	30
+04/20/16	Video	View	Rosario, Eddie	MIN	Nelson, Jimmy	MIL	6	Miller Park	JE	386	99.7	26.7	102.3	79	15
+04/20/16	Video	View	Donaldson, Josh	TOR	Jimenez, Ubaldo	BAL	5	Oriole Park ...	JE	381	100.8	25.4	74.5	70	13
+04/20/16	Video	View	Betts, Mookie	BOS	Archer, Chris	TB	2	Fenway Park	JE	380	104.3	25.6	116.7	68	30
+04/20/16	Video	View	Santana, Domingo	MIL	O'Rourke, Ryan	MIN	8	Miller Park	JE	378	100.5	26.3	71.9	73	21
+04/20/16	Video	View	Holliday, Matt	STL	Hendricks, Kyle	CHC	1	Busch Stadiu...	PL/L	372	97.4	40.3	109.5	134	1
+04/20/16	Video	View	Saladino, Tyler	CHW	Richards, Garrett	LAA	1	U.S. Cellula...	PL	372	102.4	26.4	118.4	68	29
+04/20/16	Video	View	Beltran, Carlos	NYY	Dull, Ryan	OAK	8	Yankee Stadi...	PL	371	100.5	34.6	67.7	119	29
+04/20/16	Video	View	Gregorius, Didi	NYY	Graveman, Kendall	OAK	2	Yankee Stadi...	JE	336	97.5	26.1	56.1	58	2
+04/19/16	Video	View	Werth, Jayson	WSH	Conley, Adam	MIA	7	Marlins Park	PL	432	113.0	20.2	97.7	64	30
+04/19/16	Video	View	Reynolds, Mark	COL	Hoover, J.J.	CIN	9	Great Americ...	PL	426	109.0	20.0	88.6	68	25
+04/19/16	Video	View	Saltalamacchia, Jarrod	DET	Duffy, Danny	KC	7	Kauffman Sta...	JE	425	106.4	22.6	90.5	76	27
+04/19/16	Video	View	Fielder, Prince	TEX	Feldman, Scott	HOU	1	Globe Life P...	ND	423	110.3	28.2	63.2	92	30
+04/19/16	Video	View	Machado, Manny	BAL	Stroman, Marcus	TOR	4	Oriole Park ...	PL	422	107.1	21.7	93.2	72	23
+04/19/16	Video	View	Duda, Lucas	NYM	Oberholtzer, Brett	PHI	7	Citizens Ban...	PL	420	105.5	23.6	85.5	81	26
+04/19/16	Video	View	Myers, Wil	SD	Liriano, Francisco	PIT	4	PETCO Park	PL	418	113.2	19.9	101.1	60	30
+04/19/16	Video	View	Rosario, Eddie	MIN	Thornburg, Tyler	MIL	8	Target Field	JE	416	104.5	23.4	87.1	82	22
+04/19/16	Video	View	Springer, George	HOU	Kela, Keone	TEX	7	Globe Life P...	JE	414	103.4	24.0	88.5	78	20
+04/19/16	Video	View	Norris, Derek	SD	Liriano, Francisco	PIT	5	PETCO Park	PL	414	102.7	25.6	92.1	89	20
+04/19/16	Video	View	Harper, Bryce	WSH	Narveson, Chris	MIA	7	Marlins Park	PL	413	106.1	24.0	78.6	75	29
+04/19/16	Video	View	Abreu, Jose	CHW	Shoemaker, Matt	LAA	4	U.S. Cellula...	JE	411	102.1	26.6	96.5	92	18
+04/19/16	Video	View	Altuve, Jose	HOU	Kela, Keone	TEX	7	Globe Life P...	PL	409	108.4	24.2	108.5	71	30
+04/19/16	Video	View	Park, Byung Ho	MIN	Thornburg, Tyler	MIL	8	Target Field	ND	407	106.5	26.2	108.1	85	30
+04/19/16	Video	View	Zimmerman, Ryan	WSH	Narveson, Chris	MIA	7	Marlins Park	JE	406	104.6	23.5	81.0	72	23
+04/19/16	Video	View	Cespedes, Yoenis	NYM	Velasquez, Vincent	PHI	3	Citizens Ban...	PL	403	109.3	21.6	104.3	62	30
+04/19/16	Video	View	Perez, Salvador	KC	Hardy, Blaine	DET	5	Kauffman Sta...	JE	398	105.7	23.8	105.7	68	30
+04/19/16	Video	View	Ramos, Wilson	WSH	Conley, Adam	MIA	7	Marlins Park	JE	396	101.3	34.4	98.8	132	21
+04/19/16	Video	View	Granderson, Curtis	NYM	Russell, James	PHI	8	Citizens Ban...	ND	396	102.8	30.9	74.0	110	30
+04/19/16	Video	View	Frazier, Todd	CHW	Shoemaker, Matt	LAA	2	U.S. Cellula...	PL	387	107.0	23.9	112.9	67	30
+04/19/16	Video	View	Rosales, Adam	SD	Caminero, Arquimedes	PIT	5	PETCO Park	PL	376	103.2	34.3	117.9	118	30
+04/19/16	Video	View	Moreland, Mitch	TEX	Devenski, Chris	HOU	7	Globe Life P...	JE	369	111.3	20.0	63.2	46	13
+04/19/16	Video	View	Walker, Neil	NYM	Oberholtzer, Brett	PHI	6	Citizens Ban...	PL	368	100.0	28.3	116.1	78	27
+04/19/16	Video	View	Kiermaier, Kevin	TB	Barnes, Matt	BOS	10	Fenway Park	PL	368	100.2	32.1	60.4	96	30
+04/19/16	Video	View	Conforto, Michael	NYM	Velasquez, Vincent	PHI	1	Citizens Ban...	JE	363	95.7	30.5	74.3	92	7
+04/19/16	Video	View	Seager, Kyle	SEA	Carrasco, Carlos	CLE	6	Progressive ...	PL	359	105.5	31.9	69.8	129	30
+04/19/16	Video	View	Wieters, Matt	BAL	Stroman, Marcus	TOR	7	Oriole Park ...	JE/L	353	100.3	25.2	63.0	62	14
+04/19/16	Video	View	Walker, Neil	NYM	Oberholtzer, Brett	PHI	7	Citizens Ban...	PL	349	95.8	33.1	117.1	95	20
+04/18/16	Video	View	Story, Trevor	COL	Ohlendorf, Ross	CIN	8	Great Americ...	PL	435	106.9	24.9	84.5	87	28
+04/18/16	Video	View	Fowler, Dexter	CHC	Leake, Mike	STL	6	Busch Stadiu...	PL	435	109.1	22.3	85.1	76	26
+04/18/16	Video	View	Duda, Lucas	NYM	Hernandez, David	PHI	8	Citizens Ban...	ND	422	109.5	26.2	68.5	83	30
+04/18/16	Video	View	Paulsen, Ben	COL	Diaz, Jumbo	CIN	8	Great Americ...	PL	422	108.4	20.5	87.4	65	26
+04/18/16	Video	View	Sano, Miguel	MIN	Anderson, Chase	MIL	2	Target Field	PL	415	113.2	18.4	97.7	57	22
+04/18/16	Video	View	Stanton, Giancarlo	MIA	Roark, Tanner	WSH	5	Marlins Park	JE	414	104.2	24.2	83.8	78	20
+04/18/16	Video	View	Wright, David	NYM	Eickhoff, Jerad	PHI	1	Citizens Ban...	ND	411	104.0	28.7	73.3	94	30
+04/18/16	Video	View	Castillo, Welington	ARI	Peavy, Jake	SF	4	AT&T Park	JE/L	407	99.5	32.2	88.9	113	0
+04/18/16	Video	View	Panik, Joe	SF	Bradley, Archie	ARI	5	AT&T Park	JE	385	101.2	33.8	72.7	123	29
+04/18/16	Video	View	Park, Byung Ho	MIN	Anderson, Chase	MIL	4	Target Field	PL	385	103.0	29.9	74.3	112	30
+04/18/16	Video	View	Walker, Neil	NYM	Hernandez, David	PHI	8	Citizens Ban...	PL	374	100.3	29.2	117.7	80	30
+04/18/16	Video	View	Wright, David	NYM	Araujo, Elvis	PHI	9	Citizens Ban...	PL	366	97.9	35.6	73.1	123	15
+04/18/16	Video	View	Lamb, Jake	ARI	Casilla, Santiago	SF	9	AT&T Park	JE	363	98.1	35.0	69.9	117	23
+04/17/16	Video	View	Rodriguez, Sean	PIT	Torres, Carlos	MIL	8	PNC Park	ND	449	115.8	29.6	118.2	111	30
+04/17/16	Video	View	McCutchen, Andrew	PIT	Capuano, Chris	MIL	5	PNC Park	PL	430	104.8	25.8	89.6	93	27
+04/17/16	Video	View	Harper, Bryce	WSH	Gomez, Jeanmar	PHI	10	Citizens Ban...	PL	428	113.3	19.6	82.5	60	29
+04/17/16	Video	View	Springer, George	HOU	Sanchez, Anibal	DET	3	Minute Maid ...	JE	427	108.7	22.1	96.6	72	29
+04/17/16	Video	View	Tomas, Yasmany	ARI	Erlin, Robbie	SD	6	PETCO Park	PL	418	102.5	27.0	87.4	94	23
+04/17/16	Video	View	Gosselin, Phil	ARI	Quackenbush, Kevin	SD	8	PETCO Park	JE	412	104.8	23.7	99.0	75	21
+04/17/16	Video	View	Carpenter, Matt	STL	Moscot, Jon	CIN	5	Busch Stadiu...	PL	412	107.3	25.0	72.3	76	30
+04/17/16	Video	View	Gyorko, Jedd	STL	Moscot, Jon	CIN	2	Busch Stadiu...	JE	411	106.0	20.7	91.0	60	11
+04/17/16	Video	View	Moustakas, Mike	KC	Bassitt, Chris	OAK	3	Oakland-Alam...	PL	406	106.8	23.4	75.7	69	29
+04/17/16	Video	View	Pederson, Joc	LAD	Samardzija, Jeff	SF	5	Dodger Stadi...	PL	402	101.4	32.3	70.0	103	30
+04/17/16	Video	View	Pujols, Albert	LAA	Gibson, Kyle	MIN	1	Target Field	PL	396	102.5	32.5	108.8	114	30
+04/17/16	Video	View	Drury, Brandon	ARI	Erlin, Robbie	SD	4	PETCO Park	PL	393	101.0	27.3	103.4	88	23
+04/17/16	Video	View	Arenado, Nolan	COL	Grimm, Justin	CHC	9	Wrigley Fiel...	PL	393	100.7	30.5	104.8	103	30
+04/17/16	Video	View	Rodriguez, Alex	NYY	Iwakuma, Hisashi	SEA	2	Yankee Stadi...	ND	391	105.4	27.6	122.6	74	30
+04/17/16	Video	View	Saltalamacchia, Jarrod	DET	Fiers, Mike	HOU	5	Minute Maid ...	PL	386	105.6	25.0	64.8	67	30
+04/17/16	Video	View	Shaw, Travis	BOS	Osuna, Roberto	TOR	9	Fenway Park	JE	385	103.8	24.8	69.7	70	25
+04/17/16	Video	View	Tomas, Yasmany	ARI	Erlin, Robbie	SD	1	PETCO Park	PL	383	102.1	25.5	71.9	71	27
+04/17/16	Video	View	Panik, Joe	SF	Maeda, Kenta	LAD	3	Dodger Stadi...	PL	382	99.8	36.2	66.8	119	28
+04/17/16	Video	View	Kinsler, Ian	DET	Fiers, Mike	HOU	5	Minute Maid ...	ND	378	102.9	35.8	117.9	124	30
+04/17/16	Video	View	Martinez, J.D.	DET	Fiers, Mike	HOU	6	Minute Maid ...	PL	367	99.6	28.0	64.0	74	25
+04/17/16	Video	View	Ruiz, Carlos	PHI	Gonzalez, Gio	WSH	2	Citizens Ban...	PL	364	99.7	27.8	118.5	71	23
+04/17/16	Video	View	Arenado, Nolan	COL	Lester, Jon	CHC	4	Wrigley Fiel...	JE	364	97.1	31.6	108.7	99	21
+04/17/16	Video	View	Altuve, Jose	HOU	Sanchez, Anibal	DET	1	Minute Maid ...	PL	360	95.8	31.9	68.1	92	14
+04/17/16	Video	View	Bautista, Jose	TOR	Wright, Steven	BOS	1	Fenway Park	JE	343	98.0	39.9	115.6	134	6
+04/16/16	Video	View	Park, Byung Ho	MIN	Smith, Joe	LAA	8	Target Field	ND	466	112.9	22.6	91.7	91	30
+04/16/16	Video	View	Jones, Adam	BAL	Lewis, Colby	TEX	3	Globe Life P...	ND	460	112.4	24.7	97.9	96	30
+04/16/16	Video	View	Miller, Brad	TB	Danks, John	CHW	4	Tropicana Fi...	ND	443	109.5	26.2	78.8	96	29
+04/16/16	Video	View	Bour, Justin	MIA	Norris, Bud	ATL	6	Marlins Park	PL	424	106.4	30.8	76.1	118	30
+04/16/16	Video	View	Walker, Neil	NYM	Shaw, Bryan	CLE	8	Progressive ...	ND	421	110.4	30.6	60.2	105	30
+04/16/16	Video	View	Arcia, Oswaldo	MIN	Smith, Joe	LAA	8	Target Field	PL	420	109.1	20.2	95.0	65	25
+04/16/16	Video	View	Martin, Leonys	SEA	Sabathia, CC	NYY	5	Yankee Stadi...	ND	419	107.1	28.0	74.2	101	30
+04/16/16	Video	View	Soler, Jorge	CHC	Bergman, Christian	COL	4	Wrigley Fiel...	PL	417	103.1	27.4	95.6	100	27
+04/16/16	Video	View	Piscotty, Stephen	STL	Finnegan, Brandon	CIN	2	Busch Stadiu...	JE	417	104.1	23.4	89.7	80	21
+04/16/16	Video	View	Machado, Manny	BAL	Lewis, Colby	TEX	1	Globe Life P...	JE	413	114.6	18.8	100.2	53	25
+04/16/16	Video	View	Seager, Corey	LAD	Lopez, Javier	SF	8	Dodger Stadi...	JE	412	102.5	25.3	93.2	86	18
+04/16/16	Video	View	Rupp, Cameron	PHI	Scherzer, Max	WSH	5	Citizens Ban...	ND	408	105.5	29.3	110.5	99	30
+04/16/16	Video	View	Upton Jr., Melvin	SD	De La Rosa, Rubby	ARI	14	PETCO Park	JE	406	100.5	31.5	91.2	117	8
+04/16/16	Video	View	Hechavarria, Adeiny	MIA	Norris, Bud	ATL	2	Marlins Park	JE	405	102.6	25.8	99.3	82	25
+04/16/16	Video	View	Moss, Brandon	STL	Hoover, J.J.	CIN	9	Busch Stadiu...	PL	404	102.0	28.8	100.5	101	30
+04/16/16	Video	View	McCutchen, Andrew	PIT	Jungmann, Taylor	MIL	5	PNC Park	PL	404	105.1	34.2	108.0	131	30
+04/16/16	Video	View	Fowler, Dexter	CHC	Hale, David	COL	7	Wrigley Fiel...	PL	397	102.6	26.1	76.6	81	29
+04/16/16	Video	View	White, Tyler	HOU	Verlander, Justin	DET	1	Minute Maid ...	ND	394	104.8	26.8	113.6	77	30
+04/16/16	Video	View	Heisey, Chris	WSH	Russell, James	PHI	9	Citizens Ban...	JE	391	104.9	22.2	78.6	63	15
+04/16/16	Video	View	Gonzalez, Carlos	COL	Wood, Travis	CHC	9	Wrigley Fiel...	PL	389	101.0	25.7	102.1	78	18
+04/16/16	Video	View	Harper, Bryce	WSH	Nola, Aaron	PHI	5	Citizens Ban...	ND	389	104.4	29.6	58.9	87	30
+04/16/16	Video	View	Cespedes, Yoenis	NYM	Shaw, Bryan	CLE	8	Progressive ...	PL	386	101.5	32.1	111.5	107	30
+04/16/16	Video	View	Springer, George	HOU	Verlander, Justin	DET	1	Minute Maid ...	ND	385	108.8	24.9	127.3	64	30
+04/16/16	Video	View	Davis, Chris	BAL	Lewis, Colby	TEX	5	Globe Life P...	JE	384	107.3	21.5	73.0	56	17
+04/16/16	Video	View	Plouffe, Trevor	MIN	Weaver, Jered	LAA	3	Target Field	PL	383	107.6	23.9	118.9	62	30
+04/16/16	Video	View	Vogt, Stephen	OAK	Gee, Dillon	KC	7	Oakland-Alam...	JE	383	98.2	27.6	78.3	82	4
+04/16/16	Video	View	Jennings, Desmond	TB	Putnam, Zach	CHW	8	Tropicana Fi...	PL	382	100.4	31.8	112.2	101	30
+04/16/16	Video	View	Rizzo, Anthony	CHC	Bergman, Christian	COL	4	Wrigley Fiel...	PL	381	100.1	31.5	65.7	95	29
+04/16/16	Video	View	Kemp, Matt	SD	Buschmann, Matt	ARI	3	PETCO Park	PL	377	103.5	24.8	113.5	65	28
+04/16/16	Video	View	Bogaerts, Xander	BOS	Estrada, Marco	TOR	3	Fenway Park	JE	375	99.0	28.0	109.4	79	16
+04/16/16	Video	View	Reddick, Josh	OAK	Young, Chris	KC	1	Oakland-Alam...	PL	370	105.3	24.8	55.0	60	30
+04/16/16	Video	View	Beltran, Carlos	NYY	Vincent, Nick	SEA	7	Yankee Stadi...	PL	369	96.3	29.1	75.8	86	4
+04/16/16	Video	View	Bruce, Jay	CIN	Broxton, Jonathan	STL	9	Busch Stadiu...	JE	361	103.1	25.0	52.9	60	22
+04/16/16	Video	View	Granderson, Curtis	NYM	Tomlin, Josh	CLE	1	Progressive ...	JE	353	94.6	34.3	66.3	99	13
+04/16/16	Video	View	Guyer, Brandon	TB	Danks, John	CHW	3	Tropicana Fi...	JE	341	101.1	24.1	126.4	53	4
+04/16/16	Video	View	Saltalamacchia, Jarrod	DET	McHugh, Collin	HOU	6	Minute Maid ...	PL	340	93.8	34.0	58.2	90	20
+04/16/16	Video	N/A	Lawrie, Brett	CHW	Geltz, Steven	TB	7	Tropicana Fi...		0	0.0	0.0	0.0	0	0
+04/15/16	Video	View	Hernandez, Enrique	LAD	Bumgarner, Madison	SF	1	Dodger Stadi...	ND	456	114.6	20.0	94.7	74	30
+04/15/16	Video	View	Hosmer, Eric	KC	Doolittle, Sean	OAK	9	Oakland-Alam...	PL	443	112.2	20.0	88.5	69	28
+04/15/16	Video	View	Holliday, Matt	STL	Straily, Dan	CIN	6	Busch Stadiu...	PL	441	106.6	26.4	89.5	99	30
+04/15/16	Video	View	Braun, Ryan	MIL	Lobstein, Kyle	PIT	6	PNC Park	PL	436	106.4	25.3	91.9	92	30
+04/15/16	Video	View	Trumbo, Mark	BAL	Perez, Martin	TEX	7	Globe Life P...	PL	432	112.8	18.4	90.6	59	27
+04/15/16	Video	View	Trumbo, Mark	BAL	Faulkner, Andrew	TEX	7	Globe Life P...	PL	432	116.5	19.5	101.0	59	30
+04/15/16	Video	View	Hernandez, Enrique	LAD	Bumgarner, Madison	SF	3	Dodger Stadi...	ND	426	106.7	28.2	104.2	103	30
+04/15/16	Video	View	De Aza, Alejandro	NYM	Anderson, Cody	CLE	5	Progressive ...	JE	424	105.8	22.4	91.1	75	22
+04/15/16	Video	View	Braun, Ryan	MIL	Feliz, Neftali	PIT	8	PNC Park	PL	417	103.2	31.4	87.5	124	27
+04/15/16	Video	View	Grichuk, Randal	STL	Simon, Alfredo	CIN	7	Busch Stadiu...	ND	417	106.4	29.1	109.2	100	30
+04/15/16	Video	View	Holliday, Matt	STL	Melville, Tim	CIN	1	Busch Stadiu...	PL	416	102.2	27.5	92.3	97	21
+04/15/16	Video	View	Moreland, Mitch	TEX	Worley, Vance	BAL	2	Globe Life P...	PL	415	104.2	25.8	98.7	86	29
+04/15/16	Video	View	Schoop, Jonathan	BAL	Faulkner, Andrew	TEX	8	Globe Life P...	ND	413	107.6	32.1	113.9	116	30
+04/15/16	Video	View	Walker, Neil	NYM	Detwiler, Ross	CLE	5	Progressive ...	PL	409	101.4	28.9	98.8	98	30
+04/15/16	Video	View	Conforto, Michael	NYM	Anderson, Cody	CLE	1	Progressive ...	JE	406	102.3	23.8	86.3	76	0
+04/15/16	Video	View	Schoop, Jonathan	BAL	Wilhelmsen, Tom	TEX	7	Globe Life P...	ND	406	110.9	25.3	121.6	71	30
+04/15/16	Video	View	Joyce, Matt	PIT	Nelson, Jimmy	MIL	7	PNC Park	JE	406	104.7	21.7	86.2	66	6
+04/15/16	Video	View	Iannetta, Chris	SEA	Severino, Luis	NYY	5	Yankee Stadi...	PL	402	109.1	22.1	105.4	63	30
+04/15/16	Video	View	Cespedes, Yoenis	NYM	Anderson, Cody	CLE	5	Progressive ...	PL	401	101.4	24.8	80.9	78	3
+04/15/16	Video	View	Reimold, Nolan	BAL	Wilhelmsen, Tom	TEX	7	Globe Life P...	PL	401	105.1	25.9	108.8	77	30
+04/15/16	Video	View	Santana, Carlos	CLE	Reed, Addison	NYM	9	Progressive ...	JE	395	98.0	27.8	79.7	90	0
+04/15/16	Video	View	Diaz, Aledmys	STL	Melville, Tim	CIN	3	Busch Stadiu...	PL	394	109.2	23.9	118.0	64	30
+04/15/16	Video	View	Vogt, Stephen	OAK	Volquez, Edinson	KC	2	Oakland-Alam...	PL	393	103.4	25.7	72.9	75	28
+04/15/16	Video	View	Harper, Bryce	WSH	Oberholtzer, Brett	PHI	6	Citizens Ban...	PL	392	101.2	32.7	74.4	115	30
+04/15/16	Video	View	Calhoun, Kole	LAA	Milone, Tommy	MIN	7	Target Field	ND	392	106.0	27.8	66.2	92	30
+04/15/16	Video	View	Gardner, Brett	NYY	Karns, Nathan	SEA	1	Yankee Stadi...	ND	381	105.9	24.5	62.6	64	29
+04/15/16	Video	View	Adams, Matt	STL	Diaz, Jumbo	CIN	8	Busch Stadiu...	PL	381	102.5	35.5	67.3	128	29
+04/15/16	Video	View	Howard, Ryan	PHI	Petit, Yusmeiro	WSH	9	Citizens Ban...	PL	380	102.4	25.2	71.0	69	23
+04/15/16	Video	View	Moss, Brandon	STL	Simon, Alfredo	CIN	7	Busch Stadiu...	JE	376	111.8	19.8	67.4	48	15
+04/15/16	Video	View	Taylor, Michael	WSH	Hellickson, Jeremy	PHI	1	Citizens Ban...	PL	368	103.8	25.0	119.9	62	27
+04/15/16	Video	View	Encarnacion, Edwin	TOR	Porcello, Rick	BOS	2	Fenway Park	PL	364	100.4	29.2	119.4	82	30
+04/15/16	Video	View	Pujols, Albert	LAA	Milone, Tommy	MIN	7	Target Field	JE	362	100.8	25.5	65.8	68	25
+04/15/16	Video	View	Castillo, Welington	ARI	Shields, James	SD	2	PETCO Park	PL	362	99.0	30.6	109.3	103	29
+04/15/16	Video	View	Votto, Joey	CIN	Martinez, Carlos	STL	3	Busch Stadiu...	JE	361	97.0	33.0	117.0	95	26
+04/15/16	Video	View	Encarnacion, Edwin	TOR	Porcello, Rick	BOS	7	Fenway Park	JE	360	99.1	27.9	118.9	71	18
+04/14/16	Video	View	Ramos, Wilson	WSH	Teheran, Julio	ATL	4	Nationals Pa...	ND	445	111.6	23.7	100.6	81	30
+04/14/16	Video	View	Donaldson, Josh	TOR	Eovaldi, Nathan	NYY	5	Rogers Centr...	PL	445	107.8	25.3	92.1	95	30
+04/14/16	Video	View	Garcia, Avisail	CHW	Santana, Ervin	MIN	4	Target Field	PL	434	105.8	25.4	91.6	90	28
+04/14/16	Video	View	Byrd, Marlon	CLE	Archer, Chris	TB	6	Tropicana Fi...	PL	432	105.7	27.4	96.4	101	30
+04/14/16	Video	View	Harper, Bryce	WSH	Teheran, Julio	ATL	3	Nationals Pa...	ND	429	109.6	25.7	73.3	86	30
+04/14/16	Video	View	Trumbo, Mark	BAL	Hamels, Cole	TEX	4	Globe Life P...	PL	412	105.6	23.5	80.8	73	28
+04/14/16	Video	View	Howard, Ryan	PHI	Pomeranz, Drew	SD	2	Citizens Ban...	PL	411	102.5	28.2	97.6	99	30
+04/14/16	Video	View	Grichuk, Randal	STL	Peralta, Wily	MIL	3	Busch Stadiu...	JE	409	100.9	28.7	90.8	104	20
+04/14/16	Video	View	Davis, Rajai	CLE	Geltz, Steven	TB	6	Tropicana Fi...	PL	407	102.9	27.6	102.3	91	30
+04/14/16	Video	View	Tulowitzki, Troy	TOR	Eovaldi, Nathan	NYY	6	Rogers Centr...	ND	407	111.7	25.4	124.3	71	30
+04/14/16	Video	View	Hazelbaker, Jeremy	STL	Capuano, Chris	MIL	7	Busch Stadiu...	PL	405	105.9	27.9	64.6	83	30
+04/14/16	Video	View	Castellanos, Nick	DET	Watson, Tony	PIT	8	PNC Park	JE	402	102.6	25.9	102.7	75	30
+04/14/16	Video	View	Altuve, Jose	HOU	Kennedy, Ian	KC	7	Minute Maid ...	PL	400	102.3	26.1	77.9	81	26
+04/14/16	Video	View	Parra, Gerardo	COL	Cain, Matt	SF	5	Coors Field	JE	397	107.1	23.7	67.4	60	29
+04/14/16	Video	View	Belt, Brandon	SF	Qualls, Chad	COL	8	Coors Field	JE	379	96.3	30.3	111.0	80	7
+04/14/16	Video	View	Bryant, Kris	CHC	Iglesias, Raisel	CIN	2	Wrigley Fiel...	JE	369	100.7	24.6	108.0	66	9
+04/14/16	Video	View	Ramirez, Jose	CLE	Farquhar, Danny	TB	9	Tropicana Fi...	JE	364	101.0	24.5	68.9	62	9
+04/14/16	Video	View	Moustakas, Mike	KC	Fister, Doug	HOU	1	Minute Maid ...	JE	348	95.4	37.1	68.3	118	6
+04/13/16	Video	View	Santana, Domingo	MIL	Rosenthal, Trevor	STL	9	Busch Stadiu...	PL	437	110.4	21.0	86.0	77	27
+04/13/16	Video	View	Werth, Jayson	WSH	Wisler, Matt	ATL	4	Nationals Pa...	PL	432	109.6	21.0	94.5	76	28
+04/13/16	Video	View	Sands, Jerry	CHW	Hughes, Phil	MIN	7	Target Field	JE	425	109.4	19.4	89.9	65	23
+04/13/16	Video	View	Moss, Brandon	STL	Blazek, Michael	MIL	8	Busch Stadiu...	PL	420	108.1	21.3	83.6	72	24
+04/13/16	Video	View	Kipnis, Jason	CLE	Ramirez, Erasmo	TB	8	Tropicana Fi...	ND	417	107.5	32.1	69.1	121	30
+04/13/16	Video	View	Altuve, Jose	HOU	Ventura, Yordano	KC	6	Minute Maid ...	ND	414	109.8	27.9	120.6	86	30
+04/13/16	Video	View	Ahmed, Nick	ARI	Wood, Alex	LAD	3	Dodger Stadi...	PL	414	104.9	24.1	99.4	80	21
+04/13/16	Video	View	Gonzalez, Adrian	LAD	De La Rosa, Rubby	ARI	4	Dodger Stadi...	PL	412	102.1	28.3	84.4	101	25
+04/13/16	Video	View	Kinsler, Ian	DET	Vogelsong, Ryan	PIT	4	PNC Park	JE	410	102.0	25.5	90.6	85	15
+04/13/16	Video	View	Semien, Marcus	OAK	Salas, Fernando	LAA	8	Oakland-Alam...	PL	407	106.5	25.5	108.5	77	30
+04/13/16	Video	View	Arenado, Nolan	COL	Osich, Josh	SF	8	Coors Field	ND	406	105.6	32.2	118.7	107	30
+04/13/16	Video	View	Franco, Maikel	PHI	Rea, Colin	SD	1	Citizens Ban...	PL	400	107.5	23.3	107.4	66	30
+04/13/16	Video	View	Arenado, Nolan	COL	Peavy, Jake	SF	3	Coors Field	PL	394	109.3	22.3	112.6	58	30
+04/13/16	Video	View	Bryant, Kris	CHC	Sampson, Keyvius	CIN	4	Wrigley Fiel...	PL	394	108.9	25.7	122.2	71	30
+04/13/16	Video	View	Belt, Brandon	SF	Castro, Miguel	COL	8	Coors Field	PL	394	102.5	36.4	75.0	140	27
+04/13/16	Video	View	Cano, Robinson	SEA	Griffin, A.J.	TEX	5	Safeco Field	ND	392	103.2	29.8	69.1	98	30
+04/13/16	Video	View	Drew, Stephen	WSH	Wisler, Matt	ATL	4	Nationals Pa...	JE	388	99.0	28.6	81.9	96	18
+04/13/16	Video	View	Saltalamacchia, Jarrod	DET	Caminero, Arquimedes	PIT	6	PNC Park	PL	374	100.4	31.1	64.1	94	29
+04/13/16	Video	View	Perez, Salvador	KC	Giles, Ken	HOU	8	Minute Maid ...	PL	374	100.1	26.1	105.5	77	18
+04/13/16	Video	View	Lee, Dae-Ho	SEA	Diekman, Jake	TEX	10	Safeco Field	JE	371	98.8	26.9	109.4	70	13
+04/13/16	Video	View	Davis, Chris	BAL	Kelly, Joe	BOS	3	Fenway Park	JE	360	96.7	29.2	112.7	78	11
+04/13/16	Video	View	Teixeira, Mark	NYY	Storen, Drew	TOR	8	Rogers Centr...	PL	357	99.0	29.0	55.5	73	29
+04/13/16	Video	View	DeShields, Delino	TEX	Peralta, Joel	SEA	8	Safeco Field	JE	354	98.3	26.7	116.9	64	4
+04/12/16	Video	View	Pence, Hunter	SF	Chatwood, Tyler	COL	5	Coors Field	PL	455	106.6	29.3	98.6	104	30
+04/12/16	Video	View	Upton, Justin	DET	Nicasio, Juan	PIT	1	Comerica Par...	PL	452	109.3	25.4	92.5	99	30
+04/12/16	Video	View	Goldschmidt, Paul	ARI	Hatcher, Chris	LAD	8	Dodger Stadi...	ND	430	103.4	31.7	102.5	111	30
+04/12/16	Video	View	Forsythe, Logan	TB	Kluber, Corey	CLE	8	Tropicana Fi...	PL	428	108.9	23.5	100.7	77	30
+04/12/16	Video	View	Lindor, Francisco	CLE	Moore, Matt	TB	4	Tropicana Fi...	JE	420	102.9	27.1	91.4	96	25
+04/12/16	Video	View	Trumbo, Mark	BAL	Buchholz, Clay	BOS	6	Fenway Park	ND	415	105.2	27.1	101.7	99	30
+04/12/16	Video	View	Soto, Geovany	LAA	Doolittle, Sean	OAK	9	Oakland-Alam...	PL	414	106.9	22.4	98.3	71	26
+04/12/16	Video	View	McCann, Brian	NYY	Sanchez, Aaron	TOR	6	Rogers Centr...	PL	411	108.0	24.2	72.8	73	30
+04/12/16	Video	View	Brown, Trevor	SF	Chatwood, Tyler	COL	6	Coors Field	PL	404	103.9	31.9	112.6	108	30
+04/12/16	Video	View	Brown, Trevor	SF	Gurka, Jason	COL	8	Coors Field	JE	403	104.3	25.2	106.4	73	30
+04/12/16	Video	View	Semien, Marcus	OAK	Santiago, Hector	LAA	7	Oakland-Alam...	PL	397	103.0	27.3	107.0	85	30
+04/12/16	Video	View	Marte, Starling	PIT	Sanchez, Anibal	DET	6	Comerica Par...	PL	393	100.1	36.1	112.4	117	23
+04/12/16	Video	View	Longoria, Evan	TB	Allen, Cody	CLE	8	Tropicana Fi...	PL	393	102.3	34.6	104.1	131	30
+04/12/16	Video	View	Semien, Marcus	OAK	Santiago, Hector	LAA	3	Oakland-Alam...	PL	390	102.8	31.1	113.8	100	30
+04/12/16	Video	View	Ortiz, David	BOS	Wright, Mike	BAL	1	Fenway Park	PL	388	104.4	32.9	73.1	128	30
+04/12/16	Video	View	Kinsler, Ian	DET	Luebke, Cory	PIT	7	Comerica Par...	JE	359	97.5	28.6	113.2	78	20
+04/12/16	Video	View	Beltre, Adrian	TEX	Miley, Wade	SEA	3	Safeco Field	JE	359	102.8	25.2	123.2	61	26
+04/12/16	Video	View	Ahmed, Nick	ARI	Baez, Pedro	LAD	7	Dodger Stadi...	JE	356	100.9	26.4	126.3	63	18
+04/12/16	Video	View	Cain, Lorenzo	KC	Fiers, Mike	HOU	1	Minute Maid ...	JE	353	96.4	26.3	109.1	66	1
+04/12/16	Video	View	Hardy, J.J.	BAL	Ross, Robbie	BOS	7	Fenway Park	JE/L	339	92.0	35.4	60.9	92	2
+04/12/16	Video	View	Hardy, J.J.	BAL	Buchholz, Clay	BOS	4	Fenway Park	JE/L	327	95.5	26.2	56.4	56	2
+04/11/16	Video	View	Davis, Chris	BAL	Kimbrel, Craig	BOS	9	Fenway Park	ND	449	105.5	30.3	89.9	112	29
+04/11/16	Video	View	Trout, Mike	LAA	Gray, Sonny	OAK	6	Oakland-Alam...	ND	436	111.1	21.4	96.4	72	29
+04/11/16	Video	View	Morales, Kendrys	KC	Sipp, Tony	HOU	8	Minute Maid ...	ND	432	107.9	25.1	100.1	86	30
+04/11/16	Video	View	Trumbo, Mark	BAL	Price, David	BOS	3	Fenway Park	PL	428	105.1	26.5	78.0	81	28
+04/11/16	Video	View	Stanton, Giancarlo	MIA	Matz, Steven	NYM	2	Citi Field	PL	417	108.4	21.6	97.9	69	30
+04/11/16	Video	View	Carter, Chris	MIL	Bowman, Matt	STL	7	Busch Stadiu...	PL	404	102.7	27.7	84.6	107	28
+04/11/16	Video	View	Martinez, J.D.	DET	Niese, Jonathon	PIT	5	Comerica Par...	ND	402	107.1	27.0	116.7	80	30
+04/11/16	Video	View	Cruz, Nelson	SEA	Kela, Keone	TEX	8	Safeco Field	JE	401	102.4	23.4	85.9	71	4
+04/11/16	Video	View	Rasmus, Colby	HOU	Young, Chris	KC	1	Minute Maid ...	ND	401	105.2	29.8	63.5	93	30
+04/11/16	Video	View	Myers, Wil	SD	Nola, Aaron	PHI	4	Citizens Ban...	PL	399	101.1	27.7	105.1	80	26
+04/11/16	Video	View	Murphy, Daniel	WSH	Norris, Bud	ATL	1	Nationals Pa...	JE/L	397	96.8	30.9	80.3	89	0
+04/11/16	Video	View	Betts, Mookie	BOS	Britton, Zach	BAL	9	Fenway Park	JE	386	93.8	35.0	107.3	94	0
+04/11/16	Video	View	Castellanos, Nick	DET	Niese, Jonathon	PIT	2	Comerica Par...	JE	379	104.4	22.3	74.3	59	5
+04/11/16	Video	View	Russell, Addison	CHC	Diaz, Jumbo	CIN	8	Wrigley Fiel...	JE	371	96.3	29.7	102.8	92	1
+04/11/16	Video	View	Hamilton, Billy	CIN	Lester, Jon	CHC	3	Wrigley Fiel...	JE	361	98.3	32.0	111.3	102	29
+04/11/16	Video	View	Ozuna, Marcell	MIA	Bastardo, Antonio	NYM	6	Citi Field	PL	350	97.5	30.2	57.5	80	28
+04/10/16	Video	View	Arenado, Nolan	COL	Shields, James	SD	1	Coors Field	ND	471	110.8	28.0	100.1	105	30
+04/10/16	Video	View	Donaldson, Josh	TOR	Ramirez, Noe	BOS	8	Rogers Centr...	ND	444	111.3	26.0	104.8	93	30
+04/10/16	Video	View	Altuve, Jose	HOU	Nelson, Jimmy	MIL	1	Miller Park	ND	443	111.0	26.8	106.3	96	30
+04/10/16	Video	View	Arrieta, Jake	CHC	Miller, Shelby	ARI	2	Chase Field	PL	442	107.1	27.7	97.5	104	30
+04/10/16	Video	View	Mazara, Nomar	TEX	Weaver, Jered	LAA	5	Angel Stadiu...	PL	432	101.5	34.6	85.4	121	6
+04/10/16	Video	View	Story, Trevor	COL	Maurer, Brandon	SD	8	Coors Field	PL	429	106.0	28.7	105.1	99	30
+04/10/16	Video	View	Belt, Brandon	SF	Kazmir, Scott	LAD	3	AT&T Park	JE	427	108.3	22.4	84.0	72	26
+04/10/16	Video	View	Moustakas, Mike	KC	Nolasco, Ricky	MIN	6	Kauffman Sta...	PL	423	107.7	24.9	76.7	80	29
+04/10/16	Video	View	Stubbs, Drew	ATL	Wainwright, Adam	STL	4	Turner Field	JE	422	109.6	19.5	91.3	61	22
+04/10/16	Video	View	Gonzalez, Carlos	COL	Maurer, Brandon	SD	8	Coors Field	ND	420	108.9	27.9	61.6	85	30
+04/10/16	Video	View	Dickerson, Corey	TB	Worley, Vance	BAL	4	Oriole Park ...	PL	417	113.0	18.7	82.9	56	25
+04/10/16	Video	View	Raburn, Ryan	COL	Shields, James	SD	7	Coors Field	ND	413	108.6	27.2	123.3	75	30
+04/10/16	Video	View	Moss, Brandon	STL	Perez, Williams	ATL	3	Turner Field	JE	412	101.7	31.4	87.3	119	23
+04/10/16	Video	View	Dozier, Brian	MIN	Hochevar, Luke	KC	7	Kauffman Sta...	JE	412	102.1	29.8	99.1	105	29
+04/10/16	Video	View	Goldschmidt, Paul	ARI	Arrieta, Jake	CHC	4	Chase Field	PL	405	103.6	30.4	109.8	100	30
+04/10/16	Video	View	Carpenter, Matt	STL	Ramirez, Jose	ATL	9	Turner Field	JE	404	104.2	24.7	78.4	76	29
+04/10/16	Video	View	Pagan, Angel	SF	Kazmir, Scott	LAD	4	AT&T Park	PL	403	101.8	25.8	98.7	79	24
+04/10/16	Video	View	Posey, Buster	SF	Kazmir, Scott	LAD	3	AT&T Park	ND	402	103.0	36.2	117.7	121	30
+04/10/16	Video	View	Yelich, Christian	MIA	Papelbon, Jonathan	WSH	9	Nationals Pa...	PL	399	101.0	31.4	69.1	98	29
+04/10/16	Video	View	Soler, Jorge	CHC	Miller, Shelby	ARI	6	Chase Field	PL	399	100.5	31.7	102.7	109	27
+04/10/16	Video	View	Cespedes, Yoenis	NYM	Hellickson, Jeremy	PHI	6	Citi Field	PL	398	101.8	27.1	104.3	82	30
+04/10/16	Video	View	Machado, Manny	BAL	Odorizzi, Jake	TB	2	Oriole Park ...	PL	391	99.8	31.6	99.9	112	28
+04/10/16	Video	View	Herrera, Odubel	PHI	Harvey, Matt	NYM	6	Citi Field	JE	391	99.8	26.9	80.2	85	10
+04/10/16	Video	View	Tucker, Preston	HOU	Nelson, Jimmy	MIL	5	Miller Park	JE	389	104.4	21.7	99.7	60	4
+04/10/16	Video	View	Crisp, Coco	OAK	Vincent, Nick	SEA	10	Safeco Field	PL	386	98.9	32.6	68.6	98	25
+04/10/16	Video	View	Stewart, Chris	PIT	Melville, Tim	CIN	2	Great Americ...	PL	383	101.4	28.8	109.2	91	30
+04/10/16	Video	View	Brito, Socrates	ARI	Arrieta, Jake	CHC	5	Chase Field	JE	379	105.9	24.1	62.5	61	29
+04/10/16	Video	View	Suarez, Eugenio	CIN	Locke, Jeff	PIT	6	Great Americ...	JE	376	98.1	27.9	76.5	85	14
+04/10/16	Video	View	Gonzalez, Carlos	COL	Shields, James	SD	1	Coors Field	JE	368	99.8	27.1	119.1	66	13
+04/10/16	Video	View	Semien, Marcus	OAK	Peralta, Joel	SEA	8	Safeco Field	JE/L	345	95.6	40.3	116.1	127	0
+04/09/16	Video	View	Myers, Wil	SD	Qualls, Chad	COL	9	Coors Field	PL	454	109.9	23.3	92.2	78	30
+04/09/16	Video	View	Cain, Lorenzo	KC	Milone, Tommy	MIN	4	Kauffman Sta...	ND	447	115.1	27.9	119.2	94	30
+04/09/16	Video	View	Rasmus, Colby	HOU	Peralta, Wily	MIL	5	Miller Park	ND	431	108.3	28.7	73.3	104	30
+04/09/16	Video	View	Rodriguez, Alex	NYY	Pelfrey, Mike	DET	1	Comerica Par...	PL	429	117.6	18.4	98.8	55	30
+04/09/16	Video	View	Kemp, Matt	SD	De La Rosa, Jorge	COL	3	Coors Field	ND	426	108.3	28.9	119.2	87	30
+04/09/16	Video	View	White, Tyler	HOU	Peralta, Wily	MIL	5	Miller Park	JE	423	106.1	22.7	92.5	75	26
+04/09/16	Video	View	Suarez, Eugenio	CIN	Lobstein, Kyle	PIT	7	Great Americ...	PL	422	106.1	23.1	93.9	74	25
+04/09/16	Video	View	Napoli, Mike	CLE	Sale, Chris	CHW	6	U.S. Cellula...	PL	421	103.8	27.0	94.3	99	28
+04/09/16	Video	View	Morales, Kendrys	KC	Fien, Casey	MIN	6	Kauffman Sta...	JE	421	103.3	29.0	83.3	106	26
+04/09/16	Video	View	Beltran, Carlos	NYY	Farmer, Buck	DET	5	Comerica Par...	ND	419	109.5	25.1	72.0	80	30
+04/09/16	Video	View	Bautista, Jose	TOR	Porcello, Rick	BOS	3	Rogers Centr...	PL	418	107.2	24.8	103.8	79	30
+04/09/16	Video	View	Kemp, Matt	SD	De La Rosa, Jorge	COL	4	Coors Field	PL	415	101.6	28.9	79.5	92	28
+04/09/16	Video	View	Iannetta, Chris	SEA	Hill, Rich	OAK	2	Safeco Field	PL	412	102.0	27.2	97.1	89	21
+04/09/16	Video	View	Reddick, Josh	OAK	Karns, Nathan	SEA	5	Safeco Field	PL	411	102.9	29.6	76.2	100	29
+04/09/16	Video	View	Abreu, Jose	CHW	Anderson, Cody	CLE	3	U.S. Cellula...	PL	404	108.2	22.0	103.7	65	28
+04/09/16	Video	View	Beltre, Adrian	TEX	Richards, Garrett	LAA	4	Angel Stadiu...	JE	404	100.3	27.4	93.1	92	7
+04/09/16	Video	View	Bumgarner, Madison	SF	Kershaw, Clayton	LAD	2	AT&T Park	PL	399	105.6	28.6	118.3	84	30
+04/09/16	Video	View	Spangenberg, Cory	SD	De La Rosa, Jorge	COL	4	Coors Field	JE	397	103.2	25.4	73.2	70	26
+04/09/16	Video	View	Howard, Ryan	PHI	Colon, Bartolo	NYM	5	Citi Field	PL	396	103.9	24.3	103.0	72	30
+04/09/16	Video	View	Rasmus, Colby	HOU	Peralta, Wily	MIL	3	Miller Park	JE	394	99.7	26.4	97.2	82	6
+04/09/16	Video	View	Moustakas, Mike	KC	Milone, Tommy	MIN	4	Kauffman Sta...	JE	386	105.9	24.9	64.2	66	30
+04/09/16	Video	View	Adrianza, Ehire	SF	Kershaw, Clayton	LAD	5	AT&T Park	PL	382	100.6	33.8	123.7	98	30
+04/09/16	Video	View	Gennett, Scooter	MIL	Fister, Doug	HOU	5	Miller Park	PL	372	100.7	26.9	66.4	72	24
+04/09/16	Video	View	Garcia, Avisail	CHW	Shaw, Bryan	CLE	7	U.S. Cellula...	JE/L	368	98.7	26.0	73.5	70	10
+04/09/16	Video	View	Bautista, Jose	TOR	Porcello, Rick	BOS	1	Rogers Centr...	PL	366	100.2	27.1	116.0	70	23
+04/09/16	Video	View	Nieuwenhuis, Kirk	MIL	Neshek, Pat	HOU	6	Miller Park	JE	366	107.8	20.8	67.2	49	9
+04/09/16	Video	View	Gomes, Yan	CLE	Sale, Chris	CHW	7	U.S. Cellula...	JE	349	96.3	29.7	117.5	78	12
+04/08/16	Video	View	Kemp, Matt	SD	Miller, Justin	COL	5	Coors Field	ND	457	110.0	26.9	100.5	99	30
+04/08/16	Video	View	Park, Byung Ho	MIN	Soria, Joakim	KC	8	Kauffman Sta...	PL	441	108.8	30.7	100.2	128	30
+04/08/16	Video	View	Longoria, Evan	TB	Tillman, Chris	BAL	1	Oriole Park ...	ND	435	111.1	27.8	115.0	92	30
+04/08/16	Video	View	Upton Jr., Melvin	SD	Miller, Justin	COL	6	Coors Field	ND	434	110.0	29.8	118.6	97	30
+04/08/16	Video	View	Schoop, Jonathan	BAL	Archer, Chris	TB	5	Oriole Park ...	PL	428	105.1	26.0	95.3	91	29
+04/08/16	Video	View	Gennett, Scooter	MIL	Feldman, Scott	HOU	1	Miller Park	ND	426	105.7	27.8	78.1	97	29
+04/08/16	Video	View	Braun, Ryan	MIL	Fields, Josh	HOU	8	Miller Park	PL	422	103.4	27.6	85.2	98	25
+04/08/16	Video	View	Carter, Chris	MIL	Feldman, Scott	HOU	1	Miller Park	JE	420	105.4	23.0	86.8	75	25
+04/08/16	Video	View	Piscotty, Stephen	STL	Gant, John	ATL	9	Turner Field	JE	419	104.7	24.2	85.7	82	24
+04/08/16	Video	View	Hazelbaker, Jeremy	STL	Wisler, Matt	ATL	7	Turner Field	JE	411	106.3	22.9	80.5	71	28
+04/08/16	Video	View	Story, Trevor	COL	Rea, Colin	SD	4	Coors Field	ND	409	103.7	36.1	120.6	118	30
+04/08/16	Video	View	Lee, Dae-Ho	SEA	Surkamp, Eric	OAK	5	Safeco Field	PL	409	103.9	29.4	93.8	122	29
+04/08/16	Video	View	Phillips, Brandon	CIN	Liriano, Francisco	PIT	1	Great Americ...	JE	408	103.4	23.3	92.8	73	14
+04/08/16	Video	View	Davis, Chris	BAL	Archer, Chris	TB	2	Oriole Park ...	PL	406	101.0	31.1	85.9	115	18
+04/08/16	Video	View	Marte, Starling	PIT	Hoover, J.J.	CIN	8	Great Americ...	PL	406	101.2	31.1	102.9	104	30
+04/08/16	Video	View	Machado, Manny	BAL	Archer, Chris	TB	5	Oriole Park ...	PL	400	107.2	25.3	113.0	73	30
+04/08/16	Video	View	Brown, Trevor	SF	Hatcher, Chris	LAD	8	AT&T Park	PL	398	99.4	32.7	99.1	113	15
+04/08/16	Video	View	Story, Trevor	COL	Buchter, Ryan	SD	9	Coors Field	PL	397	102.5	27.6	111.7	77	30
+04/08/16	Video	View	Reimold, Nolan	BAL	Archer, Chris	TB	5	Oriole Park ...	JE	396	102.3	23.9	82.1	71	12
+04/08/16	Video	View	Diaz, Aledmys	STL	O'Flaherty, Eric	ATL	8	Turner Field	PL	394	105.0	30.2	119.0	94	30
+04/08/16	Video	View	White, Tyler	HOU	Freeman, Sam	MIL	9	Miller Park	JE	388	101.2	25.9	75.8	75	22
+04/08/16	Video	View	Donaldson, Josh	TOR	Kelly, Joe	BOS	4	Rogers Centr...	PL	387	105.1	26.6	118.1	73	30
+04/08/16	Video	View	Odor, Rougned	TEX	Shoemaker, Matt	LAA	3	Angel Stadiu...	JE	387	98.9	33.5	81.9	121	9
+04/08/16	Video	View	Frazier, Todd	CHW	Salazar, Danny	CLE	4	U.S. Cellula...	PL	386	101.0	31.5	113.5	97	30
+04/08/16	Video	View	Cabrera, Miguel	DET	Cessa, Luis	NYY	7	Comerica Par...	PL	381	100.3	29.8	64.9	85	29
+04/08/16	Video	View	Garcia, Greg	STL	Gant, John	ATL	9	Turner Field	PL	376	101.8	28.4	61.2	78	29
+04/08/16	Video	View	Crawford, Brandon	SF	Blanton, Joe	LAD	10	AT&T Park	JE	376	100.7	26.3	110.3	69	20
+04/08/16	Video	View	Coghlan, Chris	OAK	Cishek, Steve	SEA	9	Safeco Field	PL	371	102.0	27.1	65.2	78	29
+04/08/16	Video	View	Reddick, Josh	OAK	Walker, Taijuan	SEA	5	Safeco Field	PL	356	96.7	29.7	71.7	91	21
+04/08/16	Video	View	Holt, Brock	BOS	Chavez, Jesse	TOR	6	Rogers Centr...	JE	347	103.1	23.4	54.3	52	14
+04/07/16	Video	View	Pederson, Joc	LAD	Romo, Sergio	SF	8	AT&T Park	PL	442	104.9	30.2	82.0	107	27
+04/07/16	Video	View	Pence, Hunter	SF	Baez, Pedro	LAD	8	AT&T Park	PL	431	105.2	27.1	98.8	91	30
+04/07/16	Video	View	Howard, Ryan	PHI	Stephenson, Robert	CIN	5	Great Americ...	PL	424	104.1	26.9	88.4	102	27
+04/07/16	Video	View	Escobar, Yunel	LAA	Holland, Derek	TEX	3	Angel Stadiu...	ND	419	106.0	33.0	110.3	119	30
+04/07/16	Video	View	Castro, Starlin	NYY	Fiers, Mike	HOU	4	Yankee Stadi...	PL/L	418	97.2	37.3	103.3	115	4
+04/07/16	Video	View	White, Tyler	HOU	Eovaldi, Nathan	NYY	2	Yankee Stadi...	JE	414	100.2	30.6	92.0	104	13
+04/07/16	Video	View	Bruce, Jay	CIN	Oberholtzer, Brett	PHI	7	Great Americ...	JE	413	101.3	27.7	92.9	92	18
+04/07/16	Video	View	Bruce, Jay	CIN	Morton, Charlie	PHI	4	Great Americ...	ND	406	104.0	31.2	68.6	104	30
+04/07/16	Video	View	Mauer, Joe	MIN	Jimenez, Ubaldo	BAL	1	Oriole Park ...	JE	406	102.7	24.0	86.0	74	9
+04/07/16	Video	View	Rickard, Joey	BAL	May, Trevor	MIN	8	Oriole Park ...	PL	399	99.1	30.1	96.9	100	11
+04/07/16	Video	View	Ruiz, Carlos	PHI	Sampson, Keyvius	CIN	8	Great Americ...	ND	396	103.1	32.1	116.6	100	30
+04/07/16	Video	View	Tucker, Preston	HOU	Eovaldi, Nathan	NYY	2	Yankee Stadi...	ND	396	105.2	29.5	57.9	87	30
+04/07/16	Video	View	Hunter, Cedric	PHI	Stephenson, Robert	CIN	4	Great Americ...	PL	393	103.7	27.8	68.9	87	30
+04/07/16	Video	View	Segura, Jean	ARI	Lackey, John	CHC	2	Chase Field	ITP/L	390	98.7	26.7	97.2	80	2
+04/07/16	Video	View	Harper, Bryce	WSH	Morris, Bryan	MIA	7	Nationals Pa...	PL	386	102.3	31.3	63.8	98	30
+04/07/16	Video	View	Abreu, Jose	CHW	Graveman, Kendall	OAK	6	Oakland-Alam...	JE	384	104.1	23.7	72.8	64	22
+04/07/16	Video	View	Segura, Jean	ARI	Lackey, John	CHC	1	Chase Field	PL	383	98.4	32.0	73.5	102	24
+04/07/16	Video	View	Rizzo, Anthony	CHC	Delgado, Randall	ARI	9	Chase Field	JE	379	109.0	22.4	60.4	55	29
+04/07/16	Video	View	Chirinos, Robinson	TEX	Santiago, Hector	LAA	3	Angel Stadiu...	PL	376	102.0	37.3	116.5	130	30
+04/07/16	Video	View	Machado, Manny	BAL	Hughes, Phil	MIN	6	Oriole Park ...	JE	373	98.3	28.0	108.2	78	15
+04/07/16	Video	View	Suarez, Eugenio	CIN	Stumpf, Daniel	PHI	4	Great Americ...	PL	370	99.6	35.4	108.2	125	29
+04/07/16	Video	View	McCann, Brian	NYY	Fiers, Mike	HOU	4	Yankee Stadi...	PL	354	101.4	26.0	50.5	61	26
+04/07/16	Video	View	Teixeira, Mark	NYY	Giles, Ken	HOU	7	Yankee Stadi...	JE	346	97.6	26.8	123.5	58	1
+04/06/16	Video	View	Correa, Carlos	HOU	Pineda, Michael	NYY	5	Yankee Stadi...	ND	459	113.5	21.4	87.3	80	30
+04/06/16	Video	View	Souza Jr., Steven	TB	Leon, Arnold	TOR	8	Tropicana Fi...	PL	452	111.3	23.6	96.9	86	30
+04/06/16	Video	View	Fielder, Prince	TEX	Miley, Wade	SEA	6	Globe Life P...	ND	449	110.2	25.9	78.5	94	30
+04/06/16	Video	View	Santana, Carlos	CLE	Buchholz, Clay	BOS	1	Progressive ...	ND	449	100.5	35.3	80.8	111	1
+04/06/16	Video	View	Story, Trevor	COL	Corbin, Patrick	ARI	1	Chase Field	PL	434	110.2	22.2	98.1	72	30
+04/06/16	Video	View	Duffy, Matt	SF	Jungmann, Taylor	MIL	2	Miller Park	PL	429	106.3	24.6	95.5	85	29
+04/06/16	Video	View	Castro, Starlin	NYY	Feliz, Michael	HOU	2	Yankee Stadi...	PL	428	108.1	23.1	96.7	78	30
+04/06/16	Video	View	Cano, Robinson	SEA	Tolleson, Shawn	TEX	9	Globe Life P...	JE	427	107.5	22.7	84.2	74	26
+04/06/16	Video	View	Davis, Chris	BAL	Gibson, Kyle	MIN	3	Oriole Park ...	PL	421	105.2	26.0	90.0	106	28
+04/06/16	Video	View	Napoli, Mike	CLE	Tazawa, Junichi	BOS	7	Progressive ...	PL	421	106.4	23.5	96.5	81	30
+04/06/16	Video	View	Ortiz, David	BOS	Carrasco, Carlos	CLE	6	Progressive ...	PL	420	105.6	28.0	81.1	111	30
+04/06/16	Video	View	LeMahieu, DJ	COL	Corbin, Patrick	ARI	3	Chase Field	ND	419	108.7	25.5	109.8	79	30
+04/06/16	Video	View	Cano, Robinson	SEA	Lewis, Colby	TEX	1	Globe Life P...	PL	417	102.2	33.5	81.4	125	28
+04/06/16	Video	View	Springer, George	HOU	Pineda, Michael	NYY	2	Yankee Stadi...	PL	417	104.8	29.8	102.0	110	30
+04/06/16	Video	View	Souza Jr., Steven	TB	Happ, J.A.	TOR	6	Tropicana Fi...	JE	414	101.8	28.2	88.6	100	23
+04/06/16	Video	View	Ahmed, Nick	ARI	McGee, Jake	COL	9	Chase Field	PL	411	102.3	28.5	100.7	95	30
+04/06/16	Video	View	Hazelbaker, Jeremy	STL	Nicasio, Juan	PIT	6	PNC Park	JE	408	105.7	22.6	81.4	70	24
+04/06/16	Video	View	Martinez, Victor	DET	Narveson, Chris	MIA	8	Marlins Park	PL	403	102.0	27.8	102.2	90	30
+04/06/16	Video	View	Franco, Maikel	PHI	Finnegan, Brandon	CIN	1	Great Americ...	PL	393	104.4	23.1	77.3	68	21
+04/06/16	Video	View	Puig, Yasiel	LAD	Villanueva, Carlos	SD	8	PETCO Park	PL	393	100.2	31.8	101.2	113	25
+04/06/16	Video	View	Saltalamacchia, Jarrod	DET	Fernandez, Jose	MIA	2	Marlins Park	PL	392	103.1	29.2	66.1	89	30
+04/06/16	Video	View	Suarez, Eugenio	CIN	Nola, Aaron	PHI	1	Great Americ...	PL	390	100.7	30.9	103.3	108	30
+04/06/16	Video	View	Carter, Chris	MIL	Samardzija, Jeff	SF	3	Miller Park	JE	389	100.2	26.1	78.7	78	16
+04/06/16	Video	View	Correa, Carlos	HOU	Pineda, Michael	NYY	1	Yankee Stadi...	PL	386	103.4	29.3	114.2	92	30
+04/06/16	Video	View	Donaldson, Josh	TOR	Moore, Matt	TB	3	Tropicana Fi...	PL	385	102.4	35.1	109.7	128	30
+04/06/16	Video	View	Martin, Leonys	SEA	Lewis, Colby	TEX	2	Globe Life P...	JE	382	107.7	21.4	71.9	54	16
+04/06/16	Video	View	Ramirez, Hanley	BOS	Carrasco, Carlos	CLE	6	Progressive ...	JE	382	99.5	29.4	77.7	103	23
+04/06/16	Video	View	Canha, Mark	OAK	Rodon, Carlos	CHW	2	Oakland-Alam...	JE	376	98.5	29.4	70.9	86	22
+04/06/16	Video	View	Holt, Brock	BOS	Carrasco, Carlos	CLE	2	Progressive ...	PL	373	101.4	26.1	68.8	75	24
+04/06/16	Video	View	Raburn, Ryan	COL	Corbin, Patrick	ARI	7	Chase Field	JE	367	96.8	33.9	111.3	104	17
+04/06/16	Video	View	Plouffe, Trevor	MIN	Givens, Mychal	BAL	6	Oriole Park ...	PL	367	99.1	35.0	118.6	108	30
+04/06/16	Video	View	Beltran, Carlos	NYY	Sipp, Tony	HOU	6	Yankee Stadi...	PL	367	99.9	36.9	120.0	118	30
+04/06/16	Video	View	Teixeira, Mark	NYY	Feliz, Michael	HOU	3	Yankee Stadi...	PL	365	99.4	32.1	65.9	102	29
+04/06/16	Video	View	Maeda, Kenta	LAD	Cashner, Andrew	SD	4	PETCO Park	PL	358	96.2	33.3	119.1	92	20
+04/05/16	Video	View	Dickerson, Corey	TB	Sanchez, Aaron	TOR	4	Tropicana Fi...	ND	453	112.0	28.7	75.3	115	30
+04/05/16	Video	View	Goldschmidt, Paul	ARI	Bettis, Chad	COL	1	Chase Field	PL	445	107.0	28.3	83.8	108	30
+04/05/16	Video	View	Story, Trevor	COL	Miller, Shelby	ARI	4	Chase Field	ND	436	107.9	29.9	105.3	112	30
+04/05/16	Video	View	Cano, Robinson	SEA	Wilhelmsen, Tom	TEX	8	Globe Life P...	ND	432	107.7	31.8	77.5	129	30
+04/05/16	Video	View	Cruz, Nelson	SEA	Perez, Martin	TEX	4	Globe Life P...	PL	425	111.1	21.8	101.5	67	30
+04/05/16	Video	View	LeMahieu, DJ	COL	Miller, Shelby	ARI	4	Chase Field	PL	424	108.7	23.1	101.0	72	30
+04/05/16	Video	View	Szczur, Matt	CHC	Heaney, Andrew	LAA	3	Angel Stadiu...	ND	419	106.6	30.4	110.9	105	30
+04/05/16	Video	View	Smith, Seth	SEA	Wilhelmsen, Tom	TEX	8	Globe Life P...	ND	417	109.6	27.9	61.8	88	30
+04/05/16	Video	View	Segura, Jean	ARI	Bettis, Chad	COL	3	Chase Field	PL	413	103.5	32.8	103.4	122	30
+04/05/16	Video	View	Gose, Anthony	DET	Morris, Bryan	MIA	9	Marlins Park	ND	410	107.8	33.0	67.3	126	30
+04/05/16	Video	View	Stanton, Giancarlo	MIA	Verlander, Justin	DET	6	Marlins Park	PL	409	106.6	35.0	103.8	146	30
+04/05/16	Video	View	Rizzo, Anthony	CHC	Heaney, Andrew	LAA	3	Angel Stadiu...	JE	408	100.0	30.5	90.2	107	3
+04/05/16	Video	View	Martinez, Victor	DET	Morris, Bryan	MIA	9	Marlins Park	JE/L	407	106.0	21.8	96.9	66	17
+04/05/16	Video	View	Sardinas, Luis	SEA	Faulkner, Andrew	TEX	8	Globe Life P...	PL	405	104.2	34.1	106.9	129	30
+04/05/16	Video	View	Betts, Mookie	BOS	Kluber, Corey	CLE	3	Progressive ...	JE	399	103.7	23.6	98.4	79	23
+04/05/16	Video	View	Ortiz, David	BOS	Bauer, Trevor	CLE	9	Progressive ...	PL	396	106.0	24.0	74.3	75	30
+04/05/16	Video	View	Frazier, Todd	CHW	Bassitt, Chris	OAK	5	Oakland-Alam...	PL	395	101.5	26.7	102.9	83	27
+04/05/16	Video	View	Correa, Carlos	HOU	Tanaka, Masahiro	NYY	6	Yankee Stadi...	PL	393	106.7	21.9	76.9	62	25
+04/05/16	Video	View	Walker, Neil	NYM	Young, Chris (P)	KC	4	Kauffman Sta...	PL	390	107.5	26.3	54.0	70	30
+04/05/16	Video	View	Fowler, Dexter	CHC	Morin, Mike	LAA	7	Angel Stadiu...	JE	387	106.3	23.8	67.4	63	28
+04/05/16	Video	View	Gregorius, Didi	NYY	Giles, Ken	HOU	8	Yankee Stadi...	PL	386	99.8	26.2	79.8	81	16
+04/05/16	Video	View	Hundley, Nick	COL	Miller, Shelby	ARI	4	Chase Field	PL	386	105.9	25.9	120.9	68	30
+04/05/16	Video	View	Rollins, Jimmy	CHW	Doolittle, Sean	OAK	9	Oakland-Alam...	JE	385	102.2	23.9	102.7	68	8
+04/05/16	Video	View	Forsythe, Logan	TB	Cecil, Brett	TOR	8	Tropicana Fi...	PL	378	99.9	27.0	72.3	76	23
+04/05/16	Video	View	Kinsler, Ian	DET	Chen, Wei-Yin	MIA	2	Marlins Park	PL	376	101.5	35.1	111.4	125	30
+04/05/16	Video	View	Crawford, Brandon	SF	Nelson, Jimmy	MIL	3	Miller Park	PL	376	102.1	36.0	65.9	128	29
+04/05/16	Video	View	Gyorko, Jedd	STL	Niese, Jonathon	PIT	4	PNC Park	JE	370	107.7	23.0	122.3	56	30
+04/04/16	Video	View	Story, Trevor	COL	Greinke, Zack	ARI	4	Chase Field	ND	428	107.1	29.7	107.1	107	30
+04/04/16	Video	View	Posey, Buster	SF	Pena, Ariel	MIL	8	Miller Park	PL	424	105.9	23.4	93.4	79	26
+04/04/16	Video	View	Seager, Kyle	SEA	Hamels, Cole	TEX	2	Globe Life P...	PL	422	103.6	30.3	83.3	114	28
+04/04/16	Video	View	Murphy, Daniel	WSH	Teheran, Julio	ATL	4	Turner Field	PL	422	104.1	24.9	91.0	85	27
+04/04/16	Video	View	Saunders, Michael	TOR	Smyly, Drew	TB	4	Tropicana Fi...	JE	419	103.1	26.9	93.0	95	26
+04/04/16	Video	View	Gonzalez, Carlos	COL	Greinke, Zack	ARI	3	Chase Field	JE	415	119.3	17.6	78.5	48	27
+04/04/16	Video	View	Freeman, Freddie	ATL	Scherzer, Max	WSH	1	Turner Field	JE	412	102.3	26.8	88.5	99	24
+04/04/16	Video	View	Gennett, Scooter	MIL	Bumgarner, Madison	SF	2	Miller Park	ND	406	106.7	28.8	63.4	90	30
+04/04/16	Video	View	Panik, Joe	SF	Pena, Ariel	MIL	8	Miller Park	ND	402	104.4	32.6	69.0	116	30
+04/04/16	Video	View	Harper, Bryce	WSH	Teheran, Julio	ATL	1	Turner Field	ND	401	104.7	34.3	62.9	118	30
+04/04/16	Video	View	Thole, Josh	TOR	Smyly, Drew	TB	3	Tropicana Fi...	JE	399	104.6	22.4	81.4	65	14
+04/04/16	Video	View	Donaldson, Josh	TOR	Smyly, Drew	TB	5	Tropicana Fi...	JE	395	111.3	20.9	109.0	55	30
+04/04/16	Video	View	Cano, Robinson	SEA	Hamels, Cole	TEX	1	Globe Life P...	JE	391	112.4	19.8	72.4	50	22
+04/04/16	Video	View	Garcia, Adonis	ATL	Scherzer, Max	WSH	4	Turner Field	JE	391	102.2	26.8	107.7	80	30
+04/04/16	Video	View	Arenado, Nolan	COL	Bracho, Silvino	ARI	8	Chase Field	PL	386	101.4	34.7	110.4	121	30
+04/04/16	Video	View	Montero, Miguel	CHC	Salas, Fernando	LAA	6	Angel Stadiu...	JE	384	103.4	24.1	73.0	65	21
+04/04/16	Video	View	Duffy, Matt	SF	Torres, Carlos	MIL	5	Miller Park	PL	380	101.7	35.6	110.6	128	30
+04/04/16	Video	View	Villar, Jonathan	MIL	Bumgarner, Madison	SF	3	Miller Park	JE	379	101.3	27.2	112.4	76	29
+04/04/16	Video	View	Galvis, Freddy	PHI	Iglesias, Raisel	CIN	2	Great Americ...	JE	379	96.3	31.1	78.1	96	2
+04/04/16	Video	View	Span, Denard	SF	Pena, Ariel	MIL	8	Miller Park	PL	379	100.1	29.7	67.0	87	29
+04/04/16	Video	View	Souza Jr., Steven	TB	Dickey, R.A.	TOR	2	Tropicana Fi...	PL	379	98.9	31.3	70.7	98	26
+04/04/16	Video	View	Lamb, Jake	ARI	De La Rosa, Jorge	COL	4	Chase Field	JE	377	107.4	23.9	56.7	59	30
+04/04/16	Video	View	Story, Trevor	COL	Greinke, Zack	ARI	3	Chase Field	JE	368	97.7	30.5	65.3	85	25
+04/03/16	Video	View	Tulowitzki, Troy	TOR	Webb, Ryan	TB	8	Tropicana Fi...	PL	400	105.2	25.5	108.3	76	30
+04/03/16	Video	View	Dickerson, Corey	TB	Stroman, Marcus	TOR	9	Tropicana Fi...	PL	385	104.8	24.3	69.1	66	28

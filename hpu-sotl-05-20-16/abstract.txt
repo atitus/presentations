@@ -1,0 +1,3 @@
+Teaching Professional Computational Modeling Skills with Jupyter
+
+We have officially exited the information age and are navigating the analytics age. As a result, students and teachers must gain proficiency with professional tools beyond spreadsheets. Jupyter Notebook (formerly iPython Notebook) is a web application (front-end) to create and share documents that contain live code, visualizations, and marked-up text and equations. Teachers can write tutorials, and students can write professional, interactive reports. Accessible to students and scalable to professionals, Jupyter Notebook is ideal for teaching computational modeling, data visualization,  collaborative computing, and reporting. 
