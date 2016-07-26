@@ -34,29 +34,6 @@ if( window.location.search.match( /print-pdf/gi ) ) {
 <script src="reveal.js/lib/js/html5shiv.js"></script>
 <![endif]-->
 
-<!-- Loading the mathjax macro -->
-<!-- Load mathjax -->
-    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
-    <!-- MathJax configuration -->
-    <script type="text/x-mathjax-config">
-    MathJax.Hub.Config({
-        tex2jax: {
-            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
-            processEscapes: true,
-            processEnvironments: true
-        },
-        // Center justify equations in code and markdown cells. Elsewhere
-        // we use CSS to left justify single line equations in code cells.
-        displayAlign: 'center',
-        "HTML-CSS": {
-            styles: {'.MathJax_Display': {"margin": 0}},
-            linebreaks: { automatic: true }
-        }
-    });
-    </script>
-    <!-- End of mathjax configuration -->
-
 <!-- Get Font-awesome from cdn -->
 <link rel="stylesheet" href="//netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css">
 
@@ -168,9 +145,11 @@ if( window.location.search.match( /print-pdf/gi ) ) {
 
 <style type="text/css">
 /* Overrides of notebook CSS for static HTML export */
+html {
+  overflow-y: auto;
+}
 .reveal {
   font-size: 160%;
-  overflow-y: scroll;
 }
 .reveal pre {
   width: inherit;
@@ -223,14 +202,6 @@ div.output_prompt {
   /* 5px right shift to account for margin in parent container */
   margin: 5px 5px 0 0;
 }
-div.text_cell.rendered .rendered_html {
-  /* The H1 height seems miscalculated, we are just hidding the scrollbar */
-  overflow-y: hidden;
-}
-a.anchor-link {
-  /* There is still an anchor, we are only hidding it */
-  display: none;
-}
 .rendered_html p {
   text-align: inherit;
 }
@@ -244,7 +215,9 @@ a.anchor-link {
 <body>
 <div class="reveal">
 <div class="slides">
-<section><section>
+<section>
+    <section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -255,7 +228,20 @@ a.anchor-link {
 <h3 id="High-Point-University">High Point University<a class="anchor-link" href="#High-Point-University">&#182;</a></h3>
 </div>
 </div>
-</div></section><section>
+</div><div style=display:none>
+    
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Presentation-to-the-2016-Summer-Meeting-of-the-American-Association-of-Physics-Teachers">Presentation to the 2016 Summer Meeting of the American Association of Physics Teachers<a class="anchor-link" href="#Presentation-to-the-2016-Summer-Meeting-of-the-American-Association-of-Physics-Teachers">&#182;</a></h2><h3 id="Abstract">Abstract<a class="anchor-link" href="#Abstract">&#182;</a></h3><p>Departmental learning objectives at High Point University include theory, experimental physics, and computational modeling. All three are important, and all three are woven into the four year curriculum. Physics students learn VPython in the introductory calculus-based physics course using "Matter and Interactions" by Ruth Chabay and Bruce Sherwood. Simultaneously, students engage in a year-long introductory research project that often includes both experimental and computational components. At the second year and beyond, students use Jupyter Notebook (formerly IPython Notebook) for computational modeling, data analysis, and informal communication of their work. This approach prepares students to use computational modeling as a tool for research and problem solving, starting in their first year. Furthermore, it has an extraordinary impact on growing a thriving department. I will provide details of our approach, examples of student work, and evidence of its impact.</p>
+
+</div>
+</div>
+</div>
+    </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -265,7 +251,10 @@ a.anchor-link {
 
 </div>
 </div>
-</div></section></section><section><section>
+</div></section>
+    </section><section>
+    <section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -276,6 +265,7 @@ a.anchor-link {
 </div>
 </div>
 </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -284,7 +274,8 @@ a.anchor-link {
 <h1 id="Don&#8217;t-get-hung-up-on-how-it&#8217;s-always-been.">Don&#8217;t get hung up on how it&#8217;s always been.<a class="anchor-link" href="#Don&#8217;t-get-hung-up-on-how-it&#8217;s-always-been.">&#182;</a></h1>
 </div>
 </div>
-</div><div class="fragment">
+</div><div class="fragment" data-fragment-index="5">
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -298,7 +289,9 @@ a.anchor-link {
 
 </div>
 </div>
-</div></div></section><section>
+</div>
+    </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -307,7 +300,8 @@ a.anchor-link {
 <h1 id="Every-day-we-spend-thinking-is-a-lost-day-of-doing.">Every day we spend thinking is a lost day of doing.<a class="anchor-link" href="#Every-day-we-spend-thinking-is-a-lost-day-of-doing.">&#182;</a></h1>
 </div>
 </div>
-</div><div class="fragment">
+</div><div class="fragment" data-fragment-index="7">
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -323,7 +317,9 @@ a.anchor-link {
 
 </div>
 </div>
-</div></div></section><section>
+</div>
+    </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -332,7 +328,8 @@ a.anchor-link {
 <h1 id="Go-above-and-beyond.">Go above and beyond.<a class="anchor-link" href="#Go-above-and-beyond.">&#182;</a></h1>
 </div>
 </div>
-</div><div class="fragment">
+</div><div class="fragment" data-fragment-index="9">
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -347,7 +344,62 @@ a.anchor-link {
 
 </div>
 </div>
-</div></div></section></section><section><section>
+</div>
+    </div><div style=display:none>
+    
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h3 id="Teaching-fundamental-principles-and-computational-modeling-with-Matter-and-Interactions-had-a-significant-influence-on-establishing-and-growing-our-program.">Teaching fundamental principles and computational modeling with <em>Matter and Interactions</em> had a significant influence on establishing and growing our program.<a class="anchor-link" href="#Teaching-fundamental-principles-and-computational-modeling-with-Matter-and-Interactions-had-a-significant-influence-on-establishing-and-growing-our-program.">&#182;</a></h3><p>Benefits are: <img src="Bloomtaxonomy.jpg" align=right width=500 border=0></p>
+<ul>
+<li>student interest</li>
+<li>student readiness for research </li>
+<li>deeper connections to advanced courses</li>
+<li>broader sense of scientific thinking and discovery</li>
+</ul>
+
+</div>
+</div>
+</div>
+    </div><div style=display:none>
+    
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>If your students are not learning computational modeling, your program is falling behind.</p>
+<h3 id="AAPT-Recommendations-for-Computational-Physics-in-the-Undergraduate-Physics-Curriculum--Rationale-Part-1">AAPT Recommendations for Computational Physics in the Undergraduate Physics Curriculum--Rationale Part 1<a class="anchor-link" href="#AAPT-Recommendations-for-Computational-Physics-in-the-Undergraduate-Physics-Curriculum--Rationale-Part-1">&#182;</a></h3><ul>
+<li>Our degree programs should reflect the discipline of physics as it is currently practiced—and computation is now ubiquitous in the practice of physics, both in and outside of academia.</li>
+<li>Computational skills are now essential in virtually all physics research and in the many STEM fields in which physics students find employment. So students need to learn these skills in order to carry out undergraduate research projects, to prepare for a research career, and to pursue careers in applied sciences, engineering, and other technical fields.</li>
+</ul>
+
+</div>
+</div>
+</div>
+    </div><div style=display:none>
+    
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>Teaching computational modeling in introductory physics enables students to explore interesting problems earlier in their academic careers.</p>
+<h3 id="AAPT-Recommendations-for-Computational-Physics-in-the-Undergraduate-Physics-Curriculum--Rationale-Part-2">AAPT Recommendations for Computational Physics in the Undergraduate Physics Curriculum--Rationale Part 2<a class="anchor-link" href="#AAPT-Recommendations-for-Computational-Physics-in-the-Undergraduate-Physics-Curriculum--Rationale-Part-2">&#182;</a></h3><ul>
+<li>Computational tools empower students to solve a wider variety of problems, opening up important new learning opportunities that have traditionally been inaccessible to undergraduates.</li>
+<li>A computational approach can give students a deeper appreciation for the power and generality of the fundamental laws of physics, as they apply these laws computationally, in addition to working with the closed-form solutions of special cases.</li>
+<li>Having a computational model at hand can encourage students to develop a more exploratory approach to physics, asking “what if” questions and then using the model to obtain answers quickly.</li>
+</ul>
+
+</div>
+</div>
+</div>
+    </div></section>
+    </section><section>
+    <section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -372,6 +424,7 @@ a.anchor-link {
 </div>
 </div>
 </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -389,7 +442,25 @@ a.anchor-link {
 
 </div>
 </div>
-</div></section></section><section><section>
+</div><div style=display:none>
+    
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Position-Update">Position Update<a class="anchor-link" href="#Position-Update">&#182;</a></h2><p>For a small time interval $\Delta t$,</p>
+$$\vec{r}_{future} = \vec{r}_{now} + \vec{v}\Delta t$$<p>In VPython, if you create an object named <strong>particle</strong> then update its position using:</p>
+<div class="highlight"><pre><span class="n">particle</span><span class="o">.</span><span class="n">pos</span> <span class="o">=</span> <span class="n">particle</span><span class="o">.</span><span class="n">pos</span> <span class="o">+</span> <span class="n">v</span> <span class="o">*</span> <span class="n">dt</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+    </div></section>
+    </section><section>
+    <section>
+    
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[1]:</div>
@@ -421,11 +492,8 @@ a.anchor-link {
 <div class="output_area"><div class="prompt"></div>
 
 
-
-<div id="d8f9641e-05ca-4278-a9ae-f02cbd9aa442"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#d8f9641e-05ca-4278-a9ae-f02cbd9aa442');
 require.undef("nbextensions/jquery-ui.custom.min");
 </script>
 </div>
@@ -435,11 +503,8 @@ require.undef("nbextensions/jquery-ui.custom.min");
 <div class="output_area"><div class="prompt"></div>
 
 
-
-<div id="49322754-b1f1-4284-8791-df445a6fa8c4"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#49322754-b1f1-4284-8791-df445a6fa8c4');
 require.undef("nbextensions/glow.2.1.min");
 </script>
 </div>
@@ -449,11 +514,8 @@ require.undef("nbextensions/glow.2.1.min");
 <div class="output_area"><div class="prompt"></div>
 
 
-
-<div id="1c80eb18-7457-4210-a5c7-227fc6a87611"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#1c80eb18-7457-4210-a5c7-227fc6a87611');
 require.undef("nbextensions/glowcomm");
 </script>
 </div>
@@ -463,11 +525,8 @@ require.undef("nbextensions/glowcomm");
 <div class="output_area"><div class="prompt"></div>
 
 
-
-<div id="0481423b-a9a0-4ed0-9e1c-310fb93adee7"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#0481423b-a9a0-4ed0-9e1c-310fb93adee7');
 require(["nbextensions/glowcomm"], function(){console.log("glowcomm loaded");})
 </script>
 </div>
@@ -485,11 +544,8 @@ require(["nbextensions/glowcomm"], function(){console.log("glowcomm loaded");})
 <div class="output_area"><div class="prompt"></div>
 
 
-
-<div id="0c1fdb4e-72f1-4b06-8f12-8f367d735c4e"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#0c1fdb4e-72f1-4b06-8f12-8f367d735c4e');
 window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </script>
 </div>
@@ -499,7 +555,10 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 </div>
 
-</div></section></section><section><section>
+</div></section>
+    </section><section>
+    <section>
+    
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[3]:</div>
@@ -542,11 +601,8 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 <div class="output_area"><div class="prompt"></div>
 
 
-
-<div id="144db948-d84b-4515-a2e3-ee7dc1f4e9a6"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#144db948-d84b-4515-a2e3-ee7dc1f4e9a6');
 window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </script>
 </div>
@@ -556,7 +612,83 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 </div>
 
-</div></section></section><section><section>
+</div><div style=display:none>
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span class="c">#uniform motion -- a ball on a level track</span>
+
+<span class="n">scene</span><span class="o">=</span><span class="n">canvas</span><span class="p">(</span><span class="n">title</span><span class="o">=</span><span class="s">&quot;Constant Velocity&quot;</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">250</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">600</span><span class="p">)</span>
+
+<span class="n">ball</span><span class="o">=</span><span class="n">sphere</span><span class="p">(</span><span class="n">pos</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="o">-</span><span class="mf">1.5</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span> <span class="n">radius</span><span class="o">=</span><span class="mf">0.05</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="n">color</span><span class="o">.</span><span class="n">cyan</span><span class="p">)</span>
+<span class="n">track</span><span class="o">=</span><span class="n">box</span><span class="p">(</span><span class="n">pos</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="o">-</span><span class="mf">0.075</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span> <span class="n">size</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">3</span><span class="p">,</span><span class="mf">0.05</span><span class="p">,</span><span class="mf">0.1</span><span class="p">),</span> <span class="n">color</span><span class="o">=</span><span class="n">color</span><span class="o">.</span><span class="n">white</span><span class="p">)</span>
+
+<span class="n">rarrow</span><span class="o">=</span><span class="n">arrow</span><span class="p">(</span><span class="n">pos</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="o">-</span><span class="mf">0.8</span><span class="o">*</span><span class="n">ball</span><span class="o">.</span><span class="n">radius</span><span class="p">,</span><span class="n">ball</span><span class="o">.</span><span class="n">radius</span><span class="p">),</span> <span class="n">axis</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">pos</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="n">color</span><span class="o">.</span><span class="n">yellow</span><span class="p">,</span> <span class="n">shaftwidth</span><span class="o">=</span><span class="mf">0.025</span><span class="p">)</span>
+<span class="n">drarrow</span><span class="o">=</span><span class="n">arrow</span><span class="p">(</span><span class="n">pos</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="n">ball</span><span class="o">.</span><span class="n">radius</span><span class="p">),</span> <span class="n">axis</span><span class="o">=</span><span class="n">vec</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span> <span class="n">color</span><span class="o">=</span><span class="n">color</span><span class="o">.</span><span class="n">magenta</span><span class="p">,</span> <span class="n">shaftwidth</span><span class="o">=</span><span class="mf">0.025</span><span class="p">)</span>
+
+<span class="n">v</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mf">0.3</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">)</span>
+
+<span class="n">dt</span><span class="o">=</span><span class="mi">1</span>
+<span class="n">t</span><span class="o">=</span><span class="mi">0</span>
+
+<span class="n">scene</span><span class="o">.</span><span class="n">waitfor</span><span class="p">(</span><span class="s">&#39;click&#39;</span><span class="p">)</span>
+<span class="k">while</span> <span class="n">ball</span><span class="o">.</span><span class="n">pos</span><span class="o">.</span><span class="n">x</span><span class="o">&lt;</span><span class="mf">1.5</span><span class="p">:</span>
+    <span class="n">rate</span><span class="p">(</span><span class="mi">1</span><span class="p">)</span>
+    <span class="n">drarrow</span><span class="o">.</span><span class="n">pos</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">pos</span><span class="o">+</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="n">ball</span><span class="o">.</span><span class="n">radius</span><span class="p">)</span>
+    <span class="n">rf</span> <span class="o">=</span> <span class="n">ball</span><span class="o">.</span><span class="n">pos</span> <span class="o">+</span> <span class="n">v</span><span class="o">*</span><span class="n">dt</span>
+    <span class="n">drarrow</span><span class="o">.</span><span class="n">axis</span><span class="o">=</span><span class="n">rf</span><span class="o">-</span><span class="n">drarrow</span><span class="o">.</span><span class="n">pos</span>
+    <span class="n">scene</span><span class="o">.</span><span class="n">waitfor</span><span class="p">(</span><span class="s">&#39;click&#39;</span><span class="p">)</span>
+    <span class="n">strobeimage</span><span class="o">=</span><span class="n">sphere</span><span class="p">(</span><span class="n">pos</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">pos</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">color</span><span class="p">,</span> <span class="n">radius</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">radius</span><span class="p">,</span> <span class="n">opacity</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">opacity</span><span class="o">/</span><span class="mi">2</span><span class="p">)</span>
+    <span class="n">ball</span><span class="o">.</span><span class="n">pos</span><span class="o">=</span><span class="n">rf</span>
+    <span class="n">rarrow</span><span class="o">.</span><span class="n">axis</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">pos</span>
+    <span class="n">scene</span><span class="o">.</span><span class="n">waitfor</span><span class="p">(</span><span class="s">&#39;click&#39;</span><span class="p">)</span>
+    <span class="n">drarrow</span><span class="o">.</span><span class="n">axis</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">)</span>
+<span class="c">#    rarrow.axis=vector(0,0,0)</span>
+    <span class="n">scene</span><span class="o">.</span><span class="n">waitfor</span><span class="p">(</span><span class="s">&#39;click&#39;</span><span class="p">)</span>
+    <span class="n">t</span><span class="o">=</span><span class="n">t</span><span class="o">+</span><span class="n">dt</span>  
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+    </div><div style=display:none>
+    
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<h2 id="Momentum-Update">Momentum Update<a class="anchor-link" href="#Momentum-Update">&#182;</a></h2><p>For a small time interval $\Delta t$,</p>
+$$\vec{p}_{future}=\vec{p}_{now} + \vec{F}_{net,now}\Delta t$$<p>This is the <strong>update form</strong> of the Momentum Principle.</p>
+<p><img src="Fig2-23.jpg" width=700>
+from Chabay and Sherwood, <em>Matter and Interactions</em>, 4th edition, Wiley (2015)</p>
+
+</div>
+</div>
+</div>
+    </div><div style=display:none>
+    
+<div class="cell border-box-sizing text_cell rendered">
+<div class="prompt input_prompt">
+</div>
+<div class="inner_cell">
+<div class="text_cell_render border-box-sizing rendered_html">
+<p>The momentum now contains the history of the impulses on the particle, but the future momentum depends on the net force now.</p>
+<p><img src="Fig2-1920.png" width=750>
+from Chabay and Sherwood, <em>Matter and Interactions</em>, 4th edition, Wiley (2015)</p>
+
+</div>
+</div>
+</div>
+    </div></section>
+    </section><section>
+    <section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -566,6 +698,7 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 </div>
 </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -586,6 +719,7 @@ $$\vec{v}\approx \vec{v}_f \approx \frac{\vec{p}}{m}.$$<p>For an object named <s
 </div>
 </div>
 </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -596,7 +730,52 @@ $$\vec{v}\approx \vec{v}_f \approx \frac{\vec{p}}{m}.$$<p>For an object named <s
 
 </div>
 </div>
-</div></section><section>
+</div><div style=display:none>
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span class="n">scene</span><span class="o">=</span><span class="n">canvas</span><span class="p">(</span><span class="n">title</span><span class="o">=</span><span class="s">&quot;Orbit&quot;</span><span class="p">,</span> <span class="n">height</span><span class="o">=</span><span class="mi">500</span><span class="p">,</span> <span class="n">width</span><span class="o">=</span><span class="mi">600</span><span class="p">)</span>
+
+<span class="n">sun</span><span class="o">=</span><span class="n">sphere</span><span class="p">(</span><span class="n">radius</span><span class="o">=</span><span class="mf">7e9</span><span class="p">,</span> <span class="n">pos</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span> <span class="n">color</span><span class="o">=</span><span class="n">color</span><span class="o">.</span><span class="n">yellow</span><span class="p">)</span>
+<span class="n">earth</span><span class="o">=</span><span class="n">sphere</span><span class="p">(</span><span class="n">radius</span><span class="o">=</span><span class="mf">6.4e9</span><span class="p">,</span> <span class="n">pos</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mf">1.5e11</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span> <span class="n">color</span><span class="o">=</span><span class="n">color</span><span class="o">.</span><span class="n">blue</span><span class="p">,</span> <span class="n">make_trail</span><span class="o">=</span><span class="bp">True</span><span class="p">,</span> <span class="n">retain</span><span class="o">=</span><span class="mi">400</span><span class="p">)</span>
+
+<span class="n">sun</span><span class="o">.</span><span class="n">m</span><span class="o">=</span><span class="mf">2e30</span>
+<span class="n">earth</span><span class="o">.</span><span class="n">m</span><span class="o">=</span><span class="mf">6e24</span>
+<span class="n">G</span><span class="o">=</span><span class="mf">6.7e-11</span>
+
+<span class="n">earth</span><span class="o">.</span><span class="n">v</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mf">2.9889e4</span><span class="p">,</span><span class="mi">0</span><span class="p">)</span>
+<span class="n">earth</span><span class="o">.</span><span class="n">p</span><span class="o">=</span><span class="n">earth</span><span class="o">.</span><span class="n">m</span><span class="o">*</span><span class="n">earth</span><span class="o">.</span><span class="n">v</span>
+
+<span class="n">t</span><span class="o">=</span><span class="mi">0</span>
+<span class="n">secinday</span><span class="o">=</span><span class="mi">24</span><span class="o">*</span><span class="mi">3600</span>
+<span class="n">dt</span><span class="o">=</span><span class="mf">0.1</span><span class="o">*</span><span class="n">secinday</span>
+
+<span class="n">scene</span><span class="o">.</span><span class="n">waitfor</span><span class="p">(</span><span class="s">&quot;click&quot;</span><span class="p">)</span>
+
+<span class="k">while</span> <span class="n">t</span><span class="o">&lt;</span><span class="mi">1</span><span class="o">*</span><span class="mi">365</span><span class="o">*</span><span class="n">secinday</span><span class="p">:</span>
+    <span class="n">rate</span><span class="p">(</span><span class="mi">300</span><span class="p">)</span>
+
+    <span class="n">r</span><span class="o">=</span><span class="n">earth</span><span class="o">.</span><span class="n">pos</span><span class="o">-</span><span class="n">sun</span><span class="o">.</span><span class="n">pos</span>
+    <span class="n">rmag</span><span class="o">=</span><span class="n">mag</span><span class="p">(</span><span class="n">r</span><span class="p">)</span>
+    <span class="n">rhat</span><span class="o">=</span><span class="n">r</span><span class="o">/</span><span class="n">rmag</span>
+    
+    <span class="n">Fgrav</span><span class="o">=</span><span class="p">(</span><span class="n">G</span><span class="o">*</span><span class="n">earth</span><span class="o">.</span><span class="n">m</span><span class="o">*</span><span class="n">sun</span><span class="o">.</span><span class="n">m</span><span class="o">/</span><span class="n">rmag</span><span class="o">**</span><span class="mi">2</span><span class="p">)</span><span class="o">*</span><span class="p">(</span><span class="o">-</span><span class="n">rhat</span><span class="p">)</span>
+    <span class="n">earth</span><span class="o">.</span><span class="n">p</span><span class="o">=</span><span class="n">earth</span><span class="o">.</span><span class="n">p</span><span class="o">+</span><span class="n">Fgrav</span><span class="o">*</span><span class="n">dt</span>
+    <span class="n">earth</span><span class="o">.</span><span class="n">pos</span><span class="o">=</span><span class="n">earth</span><span class="o">.</span><span class="n">pos</span><span class="o">+</span><span class="p">(</span><span class="n">earth</span><span class="o">.</span><span class="n">p</span><span class="o">/</span><span class="n">earth</span><span class="o">.</span><span class="n">m</span><span class="p">)</span><span class="o">*</span><span class="n">dt</span>
+
+    <span class="n">t</span><span class="o">=</span><span class="n">t</span><span class="o">+</span><span class="n">dt</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+    </div></section><section>
+    
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[4]:</div>
@@ -697,11 +876,8 @@ $$\vec{v}\approx \vec{v}_f \approx \frac{\vec{p}}{m}.$$<p>For an object named <s
 <div class="output_area"><div class="prompt"></div>
 
 
-
-<div id="cf5aa22d-fd53-4c52-a558-308bd15a4f9d"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#cf5aa22d-fd53-4c52-a558-308bd15a4f9d');
 window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </script>
 </div>
@@ -712,6 +888,7 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 
 </div></section><section>
+    
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[5]:</div>
@@ -814,11 +991,8 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 <div class="output_area"><div class="prompt"></div>
 
 
-
-<div id="f874d40c-c8ed-4549-9675-98fdbcb18267"></div>
 <div class="output_subarea output_javascript ">
 <script type="text/javascript">
-var element = $('#f874d40c-c8ed-4549-9675-98fdbcb18267');
 window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </script>
 </div>
@@ -828,7 +1002,10 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 </div>
 
-</div></section></section><section><section>
+</div></section>
+    </section><section>
+    <section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -843,6 +1020,7 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 </div>
 </div></section><section>
+    
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
@@ -1026,7 +1204,10 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 </div>
 
-</div></section></section><section><section>
+</div></section>
+    </section><section>
+    <section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1042,7 +1223,10 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 
 </div>
 </div>
-</div></section></section><section><section>
+</div></section>
+    </section><section>
+    <section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1052,6 +1236,7 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 </div>
 </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1069,6 +1254,7 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 </div>
 </div></section><section>
+    
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
@@ -1143,6 +1329,7 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 
 </div></section><section>
+    
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
@@ -1217,7 +1404,69 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 </div>
 
-</div></section></section><section><section>
+</div><div style=display:none>
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span class="c"># Compute the electric field at a location rP due to a charged rod of length L</span>
+<span class="c">#   and charge Q by breaking the rod into N pieces.</span>
+<span class="c">#</span>
+<span class="c"># White color arrow is the net E for pieces 1 through n.</span>
+<span class="c">#</span>
+
+<span class="n">N</span><span class="o">=</span><span class="mi">1000</span> <span class="c">#total number of pieces</span>
+<span class="n">L</span><span class="o">=</span><span class="mf">1.0</span> <span class="c">#length of rod in m</span>
+
+<span class="c">#create the scene</span>
+<span class="n">scene</span><span class="o">=</span><span class="n">canvas</span><span class="p">(</span><span class="n">title</span><span class="o">=</span><span class="s">&quot;Electric Field Due to a Uniformly Charged Rod&quot;</span><span class="p">)</span>
+<span class="n">rod</span><span class="o">=</span><span class="n">cylinder</span><span class="p">(</span><span class="n">pos</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="o">-</span><span class="n">L</span><span class="o">/</span><span class="mi">2</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span> <span class="n">axis</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="n">L</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span> <span class="n">radius</span><span class="o">=</span><span class="n">L</span><span class="o">/</span><span class="mi">50</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="n">color</span><span class="o">.</span><span class="n">red</span><span class="p">)</span>
+
+<span class="c">#create the arrows</span>
+<span class="n">EnetArrow</span><span class="o">=</span><span class="n">arrow</span><span class="p">(</span><span class="n">pos</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span> <span class="n">axis</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span> <span class="n">color</span><span class="o">=</span><span class="n">color</span><span class="o">.</span><span class="n">white</span><span class="p">)</span>
+<span class="n">scale</span><span class="o">=</span><span class="mi">1</span><span class="o">/</span><span class="mf">1e5</span>
+
+<span class="n">k</span><span class="o">=</span><span class="mf">9e9</span> <span class="c">#1/(4pi epsilon_0) in N m^2/C^2</span>
+<span class="n">Q</span><span class="o">=</span><span class="mf">1e-6</span> <span class="c">#charge of rod in C</span>
+
+<span class="n">dq</span><span class="o">=</span><span class="n">Q</span><span class="o">/</span><span class="n">N</span> <span class="c">#charge of a piece of the rod</span>
+<span class="n">dy</span><span class="o">=</span><span class="n">L</span><span class="o">/</span><span class="n">N</span> <span class="c">#length of a piece of the rod</span>
+
+<span class="n">rP</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="o">.</span><span class="mi">1</span><span class="p">,</span><span class="mf">0.5</span><span class="p">,</span><span class="mi">0</span><span class="p">)</span> <span class="c">#location of a point P in space</span>
+
+<span class="n">n</span><span class="o">=</span><span class="mi">1</span> <span class="c"># piece counter used for the loop; piece 1 is the piece at the top of the vertical rod</span>
+
+<span class="n">Epiece</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">)</span> <span class="c">#E at point P due to a single piece</span>
+<span class="n">Enet</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">)</span> <span class="c">#net E at point P due to all pieces</span>
+
+<span class="k">while</span> <span class="n">n</span><span class="o">&lt;</span><span class="n">N</span><span class="o">+</span><span class="mi">1</span><span class="p">:</span>
+    <span class="n">rpiece</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="n">L</span><span class="o">/</span><span class="mi">2</span><span class="o">-</span><span class="p">(</span><span class="mi">2</span><span class="o">*</span><span class="n">n</span><span class="o">-</span><span class="mi">1</span><span class="p">)</span><span class="o">*</span><span class="n">dy</span><span class="o">/</span><span class="mi">2</span><span class="p">,</span><span class="mi">0</span><span class="p">)</span> <span class="c">#position of midpoint of piece n    </span>
+    
+    <span class="n">r</span><span class="o">=</span><span class="n">rP</span><span class="o">-</span><span class="n">rpiece</span> <span class="c">#relative position vector</span>
+    <span class="n">rmag</span><span class="o">=</span><span class="n">mag</span><span class="p">(</span><span class="n">r</span><span class="p">)</span> <span class="c">#magnitude of r</span>
+    <span class="n">rhat</span><span class="o">=</span><span class="n">r</span><span class="o">/</span><span class="n">rmag</span> <span class="c">#r unit vector</span>
+    <span class="n">Epiece</span><span class="o">=</span><span class="n">k</span><span class="o">*</span><span class="n">dq</span><span class="o">/</span><span class="n">rmag</span><span class="o">**</span><span class="mi">2</span><span class="o">*</span><span class="n">rhat</span> <span class="c">#E due to piece n</span>
+    <span class="n">Enet</span><span class="o">=</span><span class="n">Enet</span><span class="o">+</span><span class="n">Epiece</span> <span class="c">#Enet due to all pieces 1 through n</span>
+    <span class="n">n</span><span class="o">=</span><span class="n">n</span><span class="o">+</span><span class="mi">1</span> <span class="c">#increment to the next piece</span>
+    
+<span class="c">#update arrow</span>
+<span class="n">EnetArrow</span><span class="o">.</span><span class="n">pos</span><span class="o">=</span><span class="n">rP</span>
+<span class="n">EnetArrow</span><span class="o">.</span><span class="n">axis</span><span class="o">=</span><span class="n">scale</span><span class="o">*</span><span class="n">Enet</span>
+
+<span class="k">print</span><span class="p">(</span><span class="s">&quot;The net electric field at point P = &quot;</span><span class="p">,</span><span class="n">Enet</span><span class="p">,</span> <span class="s">&quot;N/C&quot;</span><span class="p">)</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+    </div></section>
+    </section><section>
+    <section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1227,6 +1476,7 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 </div>
 </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1238,6 +1488,7 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 </div>
 </div></section><section>
+    
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
@@ -1498,6 +1749,7 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 
 </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1509,7 +1761,123 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 
 </div>
 </div>
-</div></section></section><section><section>
+</div><div style=display:none>
+    
+<div class="cell border-box-sizing code_cell rendered">
+<div class="input">
+<div class="prompt input_prompt">In&nbsp;[&nbsp;]:</div>
+<div class="inner_cell">
+    <div class="input_area">
+<div class=" highlight hl-ipython2"><pre><span class="n">scene</span><span class="o">=</span><span class="n">canvas</span><span class="p">(</span><span class="n">title</span><span class="o">=</span><span class="s">&quot;Ball/Peg Collision&quot;</span><span class="p">)</span>
+
+<span class="c">#check for collision of sphere and cylinder; returns True or False</span>
+<span class="k">def</span> <span class="nf">checkCollision</span><span class="p">(</span><span class="n">sph</span><span class="p">,</span><span class="n">cyl</span><span class="p">):</span>
+    <span class="n">pegcenter</span><span class="o">=</span><span class="n">cyl</span><span class="o">.</span><span class="n">pos</span><span class="o">+</span><span class="mf">0.5</span><span class="o">*</span><span class="n">cyl</span><span class="o">.</span><span class="n">axis</span>
+    <span class="n">rcc</span><span class="o">=</span><span class="n">sph</span><span class="o">.</span><span class="n">pos</span><span class="o">-</span><span class="n">pegcenter</span>
+    <span class="n">dist</span><span class="o">=</span><span class="n">mag</span><span class="p">(</span><span class="n">rcc</span><span class="p">)</span>
+    <span class="k">if</span><span class="p">(</span><span class="n">dist</span><span class="o">&lt;</span><span class="n">sph</span><span class="o">.</span><span class="n">radius</span><span class="o">+</span><span class="n">cyl</span><span class="o">.</span><span class="n">radius</span><span class="p">):</span>
+        <span class="k">return</span> <span class="bp">True</span>
+    <span class="k">else</span><span class="p">:</span>
+        <span class="k">return</span> <span class="bp">False</span>
+
+<span class="c">#material properties</span>
+<span class="n">Rball</span><span class="o">=</span><span class="mf">0.1</span>
+<span class="n">Rcyl</span><span class="o">=</span><span class="mf">0.02</span>
+<span class="n">m</span><span class="o">=</span><span class="mf">0.62369</span>
+<span class="c">#mu=0.26 #coefficient of sliding friction</span>
+<span class="n">mu</span><span class="o">=</span><span class="mi">0</span> <span class="c">#coefficient of sliding friction</span>
+<span class="n">CR</span><span class="o">=</span><span class="mf">0.63</span> <span class="c">#coefficient of restitution</span>
+
+<span class="c">#ball=sphere(pos=vector((Rball+Rcyl)*cos(30/180*pi),1,0), radius=Rball, color=color.orange)</span>
+<span class="n">ball</span><span class="o">=</span><span class="n">sphere</span><span class="p">(</span><span class="n">pos</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">1</span><span class="p">,</span><span class="mi">0</span><span class="p">),</span> <span class="n">radius</span><span class="o">=</span><span class="n">Rball</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="n">color</span><span class="o">.</span><span class="n">orange</span><span class="p">)</span>
+<span class="n">peg</span><span class="o">=</span><span class="n">cylinder</span><span class="p">(</span><span class="n">pos</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mf">0.1</span><span class="p">),</span> <span class="n">axis</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="o">-</span><span class="mf">0.2</span><span class="p">),</span> <span class="n">radius</span><span class="o">=</span><span class="n">Rcyl</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="n">color</span><span class="o">.</span><span class="n">red</span><span class="p">)</span>
+<span class="c">#floor=box(pos=vector(0,-1,0), size=vector(3,0.05,3), color=color.green)</span>
+
+<span class="c">#initial conditions</span>
+<span class="n">ball</span><span class="o">.</span><span class="n">v</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="o">-</span><span class="mi">5</span><span class="p">,</span><span class="mi">0</span><span class="p">)</span> <span class="c">#cm velocity</span>
+<span class="n">ball</span><span class="o">.</span><span class="n">p</span><span class="o">=</span><span class="n">m</span><span class="o">*</span><span class="n">ball</span><span class="o">.</span><span class="n">v</span> <span class="c">#cm momentum</span>
+<span class="n">ball</span><span class="o">.</span><span class="n">omega</span><span class="o">=</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">2</span><span class="o">*</span><span class="n">pi</span><span class="o">/</span><span class="mi">2</span><span class="p">)</span>
+<span class="n">I</span><span class="o">=</span><span class="mi">2</span><span class="o">/</span><span class="mi">3</span><span class="o">*</span><span class="n">m</span><span class="o">*</span><span class="n">Rball</span><span class="o">*</span><span class="n">Rball</span>
+<span class="n">Fgrav</span><span class="o">=</span><span class="n">m</span><span class="o">*</span><span class="n">vector</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">,</span><span class="mi">0</span><span class="p">)</span> <span class="c">#gravitational force</span>
+
+<span class="c">#arrows</span>
+<span class="n">vscale</span><span class="o">=</span><span class="mi">1</span><span class="o">/</span><span class="mi">5</span>
+<span class="n">varrow</span><span class="o">=</span><span class="n">arrow</span><span class="p">(</span><span class="n">pos</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">pos</span><span class="p">,</span> <span class="n">axis</span><span class="o">=</span><span class="n">vscale</span><span class="o">*</span><span class="n">ball</span><span class="o">.</span><span class="n">v</span><span class="p">,</span> <span class="n">color</span><span class="o">=</span><span class="n">color</span><span class="o">.</span><span class="n">yellow</span><span class="p">)</span>
+<span class="c">#wscale=0.5/pi</span>
+<span class="c">#warrow=arrow(pos=ball.pos, axis=wscale*ball.omega, color=color.green)</span>
+
+
+<span class="c">#clock</span>
+<span class="n">t</span><span class="o">=</span><span class="mi">0</span>
+<span class="n">dt</span><span class="o">=</span><span class="mf">0.0001</span>
+
+<span class="c">#time evolution</span>
+<span class="k">while</span> <span class="n">t</span><span class="o">&lt;</span><span class="mi">1</span><span class="p">:</span>
+    <span class="n">rate</span><span class="p">(</span><span class="mi">1000</span><span class="p">)</span>
+    
+    <span class="c">#free fall</span>
+    <span class="n">Fnet</span><span class="o">=</span><span class="n">Fgrav</span>
+    <span class="n">ball</span><span class="o">.</span><span class="n">p</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">p</span><span class="o">+</span><span class="n">Fnet</span><span class="o">*</span><span class="n">dt</span>
+    <span class="n">ball</span><span class="o">.</span><span class="n">pos</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">pos</span><span class="o">+</span><span class="n">ball</span><span class="o">.</span><span class="n">p</span><span class="o">/</span><span class="n">m</span><span class="o">*</span><span class="n">dt</span>
+    
+    <span class="c">#collision</span>
+    <span class="k">if</span><span class="p">(</span><span class="n">checkCollision</span><span class="p">(</span><span class="n">ball</span><span class="p">,</span><span class="n">peg</span><span class="p">)):</span>
+<span class="c">#        print(ball.p, mag(ball.p))</span>
+        <span class="n">ball</span><span class="o">.</span><span class="n">pos</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">pos</span><span class="o">-</span><span class="n">ball</span><span class="o">.</span><span class="n">p</span><span class="o">/</span><span class="n">m</span><span class="o">*</span><span class="n">dt</span> <span class="c">#move the ball to its previous position before the collision</span>
+        <span class="n">pegcenter</span><span class="o">=</span><span class="n">peg</span><span class="o">.</span><span class="n">pos</span><span class="o">+</span><span class="mf">0.5</span><span class="o">*</span><span class="n">peg</span><span class="o">.</span><span class="n">axis</span> <span class="c">#position of center of peg</span>
+        <span class="n">rcc</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">pos</span><span class="o">-</span><span class="n">pegcenter</span> <span class="c">#vector from peg center to ball center</span>
+        <span class="n">rp</span><span class="o">=</span><span class="n">Rcyl</span><span class="o">*</span><span class="n">norm</span><span class="p">(</span><span class="n">rcc</span><span class="p">)</span> <span class="c">#position of collision point relative to peg center</span>
+        <span class="n">ball</span><span class="o">.</span><span class="n">v</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">p</span><span class="o">/</span><span class="n">m</span> <span class="c">#initial cm velocity</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">&#39;cm vel=&#39;</span><span class="p">,</span><span class="n">ball</span><span class="o">.</span><span class="n">v</span><span class="p">)</span>
+        <span class="n">vperpi</span><span class="o">=</span><span class="n">dot</span><span class="p">(</span><span class="n">ball</span><span class="o">.</span><span class="n">v</span><span class="p">,</span><span class="n">norm</span><span class="p">(</span><span class="n">rp</span><span class="p">))</span><span class="o">*</span><span class="n">norm</span><span class="p">(</span><span class="n">rp</span><span class="p">)</span> <span class="c">#perp component of initial cm velocity</span>
+        <span class="n">vtani</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">v</span><span class="o">-</span><span class="n">vperpi</span> <span class="c">#tan component of initial cm velocity</span>
+        <span class="n">vperpf</span><span class="o">=-</span><span class="n">CR</span><span class="o">*</span><span class="n">vperpi</span> <span class="c">#reverse perp component of cm velocity</span>
+        <span class="n">Fperp</span><span class="o">=</span><span class="n">m</span><span class="o">*</span><span class="p">(</span><span class="n">vperpf</span><span class="o">-</span><span class="n">vperpi</span><span class="p">)</span><span class="o">/</span><span class="n">dt</span> <span class="c">#compute Fperp</span>
+        <span class="n">rpball</span><span class="o">=</span><span class="n">Rball</span><span class="o">*-</span><span class="mi">1</span><span class="o">*</span><span class="n">norm</span><span class="p">(</span><span class="n">rcc</span><span class="p">)</span> <span class="c">#rp relative to ball center</span>
+        <span class="n">vprel</span><span class="o">=</span><span class="n">cross</span><span class="p">(</span><span class="n">ball</span><span class="o">.</span><span class="n">omega</span><span class="p">,</span><span class="n">rpball</span><span class="p">)</span> <span class="c">#velocity of collision point of ball relative to center</span>
+        <span class="n">vptan</span><span class="o">=</span><span class="n">vprel</span><span class="o">+</span><span class="n">vtani</span> <span class="c">#velocity of collision point of ball relative to Home frame</span>
+        <span class="n">fhat</span><span class="o">=-</span><span class="n">norm</span><span class="p">(</span><span class="n">vptan</span><span class="p">)</span> <span class="c">#direction of friction is opposite vptan</span>
+        <span class="n">f</span><span class="o">=</span><span class="n">mu</span><span class="o">*</span><span class="n">mag</span><span class="p">(</span><span class="n">Fperp</span><span class="p">)</span><span class="o">*</span><span class="n">fhat</span> <span class="c">#frictional force</span>
+        <span class="n">vtanf</span><span class="o">=</span><span class="n">vtani</span><span class="o">+</span><span class="n">f</span><span class="o">/</span><span class="n">m</span><span class="o">*</span><span class="n">dt</span> <span class="c">#update vtan of cm of ball</span>
+        <span class="n">vf</span><span class="o">=</span><span class="n">vperpf</span><span class="o">+</span><span class="n">vtanf</span> <span class="c">#compute vf from perp and tan components for cm of ball</span>
+        <span class="n">ball</span><span class="o">.</span><span class="n">v</span><span class="o">=</span><span class="n">vf</span>
+        <span class="n">ball</span><span class="o">.</span><span class="n">p</span><span class="o">=</span><span class="n">m</span><span class="o">*</span><span class="n">ball</span><span class="o">.</span><span class="n">v</span> <span class="c">#compute p of cm of ball</span>
+        <span class="n">torque</span><span class="o">=</span><span class="n">cross</span><span class="p">(</span><span class="n">rpball</span><span class="p">,</span><span class="n">f</span><span class="p">)</span> <span class="c">#torque on ball</span>
+        <span class="n">omegai</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">omega</span>
+        <span class="n">ball</span><span class="o">.</span><span class="n">omega</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">omega</span><span class="o">+</span><span class="n">torque</span><span class="o">/</span><span class="n">I</span><span class="o">*</span><span class="n">dt</span> <span class="c">#update omega</span>
+<span class="c">#        print(ball.p, mag(ball.p))</span>
+<span class="c">#        print(&#39;F=Fperp+f=&#39;,Fperp,&#39;+&#39;,f)</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">&#39;vperp_i=&#39;</span><span class="p">,</span><span class="n">vperpi</span><span class="p">)</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">&#39;vtan_i=&#39;</span><span class="p">,</span><span class="n">vtani</span><span class="p">)</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">&#39;omega_i=&#39;</span><span class="p">,</span><span class="n">omegai</span><span class="o">.</span><span class="n">z</span><span class="p">)</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">&#39;vprel=&#39;</span><span class="p">,</span><span class="n">vprel</span><span class="p">)</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">&#39;vptan=&#39;</span><span class="p">,</span><span class="n">vptan</span><span class="p">)</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">&#39;vperp_f=&#39;</span><span class="p">,</span><span class="n">vperpf</span><span class="p">)</span>
+<span class="c">#        print(&#39;omega_i=&#39;,omegai)</span>
+<span class="c">#        print(&#39;Rball=&#39;, Rball)</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">&#39;f=&#39;</span><span class="p">,</span><span class="n">f</span><span class="p">)</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">&#39;Fperp=&#39;</span><span class="p">,</span><span class="n">Fperp</span><span class="p">)</span>
+<span class="c">#        print(&#39;Fcoll=&#39;,Fperp+f, &#39;ma=&#39;,(vf-vtani-vperpi)/dt*m)</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">&#39;vf=&#39;</span><span class="p">,</span><span class="n">vf</span><span class="p">)</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">&#39;|vf|=&#39;</span><span class="p">,</span><span class="n">mag</span><span class="p">(</span><span class="n">vf</span><span class="p">))</span>
+<span class="c">#        print(&#39;torque=&#39;,torque)</span>
+        <span class="k">print</span><span class="p">(</span><span class="s">&#39;omega_f=&#39;</span><span class="p">,</span><span class="n">ball</span><span class="o">.</span><span class="n">omega</span><span class="o">.</span><span class="n">z</span><span class="p">)</span>
+    <span class="n">varrow</span><span class="o">.</span><span class="n">pos</span><span class="o">=</span><span class="n">ball</span><span class="o">.</span><span class="n">pos</span>
+    <span class="n">varrow</span><span class="o">.</span><span class="n">axis</span><span class="o">=</span><span class="n">vscale</span><span class="o">*</span><span class="n">ball</span><span class="o">.</span><span class="n">v</span>
+<span class="c">#    warrow.pos=ball.pos</span>
+<span class="c">#    warrow.axis=wscale*ball.omega</span>
+    <span class="n">t</span><span class="o">=</span><span class="n">t</span><span class="o">+</span><span class="n">dt</span>
+</pre></div>
+
+</div>
+</div>
+</div>
+
+</div>
+    </div></section>
+    </section><section>
+    <section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1522,6 +1890,7 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 </div>
 </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1536,6 +1905,7 @@ window.__context = { glowscript_container: $("#glowscript").removeAttr("id")}
 </div>
 </div>
 </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1547,6 +1917,7 @@ $$Mv+mc=mv^\prime - mc \Longrightarrow \Delta p_x \equiv Mv^\prime-Mv=2mc$$<p>(M
 </div>
 </div>
 </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1561,7 +1932,10 @@ $$Mv+mc=mv^\prime - mc \Longrightarrow \Delta p_x \equiv Mv^\prime-Mv=2mc$$<p>(M
 
 </div>
 </div>
-</div></section></section><section><section>
+</div></section>
+    </section><section>
+    <section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1573,6 +1947,7 @@ $$Mv+mc=mv^\prime - mc \Longrightarrow \Delta p_x \equiv Mv^\prime-Mv=2mc$$<p>(M
 </div>
 </div>
 </div></section><section>
+    
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[6]:</div>
@@ -1611,6 +1986,7 @@ $$Mv+mc=mv^\prime - mc \Longrightarrow \Delta p_x \equiv Mv^\prime-Mv=2mc$$<p>(M
 </div>
 
 </div></section><section>
+    
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[7]:</div>
@@ -1647,6 +2023,7 @@ $$Mv+mc=mv^\prime - mc \Longrightarrow \Delta p_x \equiv Mv^\prime-Mv=2mc$$<p>(M
 </div>
 
 </div></section><section>
+    
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[8]:</div>
@@ -1683,6 +2060,7 @@ $$Mv+mc=mv^\prime - mc \Longrightarrow \Delta p_x \equiv Mv^\prime-Mv=2mc$$<p>(M
 </div>
 
 </div></section><section>
+    
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[9]:</div>
@@ -1719,6 +2097,7 @@ $$Mv+mc=mv^\prime - mc \Longrightarrow \Delta p_x \equiv Mv^\prime-Mv=2mc$$<p>(M
 </div>
 
 </div></section><section>
+    
 <div class="cell border-box-sizing code_cell rendered">
 <div class="input">
 <div class="prompt input_prompt">In&nbsp;[10]:</div>
@@ -1755,6 +2134,7 @@ $$Mv+mc=mv^\prime - mc \Longrightarrow \Delta p_x \equiv Mv^\prime-Mv=2mc$$<p>(M
 </div>
 
 </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1767,6 +2147,7 @@ $$Mv+mc=mv^\prime - mc \Longrightarrow \Delta p_x \equiv Mv^\prime-Mv=2mc$$<p>(M
 </div>
 </div>
 </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1778,6 +2159,7 @@ $$Mv+mc=mv^\prime - mc \Longrightarrow \Delta p_x \equiv Mv^\prime-Mv=2mc$$<p>(M
 </div>
 </div>
 </div></section><section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1787,7 +2169,10 @@ $$Mv+mc=mv^\prime - mc \Longrightarrow \Delta p_x \equiv Mv^\prime-Mv=2mc$$<p>(M
 
 </div>
 </div>
-</div></section></section><section><section>
+</div></section>
+    </section><section>
+    <section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1798,7 +2183,10 @@ $$Mv+mc=mv^\prime - mc \Longrightarrow \Delta p_x \equiv Mv^\prime-Mv=2mc$$<p>(M
 
 </div>
 </div>
-</div></section></section><section><section>
+</div></section>
+    </section><section>
+    <section>
+    
 <div class="cell border-box-sizing text_cell rendered">
 <div class="prompt input_prompt">
 </div>
@@ -1825,61 +2213,62 @@ $$Mv+mc=mv^\prime - mc \Longrightarrow \Delta p_x \equiv Mv^\prime-Mv=2mc$$<p>(M
 </div>
 </div>
 
-</div></section></section>
+</div></section>
+    </section>
 </div>
 </div>
+
+<script src="reveal.js/lib/js/head.min.js"></script>
+
+<script src="reveal.js/js/reveal.js"></script>
 
 <script>
 
-require(
-    {
-      // it makes sense to wait a little bit when you are loading
-      // reveal from a cdn in a slow connection environment
-      waitSeconds: 15
-    },
-    [
-      "reveal.js/lib/js/head.min.js",
-      "reveal.js/js/reveal.js"
-    ],
+// Full list of configuration options available here: https://github.com/hakimel/reveal.js#configuration
+Reveal.initialize({
+controls: true,
+progress: true,
+history: true,
 
-    function(head, Reveal){
+theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
+transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/none
 
-        // Full list of configuration options available here: https://github.com/hakimel/reveal.js#configuration
-        Reveal.initialize({
-            controls: true,
-            progress: true,
-            history: true,
+// Optional libraries used to extend on reveal.js
+dependencies: [
+{ src: "reveal.js/lib/js/classList.js", condition: function() { return !document.body.classList; } },
+{ src: "reveal.js/plugin/notes/notes.js", async: true, condition: function() { return !!document.body.classList; } }
+]
+});
+</script>
 
-            theme: Reveal.getQueryHash().theme, // available themes are in /css/theme
-            transition: Reveal.getQueryHash().transition || 'linear', // default/cube/page/concave/zoom/linear/none
+<!-- Loading mathjax macro -->
+<!-- Load mathjax -->
+    <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_HTML"></script>
+    <!-- MathJax configuration -->
+    <script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+            processEscapes: true,
+            processEnvironments: true
+        },
+        // Center justify equations in code and markdown cells. Elsewhere
+        // we use CSS to left justify single line equations in code cells.
+        displayAlign: 'center',
+        "HTML-CSS": {
+            styles: {'.MathJax_Display': {"margin": 0}},
+            linebreaks: { automatic: true }
+        }
+    });
+    </script>
+    <!-- End of mathjax configuration -->
 
-            // Optional libraries used to extend on reveal.js
-            dependencies: [
-                { src: "reveal.js/lib/js/classList.js",
-                  condition: function() { return !document.body.classList; } },
-                { src: "reveal.js/plugin/notes/notes.js",
-                  async: true,
-                  condition: function() { return !!document.body.classList; } }
-            ]
-        });
-
-        var update = function(event){
-          if(MathJax.Hub.getAllJax(Reveal.getCurrentSlide())){
-            MathJax.Hub.Rerender(Reveal.getCurrentSlide());
-          }
-        };
-
-        Reveal.addEventListener('slidechanged', update);
-
-        var update_scroll = function(event){
-          $(".reveal").scrollTop(0);
-        };
-
-        Reveal.addEventListener('slidechanged', update_scroll);
-
-    }
-);
-
+<script>
+Reveal.addEventListener( 'slidechanged', function( event ) {
+  window.scrollTo(0,0);
+  MathJax.Hub.Rerender(event.currentSlide);
+});
 </script>
 
 </body>
