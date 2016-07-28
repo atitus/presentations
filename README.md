@@ -1,7 +1,7 @@
 # Presentations
 These are my presentations on topics such as teaching physics and computational modeling. Presentations are generally in both Jupyter Notebook and html formats.
 
-- 07/18/16, 2016 AAPT Summer Meeting, "The Role of Computational Modeling in Engaging and Developing Successful Physics Students"
+- 07/18/16, 2016 AAPT Summer Meeting, "The Role of Computational Modeling in Engaging and Developing Successful Physics Students" (<a href="https://nbviewer.jupyter.org/github/atitus/presentations/blob/master/aapts16-07-18-16/presentation-aapts16.ipynb">Jupyter</a>)
 
 - 05/20/16, High Point University SoTL Conference, "Teaching Professional Computational Modeling Skills with Jupyter"
 
