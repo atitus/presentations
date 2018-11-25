@@ -1,0 +1,8 @@
+Reasoning in Small Time Steps
+
+Numerical techniques for integration are hardly taught in a typical calculus course and are hardly used in a typical physics course. Yet, numerical integration is an essential tool in current research and development in science and engineering. How do we bridge this gap between what modern students need and what we traditionally teach? The answer is to think iteratively. I will present examples across the physics curriculum using VPython (or the web-based version, GlowScript) which provides 3D visualization and a low barrier to learning numerical methods.
+
+
+
+
+

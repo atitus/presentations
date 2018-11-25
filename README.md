@@ -1,6 +1,10 @@
 # Presentations
 These are my presentations on topics such as teaching physics and computational modeling.
 
+- 11/16/18, Appalachian State University, "Reasoning in Small Time Steps" (Jupyter file: )
+
+- 07/30/18, 2018 AAPT Summer Meeting, "Integrating Computation into Courses from General Education to Intermediate Physics" ()
+
 - 09/13/17, 2017 Multimedia in Physics Teaching and Learning, "Teaching Physics with Computation Using Jupyter Notebook" (Jupyter file: [presentation.pynb](http://nbviewer.jupyter.org/github/atitus/presentations/blob/master/mptl-09-13-17/presentation.ipynb))
 
 - 05/19/17, 2017 JupyterDay Philly, "Teaching Physics with Computation Using Jupyter Notebook and VPython" (Jupyter file: [brynmawr-05-19-17.ipynb](http://nbviewer.jupyter.org/github/atitus/presentations/blob/master/brynmawr-05-19-17/brynmawr-05-19-17.ipynb))
